@@ -1,13 +1,6 @@
 # Julián Perez Krohn
-### A Hideo Kojima wannabe?
 
-## Contents
- - [Who am I?](#Who-am-I?) 
- - [Links](#Links)
- - [Projects Made at Futuregames](#Projects-Made-at-Futuregames)
-
-   
-#### Who am I?
+#### Who am I? A Hideo Kojima wannabe?
 - **Game design student**
 - Tabletop RPG enjoyer and Dungeon Master since 2021
 - Hardcore PC gamer
@@ -16,42 +9,73 @@
 
 I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objective of getting into the gaming industry. 
 
-#### Links
+<img width="400" height="600" alt="poster" src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
 
-[**CV**](https://drive.google.com/file/d/1Hb6IBp9YGe9TmBztAOWpOxOFAf6dEskc/view)
+---
+
+<details>
+
+<summary>More about me</summary>
+
+I'm 28 years old, born and raised in Argentina, and surrounded by games since childhood. From playing card games with grandparents and boardgames with cousins, to playing sports at school and videogames with friends; I have always been a fan of the social interactions that comes out of playing games: competitiveness, cooperation, deception, and most importantly, **joy**. 
+
+I've been thinking of making games since I was 13, and slowy but surely, I'm moving forwards with the objective of entering the industry to develop my profesional skills, gain valuable experience and build connections. My ultimate goal is making a meaningful impact on both the industry and the world.
+
+<img width="400" height="600" alt="poster" src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
+
+> A picture of me from past halloween dressed as Harrier DuBouis from Disco Elysium.
+
+</details>
+
+---
+
+#### Important links
 
 [**Linktree**](https://linktr.ee/jpkrohn97)
 
 ---
 
-## Projects Made at Futuregames
+<details>
 
-[**No* Animal Crossing**](NoAnimalCrossing.md)
+<summary>Projects made at Futuregames Warsaw</summary>
 
-[PLAY IN BROWSER](https://jpkrohn97.itch.io/no-animal-crossing)
+---
 
-<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />
+[No* Animal Crossing](NoAnimalCrossing.md)
+
+[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />](NoAnimalCrossing.md)
 
 ---
 
 [**Project Trash**](ProjectTrash.md)
 
-[PLAY IT ON BROWSER](https://futuregames.itch.io/projecttrash)
-
-<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />
+[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />](ProjectTrash.md)
 
 ---
 
 [**Ecdysis**](Ecdysis.md)
 
+[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />](Ecdysis.md)
+
+</details>
+
 ---
+
+<details>
+
+<summary>Games made outside Futuregames</summary>
 
 [**Necromeowcy**](Necromeowcy.md)
-[**PLAY IT ON BROWSER**](https://untalpanda.itch.io/necromeowcy)
+
+[<img width="450" height="450" alt="Horizontal" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />](Necromeowcy.md)
+
+</details>
 
 ---
 
-### Game design besides videogames
+<details>
+
+<summary>Game design besides videogames</summary>
 
 #### Boardgames
 
@@ -68,11 +92,7 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 This is me during the final encounter of the campaign,
 **"Descent into Avernus" (D&D 5e, 2014)**.
 ```
+</details>
 
 ---
 
-### More about me
-I was born and raised in Argentina, and surrounded by games since childhood. From playing card games with grandparents and boardgames with cousins, to playing sports at school and videogames with friends; I have always been a fan of the social interactions that comes out of playing games: competitiveness, cooperation, deception, and most importantly, **joy**. 
-I've been thinking of making games since I was 13, and slowy but surely, I'm moving forwards with the objective of entering the industry to develop my profesional skills, gain valuable experience and build connections. My ultimate goal is making a meaningful impact on both the industry and the world.
-
-```A picture of me, past halloween dressed as Harrier DuBouis from Disco Elysium.```
