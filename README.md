@@ -9,7 +9,7 @@
 
 I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objective of getting into the gaming industry. 
 
-<img width="400" height="600" alt="poster" src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
+<img width="400" height="500" alt="poster" src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
 
 ---
 
@@ -21,9 +21,9 @@ I'm 28 years old, born and raised in Argentina, and surrounded by games since ch
 
 I've been thinking of making games since I was 13, and slowy but surely, I'm moving forwards with the objective of entering the industry to develop my profesional skills, gain valuable experience and build connections. My ultimate goal is making a meaningful impact on both the industry and the world.
 
-<img width="400" height="600" alt="poster" src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
+<img width="400" height="500" alt="poster" src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
 
-> A picture of me from past halloween dressed as Harrier DuBouis from Disco Elysium.
+> Past halloween dressed as Harrier DuBouis from Disco Elysium.
 
 </details>
 
