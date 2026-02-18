@@ -28,6 +28,8 @@ The game features an infinite stream of randomized items transported on a convey
 - Some bugs were present, but none were game-breaking
 - Certain items were hard to grab and throw
 
+<img width="600" height="400" alt="gp1spoke" src="https://github.com/user-attachments/assets/47a9b9d9-d4df-4c91-b516-4bcfb94d5eec" />
+
 ### Future Plans
 I'm planning to upload the game to Steam, to gather player feedback and increase exposure, as I feel that Itch.io is somewhat limited. Before doing so, I intend to implement improvements based on the jury’s feedback.
 
