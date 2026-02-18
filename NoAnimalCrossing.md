@@ -1,4 +1,4 @@
-<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" />
 
 # No* Animal Crossing 
 
@@ -22,6 +22,6 @@ Does the game require skill? Yes, otherwise how are you supposed to time a car t
 ### How was it received?
 During that time, the guys had a blast playing it and competing one another trying to reach high-scores. I was impressed that they liked it so much. Some even commented that the original idea seemed silly and boring, but they saw the appealing of timing the cars to hit the target, and then using trucks tactically to defeat groups of enemies.
 
-<img width="900" height="700" alt="kKtNTr" src="https://github.com/user-attachments/assets/089dde3a-59fa-42ff-b258-c6da373f1fa5" />
+<img width="600" height="500" alt="kKtNTr" src="https://github.com/user-attachments/assets/089dde3a-59fa-42ff-b258-c6da373f1fa5" />
 
 > This are not the highest scores achived, but they were the highest recorded by me.
