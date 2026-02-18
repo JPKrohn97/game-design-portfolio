@@ -1,7 +1,7 @@
 # Julián Perez Krohn
 
 #### Who am I? A Hideo Kojima wannabe?
-- **Game design student**
+- ***Game design student***
 - Tabletop RPG enjoyer and Dungeon Master since 2021
 - Hardcore PC gamer
 - Boardgame aficionado
