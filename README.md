@@ -37,7 +37,7 @@ I've been thinking of making games since I was 13, and slowy but surely, I'm mov
 
 <details>
 
-<summary>Projects made at Futuregames Warsaw</summary>
+<summary>Games made at Futuregames Warsaw</summary>
 
 ---
 
@@ -63,7 +63,7 @@ I've been thinking of making games since I was 13, and slowy but surely, I'm mov
 
 <details>
 
-<summary>Games made outside Futuregames</summary>
+<summary>Other videogames</summary>
 
 [**Necromeowcy**](Necromeowcy.md)
 
