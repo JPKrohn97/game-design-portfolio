@@ -44,30 +44,9 @@ During that time, the guys had a blast playing it and competing one another tryi
 
 <img width="1920" height="1080" alt="Horizontal" src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />
 
-### Project Trash 
+###  
 
-[**PLAY IN BROWSER**](https://futuregames.itch.io/projecttrash)
-
-I would say it my most successful game so far, I not only worked as a game designer, but also, it was my first experience leading a team as a **Product Owner**. I guided a team of thirteen to create an entertaining arcade game based on my vision.
-
-#### Development Process
-Once the teams were revealed and we gained access to the Discord group, we immediately joined a Miro board to brainstorm ideas. We knew the game had to be an arcade, and optionally, it could include a green theme. During brainstorming, a UX/UI team member mentioned how fun physics-based games are. We all agreed, but we needed to narrow down the concept to fit a three-week development scope. After a second brainstorming session, my idea was chosen. From that moment on, I became the **Product Owner and spokesperson** of the team.
-
-#### Game Concept
-The game features an infinite stream of randomized items transported on a conveyor belt into a limited space that the player must keep clear to prevent overspilling. These items are different recyclable materials, which the player must sort them correctly. Incorrect sorting or dropped items count as mistakes, after a certain number of mistakes, the game ends. The goal was to combine fast-paced arcade gameplay with an educational message.
-
-<img width="745" height="533" alt="4iakFT" src="https://github.com/user-attachments/assets/41da413b-8ebc-436f-8d90-257f9a57109b" />
-
-#### Jury Feedback
-- The game was fun
-- The pacing was slower than advertised
-- A timer-based mode could replace the game-over condition
-- Some items were confusing to sort
-- Some bugs were present, but none were game-breaking
-- Certain items were hard to grab and throw
-
-#### Future Plans
-I'm planning to upload the game to Steam, to gather player feedback and increase exposure, as I feel that Itch.io is somewhat limited. Before doing so, I intend to implement improvements based on the jury’s feedback.
+[**Project Trash**](https://jpkrohn97.github.io/game-design-portfolio/projecttrash)
 
 ---
 
@@ -94,11 +73,10 @@ I'm planning to upload the game to Steam, to gather player feedback and increase
 
 ### TTRPGs and being a Dungeon Master
 
-<img width="1187" height="1144" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
+<img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
 ``` This is me during the final encounter of the campaign,```
-``` **"Descent into Avernus" (D&D 5e, 2014)**.```
 
-*(To be added)*
+``` **"Descent into Avernus" (D&D 5e, 2014)**.```
 
 ---
 
