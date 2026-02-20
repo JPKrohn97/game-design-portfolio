@@ -59,12 +59,19 @@ title: Julián Perez Krohn
     <div>
       
     <h3>Favourite videogames</h3>
-      
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" />
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" />
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" />
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" />
 
+      <a href="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" target="_blank">
+        <img src="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" alt="Favourite videogames 1">
+      </a>
+      <a href="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" target="_blank">
+        <img src="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" alt="Favourite videogames 2">
+      </a>
+      <a href="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" target="_blank">
+        <img src="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" alt="Favourite videogames 3">
+      </a>
+      <a href="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" target="_blank">
+        <img src="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" alt="Favourite videogames 4">
+      </a>
            </div>
     <div>
     <h3>Favourite boardgames</h3>
