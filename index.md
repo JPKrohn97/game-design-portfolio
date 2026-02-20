@@ -34,6 +34,7 @@ title: Julián Perez Krohn
     <details class="expandable">
       <summary>More about me</summary>
 
+    <div>
       <p>
         I'm 28 years old, born and raised in Argentina, and surrounded by games
         since childhood. From playing card games with grandparents and boardgames
@@ -53,33 +54,57 @@ title: Julián Perez Krohn
 
       <img width="400" height="500" alt="poster"
            src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
+
+           </div>
+    <div>
+      
+    <h3>Favourite videogames</h3>
+      
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" />
+
+           </div>
+    <div>
+    <h3>Favourite boardgames</h3>
+
+<img width="900" height="800" alt="favgames" src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" />
+           </div>
     </details>
 
   </aside>
 
   <main class="content">
 
-    <section>
+    <section class="projects">
       <h2>Games made at Futuregames Warsaw</h2>
 
-      <h3><a href="NoAnimalCrossing.md">No* Animal Crossing</a></h3>
-      <a href="NoAnimalCrossing.md">
-        <img width="450" height="300"
-             src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />
-      </a>
+      <div class="projects-grid">
+        <div class="project-card">
+          <h3><a href="NoAnimalCrossing.md">No* Animal Crossing</a></h3>
+          <a href="NoAnimalCrossing.md">
+            <img src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" alt="NoAnimalCrossing">
+          </a>
+        </div>
 
-      <h3><a href="ProjectTrash.md">Project Trash</a></h3>
-      <a href="ProjectTrash.md">
-        <img width="450" height="300"
-             src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />
-      </a>
+      <div class="project-card">
+        <h3><a href="ProjectTrash.md">Project Trash</a></h3>
+        <a href="ProjectTrash.md">
+          <img src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" alt="ProjectTrash">
+        </a>
+      </div>
 
-      <h3><a href="Ecdysis.md">Ecdysis</a></h3>
-      <a href="Ecdysis.md">
-        <img width="450" height="300"
-             src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />
-      </a>
-    </section>
+      <div class="project-card">
+        <h3><a href="Ecdysis.md">Ecdysis</a></h3>
+        <a href="Ecdysis.md">
+          <img src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" alt="Ecdysis">
+        </a>
+      </div>
+
+    <!-- Agrega más proyectos y se distribuirán automáticamente -->
+  </div>
+</section>
 
     <section>
       <h2>Other videogames</h2>
