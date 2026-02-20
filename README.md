@@ -111,6 +111,8 @@ This was my idea in which I wanted to mix the easy core of Uno, but give it a tw
 
 <summary>More about me</summary>
 
+---
+
 I'm 28 years old, born and raised in Argentina, and surrounded by games since childhood. From playing card games with grandparents and boardgames with cousins, to playing sports at school and videogames with friends; I have always been a fan of the social interactions that comes out of playing games: competitiveness, cooperation, deception, and most importantly, **joy**. 
 
 I've been thinking of making games since I was 13, and slowy but surely, I'm moving forwards with the objective of entering the industry to develop my profesional skills, gain valuable experience and build connections. My ultimate goal is making a meaningful impact on both the industry and the world.
@@ -119,8 +121,21 @@ I've been thinking of making games since I was 13, and slowy but surely, I'm mov
 
 > Past halloween dressed as Harrier DuBouis from Disco Elysium.
 
+---
+
+##### Favourite videogames
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" />
+
+---
+
 ##### Favourite boardgames
 
 <img width="900" height="900" alt="favgames" src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" />
 
 </details>
+
+---
