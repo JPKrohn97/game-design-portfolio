@@ -61,8 +61,8 @@ title: Julián Perez Krohn
   <h2>Games made at Futuregames Warsaw</h2>
   <div class="projects-container">
     <div class="project-card">
-      <h3><a href="NoAnimalCrossing.md">No* Animal Crossing</a></h3>
-      <a href="NoAnimalCrossing.md">
+      <h3><a href="NoAnimalCrossing.html">No* Animal Crossing</a></h3>
+      <a href="NoAnimalCrossing.html">
         <img src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" alt="NoAnimalCrossing">
       </a>
     </div>
