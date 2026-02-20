@@ -67,14 +67,14 @@ title: Julián Perez Krohn
       </a>
     </div>
     <div class="project-card">
-      <h3><a href="ProjectTrash.md">Project Trash</a></h3>
-      <a href="ProjectTrash.md">
+      <h3><a href="ProjectTrash.html">Project Trash</a></h3>
+      <a href="ProjectTrash.html">
         <img src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" alt="ProjectTrash">
       </a>
     </div>
     <div class="project-card">
-      <h3><a href="Ecdysis.md">Ecdysis</a></h3>
-      <a href="Ecdysis.md">
+      <h3><a href="Ecdysis.html">Ecdysis</a></h3>
+      <a href="Ecdysis.html">
         <img src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" alt="Ecdysis">
       </a>
     </div>
