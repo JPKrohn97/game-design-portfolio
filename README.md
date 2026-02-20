@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
 # Julián Perez Krohn
 
 ### Who am I? A Hideo Kojima wannabe?
