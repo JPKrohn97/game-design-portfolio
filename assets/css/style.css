@@ -36,8 +36,8 @@ body {
 }
 
 .project-card {
-  flex: 1 1 30%;   /* 45% de ancho mínimo, crecer hasta disponible */
-  max-width: 40%;  /* evita que un proyecto crezca demasiado */
+  flex: 1 1 45%;   /* 45% de ancho mínimo, crecer hasta disponible */
+  max-width: 45%;  /* evita que un proyecto crezca demasiado */
   background-color: #111827;
   padding: 1rem;
   border-radius: 12px;
