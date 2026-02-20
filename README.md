@@ -23,15 +23,19 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 
 [No* Animal Crossing](NoAnimalCrossing.md)
 
-[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />](NoAnimalCrossing.md)
+<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />
+
+---
 
 [**Project Trash**](ProjectTrash.md)
 
-[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />](ProjectTrash.md)
+<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />
+
+---
 
 [**Ecdysis**](Ecdysis.md)
 
-[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />](Ecdysis.md)
+<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />
 
 </details>
 
@@ -43,7 +47,7 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 
 [**Necromeowcy**](Necromeowcy.md)
 
-[<img width="450" height="450" alt="Horizontal" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />](Necromeowcy.md)
+<img width="450" height="450" alt="Horizontal" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />
 
 </details>
 
