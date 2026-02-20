@@ -18,8 +18,7 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 
 <img width="450" height="200" alt="FG_Horizontal_BlackNOBG" src="https://github.com/user-attachments/assets/e3127679-95a3-4512-b6d6-f9fb6bd80eef" />
 
-<details>
-<summary><strong>Games made at Futuregames Warsaw</strong></summary>
+## Games made at Futuregames Warsaw
 
 ### [No* Animal Crossing](/NoAnimalCrossing.html)
 
@@ -37,29 +36,23 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 
 [<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />](Ecdysis.html)
 
-</details>
-
 ---
 
-<details>
-<summary><strong>Other videogames</strong></summary>
+## Other videogames
 
 ### [Necromeowcy](https://jpkrohn97.github.io/game-design-portfolio/Necromeowcy.html)
 
 [<img width="450" height="450" alt="Horizontal" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />](Necromeowcy.md)
 
-</details>
-
 ---
 
-<details>
-<summary><strong>Game design besides videogames</strong></summary>
+## Game design besides videogames
 
-## Boardgames
+### Boardgames
 
 These games were made during a Futuregames assigment in which we were tasked to improvise a boardgame in team, with some limitations. It was a good first excercise for team building and learn how to make pen and paper prototypes.
 
-### Medivuno (Unfinished game)
+#### Medivuno (Unfinished game)
 
 This was my idea in which I wanted to mix the easy core of Uno, but give it a twist by introducing Mafia-esque roles, and on top of that make it closer to D&D style of chacters and situation for the players to fight over.
 
@@ -67,11 +60,13 @@ This was my idea in which I wanted to mix the easy core of Uno, but give it a tw
 
 <img width="900" height="600" alt="Captura de pantalla 2025-10-02 145354" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
 
-### One more king
+#### One more king
 
-## TTRPGs and being a Dungeon Master
+---
 
-### Adventures run as DM
+### TTRPGs and being a Dungeon Master
+
+#### Adventures run as DM
 
 - Descent into Avernus (D&D 5e)
 - Death pit of Molloch (D&D 5e)
@@ -91,12 +86,9 @@ This was my idea in which I wanted to mix the easy core of Uno, but give it a tw
 - Daggerheart
 - Vampire The Masquerade 20th Anniversary Edition
 
-</details>
-
 ---
 
-<details>
-<summary><strong>More about me</strong></summary>
+## More about me
 
 I'm 28 years old, born and raised in Argentina, and surrounded by games since childhood. From playing card games with grandparents and boardgames with cousins, to playing sports at school and videogames with friends; I have always been a fan of the social interactions that comes out of playing games: competitiveness, cooperation, deception, and most importantly, **joy**.
 
@@ -116,5 +108,3 @@ I've been thinking of making games since I was 13, and slowy but surely, I'm mov
 ##### Favourite boardgames
 
 <img width="900" height="900" alt="favgames" src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" />
-
-</details>
