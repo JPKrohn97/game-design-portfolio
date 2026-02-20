@@ -28,16 +28,20 @@ body {
   margin-top: 1rem;
 }
 
-.projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem; /* espacio entre proyectos */
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;       /* espacio entre proyectos */
+  justify-content: flex-start;
 }
 
 .project-card {
+  flex: 1 1 45%;   /* 45% de ancho mínimo, crecer hasta disponible */
+  max-width: 45%;  /* evita que un proyecto crezca demasiado */
   background-color: #111827;
   padding: 1rem;
   border-radius: 12px;
+  box-sizing: border-box;
   text-align: center;
 }
 
@@ -45,7 +49,6 @@ body {
   width: 100%;
   height: auto;
   border-radius: 8px;
-  margin-top: 0.5rem;
 }
 
 img {
@@ -54,8 +57,12 @@ img {
   border-radius: 8px;
 }
 
-/* Mobile */
-@media (max-width: 900px) {
+/* Responsive para móvil */
+@media (max-width: 768px) {
+  .project-card {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
   .layout {
     grid-template-columns: 1fr;
   }
