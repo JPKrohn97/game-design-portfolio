@@ -15,75 +15,108 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 
 ---
 
-<img width="300" height="200" alt="FG_Horizontal_WhiteNOBG (1)" src="https://github.com/user-attachments/assets/1bbf8cd5-3166-45d9-8e07-6680645112e9" />
+
+<img width="300" height="200" alt="FG_Horizontal_BlackNOBG" src="https://github.com/user-attachments/assets/e3127679-95a3-4512-b6d6-f9fb6bd80eef" />
 
 
 <details>
+
 
 <summary>Games made at Futuregames Warsaw</summary>
 
+
 ---
+
 
 [No* Animal Crossing](NoAnimalCrossing.md)
 
+
 [<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />](NoAnimalCrossing.md)
 
+
 ---
+
 
 [**Project Trash**](ProjectTrash.md)
 
+
 [<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />](ProjectTrash.md)
 
+
 ---
+
 
 [**Ecdysis**](Ecdysis.md)
 
+
 [<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />](Ecdysis.md)
+
 
 </details>
 
+
 ---
 
+
 <details>
+
 
 <summary>Other videogames</summary>
 
+
 ---
+
 
 [**Necromeowcy**](Necromeowcy.md)
 
+
 [<img width="450" height="450" alt="Horizontal" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />](Necromeowcy.md)
+
 
 </details>
 
+
 ---
+
 
 <details>
 
+
 <summary>Game design besides videogames</summary>
+
 
 ---
 
+
 ## Boardgames
+
 
 These games were made during a Futuregames assigment in which we were tasked to improvise a boardgame in team, with some limitations. It was a good first excercise for team building and learn how to make pen and paper prototypes.
 
+
 ### Medivuno (Unfinished game)
+
 
 This was my idea in which I wanted to mix the easy core of Uno, but give it a twist by introducing Mafia-esque roles, and on top of that make it closer to D&D style of chacters and situation for the players to fight over.
 
+
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
+
 
 <img width="900" height="600" alt="Captura de pantalla 2025-10-02 145354" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
 
 
 ### One more king
 
+
 ---
+
 
 ## TTRPGs and being a Dungeon Master
 
+
 ### Adventures run as DM
+
 
 - Descent into Avernus (D&D 5e)
 - Death pit of Molloch (D&D 5e)
@@ -91,7 +124,9 @@ This was my idea in which I wanted to mix the easy core of Uno, but give it a tw
 - The lost kenku (D&D 5e)
 - Grim Hollow [1-3] (D&D 5e)
 
+
 <img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
+
 
 > This is me during the final encounter of the campaign, **Descent into Avernus**.
 
