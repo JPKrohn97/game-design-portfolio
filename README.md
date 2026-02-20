@@ -16,7 +16,7 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 
 ---
 
-<img width="450" height="200" alt="FG_Horizontal_BlackNOBG" src="https://github.com/user-attachments/assets/e3127679-95a3-4512-b6d6-f9fb6bd80eef" />
+<img width="450" height="150" alt="FG_Horizontal_BlackNOBG" src="https://github.com/user-attachments/assets/e3127679-95a3-4512-b6d6-f9fb6bd80eef" />
 
 ## Games made at Futuregames Warsaw
 
@@ -52,9 +52,9 @@ These games were made during a Futuregames assigment in which we were tasked to 
 
 This was my idea in which I wanted to mix the easy core of Uno, but give it a twist by introducing Mafia-esque roles, and on top of that make it closer to D&D style of chacters and situation for the players to fight over.
 
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
 
-<img width="900" height="600" alt="Captura de pantalla 2025-10-02 145354" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
+<img width="450" height="300" alt="Captura de pantalla 2025-10-02 145354" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
 
 #### One more king
 
@@ -70,7 +70,7 @@ This was my idea in which I wanted to mix the easy core of Uno, but give it a tw
 - The lost kenku (D&D 5e)
 - Grim Hollow [1-3] (D&D 5e)
 
-<img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
+<img width="450" height="450" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
 
 > This is me during the final encounter of the campaign, **Descent into Avernus**.
 
@@ -103,4 +103,4 @@ I've been thinking of making games since I was 13, and slowy but surely, I'm mov
 
 #### Favourite boardgames
 
-<img width="900" height="900" alt="favgames" src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" />
+<img width="900" height="800" alt="favgames" src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" />
