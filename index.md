@@ -5,7 +5,6 @@ title: Julián Perez Krohn
 
 <div class="layout">
 
-  <!-- COLUMNA IZQUIERDA -->
   <aside class="sidebar">
 
     <h1>Julián Perez Krohn</h1>
@@ -26,13 +25,12 @@ title: Julián Perez Krohn
     </p>
 
     <img width="300" height="400" alt="poster"
-      src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
+         src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
 
     <p>
       <a href="https://linktr.ee/jpkrohn97"><strong>Linktree</strong></a>
     </p>
 
-    <!-- BOTÓN EXPANDIBLE -->
     <details class="expandable">
       <summary>More about me</summary>
 
@@ -54,53 +52,45 @@ title: Julián Perez Krohn
       </p>
 
       <img width="400" height="500" alt="poster"
-        src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
-
+           src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
     </details>
 
   </aside>
 
-  <!-- COLUMNA DERECHA -->
   <main class="content">
 
-    <!-- FUTUREGAMES -->
     <section>
       <h2>Games made at Futuregames Warsaw</h2>
 
       <h3><a href="NoAnimalCrossing.md">No* Animal Crossing</a></h3>
       <a href="NoAnimalCrossing.md">
         <img width="450" height="300"
-          src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />
+             src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />
       </a>
 
       <h3><a href="ProjectTrash.md">Project Trash</a></h3>
       <a href="ProjectTrash.md">
         <img width="450" height="300"
-          src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />
+             src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />
       </a>
 
       <h3><a href="Ecdysis.md">Ecdysis</a></h3>
       <a href="Ecdysis.md">
         <img width="450" height="300"
-          src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />
+             src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />
       </a>
     </section>
 
-    <!-- EXTERNOS -->
     <section>
       <h2>Other videogames</h2>
 
-      <h3>
-        <a href="Necromeowcy.html">Necromeowcy</a>
-      </h3>
-
+      <h3><a href="Necromeowcy.html">Necromeowcy</a></h3>
       <a href="Necromeowcy.html">
         <img width="450" height="450"
-          src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />
+             src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />
       </a>
     </section>
 
-    <!-- NO VIDEOJUEGOS -->
     <section>
       <h2>Game design besides videogames</h2>
 
@@ -116,10 +106,10 @@ title: Julián Perez Krohn
       </p>
 
       <img width="450" height="300"
-        src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
+           src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
 
       <img width="450" height="300"
-        src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
+           src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
     </section>
 
   </main>
