@@ -4,29 +4,22 @@ title: Necromeowcy
 ---
 
 <main class="project-page">
-
-  <img width="300" height="300" alt="Necromeowcy Logo"
-       src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
-
+  <img width="300" height="300" alt="Necromeowcy Logo" src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
   <h1>Necromeowcy</h1>
-
   <p>
     <a href="https://untalpanda.itch.io/necromeowcy" target="_blank">
       <strong>PLAY IN BROWSER</strong>
     </a>
   </p>
-
   <p>
     We tried making a city builder game for a gamejam that was overscoped in just one week. I'm impressed what we achieved with little experience.
   </p>
-
   <section class="project-section">
     <h2>Game jam theme</h2>
     <p>
       I remember that the team got together at Futuregames to brainstorm ideas a few hours before the jam start, but when it was revealed, we needed to scrap most of it. "Borrowed Time", at first glance it was a strange theme to build a game around, so we took the few ideas that could be useful and tried making them make sense. Necromancy was a big idea that was shared among most of the team members, but how could it be used? Having a dead army for what purpose? What if the necromancer is not evil and uses the dead to serve the living.
     </p>
   </section>
-
   <section class="project-section">
     <h2>Core concept</h2>
     <p>
@@ -42,7 +35,6 @@ title: Necromeowcy
       <em>Brainstormed mechanics and systems for the game.</em>
     </p>
   </section>
-
   <section class="project-section">
     <h2>Economy system</h2>
     <p>
@@ -51,5 +43,4 @@ title: Necromeowcy
       </a>
     </p>
   </section>
-
 </main>
