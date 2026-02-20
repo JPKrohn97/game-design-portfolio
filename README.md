@@ -15,7 +15,7 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 
 ---
 
-<img width="300" height="200" alt="FG_Horizontal_BlackNOBG" src="https://github.com/user-attachments/assets/e3127679-95a3-4512-b6d6-f9fb6bd80eef" />
+<img width="450" height="200" alt="FG_Horizontal_BlackNOBG" src="https://github.com/user-attachments/assets/e3127679-95a3-4512-b6d6-f9fb6bd80eef" />
 
 <details>
 
