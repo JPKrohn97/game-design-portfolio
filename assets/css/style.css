@@ -16,3 +16,8 @@
 .content {
   flex: 1;
 }
+
+body {
+  font-family: 'Roboto', system-ui, -apple-system, BlinkMacSystemFont,
+               'Segoe UI', Arial, sans-serif;
+}
