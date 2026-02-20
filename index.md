@@ -28,7 +28,7 @@ title: Julián Perez Krohn
          src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
 
     <p>
-      <a href="https://linktr.ee/jpkrohn97"><strong>Linktree</strong></a>
+      <h3>Important links: <a href="https://linktr.ee/jpkrohn97"><strong>Linktree</strong></a></h3>
     </p>
 
     <details class="expandable">
