@@ -2,6 +2,10 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
+
+<div class="layout">
+
+  <aside class="sidebar">
 # Julián Perez Krohn
 
 ### Who am I? A Hideo Kojima wannabe?
@@ -17,10 +21,10 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 <img width="300" height="400" alt="poster" src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
 
 #### Important links: [**Linktree**](https://linktr.ee/jpkrohn97)
+  </aside>
 
----
-
-<img width="450" height="150" alt="FG_Horizontal_BlackNOBG" src="https://github.com/user-attachments/assets/e3127679-95a3-4512-b6d6-f9fb6bd80eef" />
+  <main class="content">
+    <img width="450" height="150" alt="FG_Horizontal_BlackNOBG" src="https://github.com/user-attachments/assets/e3127679-95a3-4512-b6d6-f9fb6bd80eef" />
 
 ## Games made at Futuregames Warsaw
 
@@ -43,6 +47,16 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 ### [Necromeowcy](Necromeowcy.md)
 
 [<img width="450" height="450" alt="Horizontal" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />](Necromeowcy.md)
+
+  </main>
+
+</div>
+
+
+
+
+---
+
 
 ---
 
