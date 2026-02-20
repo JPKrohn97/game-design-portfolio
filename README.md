@@ -21,19 +21,19 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 
 <summary>Games made at Futuregames Warsaw</summary>
 
-## [No* Animal Crossing](https://jpkrohn97.github.io/game-design-portfolio/NoAnimalCrossing.html)
+## [No* Animal Crossing](../NoAnimalCrossing.md)
 
 <img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />
 
 ---
 
-## [**Project Trash**](https://jpkrohn97.github.io/game-design-portfolio/ProjectTrash.html)
+## [**Project Trash**](/ProjectTrash.md)
 
 <img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />
 
 ---
 
-## [**Ecdysis**](https://jpkrohn97.github.io/game-design-portfolio/Ecdysis.html)
+## [**Ecdysis**](./Ecdysis.md)
 
 <img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />
 
