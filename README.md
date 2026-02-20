@@ -1,6 +1,6 @@
 # Julián Perez Krohn
 
-#### Who am I? A Hideo Kojima wannabe?
+### Who am I? A Hideo Kojima wannabe?
 
 - ***Game design student***
 - Tabletop RPG enjoyer and Dungeon Master since 2021
@@ -20,27 +20,23 @@ I moved from Argentina to Poland, to study at Futuregames Warsaw, with the objec
 
 ## Games made at Futuregames Warsaw
 
-### [No* Animal Crossing](/NoAnimalCrossing.html)
+### [No* Animal Crossing](NoAnimalCrossing.md)
 
-[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />](/NoAnimalCrossing.html)
-
----
+[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" />](NoAnimalCrossing.md)
 
 ### [Project Trash](/ProjectTrash.md)
 
 [<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" />](/ProjectTrash.md)
 
----
+### [Ecdysis](Ecdysis.md)
 
-### [Ecdysis](Ecdysis.html)
-
-[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />](Ecdysis.html)
+[<img width="450" height="300" alt="Horizontal" src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" />](Ecdysis.md)
 
 ---
 
 ## Other videogames
 
-### [Necromeowcy](https://jpkrohn97.github.io/game-design-portfolio/Necromeowcy.html)
+### [Necromeowcy](Necromeowcy.md)
 
 [<img width="450" height="450" alt="Horizontal" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />](Necromeowcy.md)
 
@@ -64,9 +60,9 @@ This was my idea in which I wanted to mix the easy core of Uno, but give it a tw
 
 ---
 
-### TTRPGs and being a Dungeon Master
+## TTRPGs and being a Dungeon Master
 
-#### Adventures run as DM
+### Adventures run as DM
 
 - Descent into Avernus (D&D 5e)
 - Death pit of Molloch (D&D 5e)
@@ -98,13 +94,13 @@ I've been thinking of making games since I was 13, and slowy but surely, I'm mov
 
 > Past halloween dressed as Harrier DuBouis from Disco Elysium.
 
-##### Favourite videogames
+#### Favourite videogames
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" />
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" />
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" />
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" />
 
-##### Favourite boardgames
+#### Favourite boardgames
 
 <img width="900" height="900" alt="favgames" src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" />
