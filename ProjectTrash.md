@@ -4,24 +4,19 @@ title: Project Trash
 ---
 
 <main class="project-page">
-
   <img width="600" height="500" alt="Project Trash Poster"
        src="https://github.com/user-attachments/assets/87fd66b7-f22e-454f-bf58-42c518821e41" />
-
   <h1>Project Trash</h1>
-
   <p>
     <a href="https://futuregames.itch.io/projecttrash" target="_blank">
       <strong>PLAY IN BROWSER</strong>
     </a>
   </p>
-
   <section class="project-section">
     <p>
       I would say it is my most successful game so far. I not only worked as a game designer, but it was also my first experience leading a team as a <strong>Product Owner</strong>. I guided a team of thirteen to create an entertaining arcade game based on my vision.
     </p>
   </section>
-
   <section class="project-section">
     <h2>Teaser trailer</h2>
     <p>
@@ -30,7 +25,6 @@ title: Project Trash
       </a>
     </p>
   </section>
-
   <section class="project-section">
     <h2>Development Process</h2>
     <p>
@@ -43,7 +37,6 @@ title: Project Trash
       </a>
     </p>
   </section>
-
   <section class="project-section">
     <h2>Game Concept</h2>
     <p>
@@ -57,7 +50,6 @@ title: Project Trash
       </a>
     </p>
   </section>
-
   <section class="project-section">
     <h2>Jury Feedback</h2>
     <ul>
@@ -74,7 +66,6 @@ title: Project Trash
       </a>
     </p>
   </section>
-
   <section class="project-section">
     <h2>Future Plans</h2>
     <p>
@@ -88,5 +79,4 @@ title: Project Trash
       <em>Our game's mascot, the Trashbubu</em>
     </p>
   </section>
-
 </main>
