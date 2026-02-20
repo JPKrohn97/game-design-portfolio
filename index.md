@@ -1,3 +1,8 @@
+---
+layout: default
+title: Julián Perez Krohn
+---
+
 <div class="layout">
 
   <!-- COLUMNA IZQUIERDA -->
