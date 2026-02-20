@@ -1,4 +1,18 @@
-body {
-  background-color: #212121;
-  color: #fcfcfc;
+@media (max-width: 768px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.layout {
+  display: flex;
+  gap: 2rem;
+}
+
+.sidebar {
+  width: 280px;
+}
+
+.content {
+  flex: 1;
 }
