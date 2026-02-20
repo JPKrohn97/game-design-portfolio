@@ -4,13 +4,9 @@ title: Julián Perez Krohn
 ---
 
 <div class="layout">
-
   <aside class="sidebar">
-
     <h1>Julián Perez Krohn</h1>
-
     <h3>Who am I? A Hideo Kojima wannabe?</h3>
-
     <ul>
       <li><strong><em>Game design student</em></strong></li>
       <li>Tabletop RPG enjoyer and Dungeon Master since 2021</li>
@@ -18,48 +14,27 @@ title: Julián Perez Krohn
       <li>Boardgame aficionado</li>
       <li>Medieval fencing enthusiast</li>
     </ul>
-
     <p>
       I moved from Argentina to Poland, to study at Futuregames Warsaw, with the
       objective of getting into the gaming industry.
     </p>
-
-    <img width="300" height="400" alt="poster"
-         src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
-
+    <img width="300" height="400" alt="poster" src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
     <p>
       <h3>Important links: <a href="https://linktr.ee/jpkrohn97"><strong>Linktree</strong></a></h3>
     </p>
-
     <details class="expandable">
       <summary>More about me</summary>
-
     <div>
       <p>
-        I'm 28 years old, born and raised in Argentina, and surrounded by games
-        since childhood. From playing card games with grandparents and boardgames
-        with cousins, to playing sports at school and videogames with friends; I
-        have always been a fan of the social interactions that comes out of
-        playing games: competitiveness, cooperation, deception, and most
-        importantly, <strong>joy</strong>.
+        I'm 28 years old, born and raised in Argentina, and surrounded by games since childhood. From playing card games with grandparents and boardgames with cousins, to playing sports at school and videogames with friends; I have always been a fan of the social interactions that comes out of playing games: competitiveness, cooperation, deception, and most importantly, <strong>joy</strong>.
       </p>
-
       <p>
-        I've been thinking of making games since I was 13, and slowy but surely,
-        I'm moving forwards with the objective of entering the industry to
-        develop my profesional skills, gain valuable experience and build
-        connections. My ultimate goal is making a meaningful impact on both the
-        industry and the world.
+        I've been thinking of making games since I was 13, and slowy but surely, I'm moving forwards with the objective of entering the industry to develop my profesional skills, gain valuable experience and build connections. My ultimate goal is making a impact on both the industry and the world.
       </p>
-
-      <img width="400" height="500" alt="poster"
-           src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
-
-           </div>
+      <img width="400" height="500" alt="poster" src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
+    </div>
     <div>
-      
-    <h3>Favourite videogames</h3>
-
+      <h3>Favourite videogames</h3>
       <a href="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" target="_blank">
         <img src="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" alt="Favourite videogames 1">
       </a>
@@ -72,18 +47,16 @@ title: Julián Perez Krohn
       <a href="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" target="_blank">
         <img src="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" alt="Favourite videogames 4">
       </a>
-           </div>
+    </div>
     <div>
-    <h3>Favourite boardgames</h3>
-
-<img width="900" height="800" alt="favgames" src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" />
-           </div>
+      <h3>Favourite boardgames</h3>
+      <a href="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" target="_blank">
+        <img src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" alt="Favourite boardgames">
+      </a>
+      </div>
     </details>
-
   </aside>
-
   <main class="content">
-
     <section class="projects">
   <h2>Games made at Futuregames Warsaw</h2>
   <div class="projects-container">
@@ -93,56 +66,45 @@ title: Julián Perez Krohn
         <img src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" alt="NoAnimalCrossing">
       </a>
     </div>
-
     <div class="project-card">
       <h3><a href="ProjectTrash.md">Project Trash</a></h3>
       <a href="ProjectTrash.md">
         <img src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" alt="ProjectTrash">
       </a>
     </div>
-
     <div class="project-card">
       <h3><a href="Ecdysis.md">Ecdysis</a></h3>
       <a href="Ecdysis.md">
         <img src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" alt="Ecdysis">
       </a>
     </div>
-
     <!-- agrega más proyectos aquí -->
   </div>
 </section>
-
-    <section>
-      <h2>Other videogames</h2>
-
+<section class="projects">
+  <h2>Other videogames</h2>
+  <div class="projects-container">
+    <div class="project-card">
       <h3><a href="Necromeowcy.html">Necromeowcy</a></h3>
       <a href="Necromeowcy.html">
-        <img width="450" height="450"
-             src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />
+        <img width="450" height="450" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />
       </a>
-    </section>
-
-    <section>
-      <h2>Game design besides videogames</h2>
-
+    </div>
+  </div>
+</section>
+  <section class="projects">
+  <h2>Game design besides videogames</h2>
+  <div class="projects-container">
+    <div class="project-card">
       <h3>Boardgames</h3>
-
       <h4>Medivuno (Unfinished game)</h4>
-
-      <p>
-        This was my idea in which I wanted to mix the easy core of Uno, but give it
-        a twist by introducing Mafia-esque roles, and on top of that make it
-        closer to D&D style of chacters and situation for the players to fight
-        over.
-      </p>
-
-      <img width="450" height="300"
-           src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
-
-      <img width="450" height="300"
-           src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
-    </section>
-
-  </main>
-
+        <p>
+          This was my idea in which I wanted to mix the easy core of Uno, but give it a twist by introducing Mafia-esque roles, and on top of that make it closer to D&D style of chacters and situation for the players to fight over.
+        </p>
+      <img width="450" height="300" src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
+      <img width="450" height="300" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
+    </div>
+  </div>
+  </section>
+</main>
 </div>
