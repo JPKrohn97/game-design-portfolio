@@ -95,14 +95,50 @@ title: Julián Perez Krohn
   <section class="projects">
   <h2>Game design besides videogames</h2>
   <div class="projects-container">
+    <h3>Boardgames</h3>
     <div class="project-card">
-      <h3>Boardgames</h3>
       <h4>Medivuno (Unfinished game)</h4>
         <p>
           This was my idea in which I wanted to mix the easy core of Uno, but give it a twist by introducing Mafia-esque roles, and on top of that make it closer to D&D style of chacters and situation for the players to fight over.
         </p>
       <img width="450" height="300" src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
       <img width="450" height="300" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
+    </div>
+    <div class="project-card">
+      <h4>Medivuno (Unfinished game)</h4>
+        <p>
+          This was my idea in which I wanted to mix the easy core of Uno, but give it a twist by introducing Mafia-esque roles, and on top of that make it closer to D&D style of chacters and situation for the players to fight over.
+        </p>
+      <img width="450" height="300" src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
+      <img width="450" height="300" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
+    </div>
+  </div>
+    
+  <div class="projects-container">
+    <h3>TTRPGs and being a Dungeon Master</h3>
+    <div class="project-card">
+      <h4>Adventures run as DM</h4>
+        <ul>
+        <li>Descent into Avernus (D&D 5e)</li>
+        <li>Death pit of Molloch (D&D 5e)</li>
+        <li>Grim Hollow [1-3] (D&D 5e)</li>
+        <li>The lost kenku (D&D 5e)</li>
+        <li>The wild sheep chase (D&D 5e)</li>
+      </ul>
+      <img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
+        <p>
+      This is me during the final encounter of the campaign, **Descent into Avernus**.
+        </p>
+    </div>
+    <div class="project-card">
+      <h4>Systems played and/or DMed</h4>
+        <ul>
+        <li>Dungeons and Dragons 5e (2014 & 2024)</li>
+        <li>Pathfinder 2e</li>
+        <li>Shadow of the Demon Lord</li>
+        <li>Daggerheart</li>
+        <li>Vampire The Masquerade 20th Anniversary Edition</li>
+      </ul>
     </div>
   </div>
   </section>
