@@ -28,6 +28,26 @@ body {
   margin-top: 1rem;
 }
 
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem; /* espacio entre proyectos */
+}
+
+.project-card {
+  background-color: #111827;
+  padding: 1rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 0.5rem;
+}
+
 img {
   max-width: 100%;
   height: auto;
