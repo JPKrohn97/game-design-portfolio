@@ -20,7 +20,7 @@ title: Julián Perez Krohn
     </p>
     <img width="300" height="400" alt="poster" src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
     <p>
-      <h3>Important links: <a href="https://linktr.ee/jpkrohn97"><strong>Linktree</strong></a></h3>
+      <h3>Important links: <a href="https://linktr.ee/jpkrohn97" class="my-link"><strong>Linktree</strong></a></h3>
     </p>
     <details class="expandable">
       <summary>More about me</summary>
@@ -64,19 +64,19 @@ title: Julián Perez Krohn
   <h2 style="text-align: center;">Games made at Futuregames Warsaw</h2>
   <div class="projects-container">
     <div class="project-card">
-      <h3><a href="NoAnimalCrossing.html">No* Animal Crossing</a></h3>
+      <h3><a href="NoAnimalCrossing.html" class="my-link">No* Animal Crossing</a></h3>
       <a href="NoAnimalCrossing.html">
         <img src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" alt="NoAnimalCrossing">
       </a>
     </div>
     <div class="project-card">
-      <h3><a href="ProjectTrash.html">Project Trash</a></h3>
+      <h3><a href="ProjectTrash.html" class="my-link">Project Trash</a></h3>
       <a href="ProjectTrash.html">
         <img src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" alt="ProjectTrash">
       </a>
     </div>
     <div class="project-card">
-      <h3><a href="Ecdysis.html">Ecdysis</a></h3>
+      <h3><a href="Ecdysis.html" class="my-link">Ecdysis</a></h3>
       <a href="Ecdysis.html">
         <img src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" alt="Ecdysis">
       </a>
@@ -89,7 +89,7 @@ title: Julián Perez Krohn
   <div class="projects-container">
     <div class="project-card">
       <h3><a href="Necromeowcy.html">Necromeowcy</a></h3>
-      <a href="Necromeowcy.html">
+      <a href="Necromeowcy.html" class="my-link">
         <img width="450" height="450" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />
       </a>
     </div>
