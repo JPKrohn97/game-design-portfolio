@@ -122,6 +122,12 @@ title: Julián Perez Krohn
         <li>Daggerheart</li>
         <li>Vampire The Masquerade 20th Anniversary Edition</li>
       </ul>
+      <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/8db4ff34-3eef-4aab-bcb4-c9d101256442" />
+        <p>
+      After a long and rushed Dungeons and Dragons online campaign, Descent into Avernus, we met with the party to have the final showdown in person.
+        </p>
+    </div>
+    <div class="project-card">
       <h4>Adventures run as DM</h4>
         <ul>
         <li>Descent into Avernus (D&D 5e)</li>
@@ -134,13 +140,7 @@ title: Julián Perez Krohn
         <li>Tales of the Desolation (Shadow of the Demon Lord)</li>
         <li>The Sablewood Messengers (Daggerheart)</li>
       </ul>
-    </div>
-    <div class="project-card">
       <img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
-      <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/8db4ff34-3eef-4aab-bcb4-c9d101256442" />
-        <p>
-      After a long and rushed Dungeons and Dragons online campaign, Descent into Avernus, we met with the party to have the final showdown in person.
-        </p>
     </div>
   </div>
   </section>
