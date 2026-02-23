@@ -32,6 +32,9 @@ title: Julián Perez Krohn
         I've been thinking of making games since I was 13, and slowy but surely, I'm moving forwards with the objective of entering the industry to develop my profesional skills, gain valuable experience and build connections. My ultimate goal is making a impact on both the industry and the world.
       </p>
       <img width="400" height="500" alt="poster" src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
+      <p>
+        Me as Harrier Du Bouis from Disco Elysium, on Halloween 2025.
+      </p>
     </div>
     <div>
       <h3>Favourite videogames</h3>
@@ -58,7 +61,7 @@ title: Julián Perez Krohn
   </aside>
   <main class="content">
     <section class="projects">
-  <h2>Games made at Futuregames Warsaw</h2>
+  <h2 style="text-align: center;">Games made at Futuregames Warsaw</h2>
   <div class="projects-container">
     <div class="project-card">
       <h3><a href="NoAnimalCrossing.html">No* Animal Crossing</a></h3>
@@ -82,7 +85,7 @@ title: Julián Perez Krohn
   </div>
 </section>
 <section class="projects">
-  <h2>Other videogames</h2>
+  <h2 style="text-align: center;">Other videogames</h2>
   <div class="projects-container">
     <div class="project-card">
       <h3><a href="Necromeowcy.html">Necromeowcy</a></h3>
@@ -93,8 +96,8 @@ title: Julián Perez Krohn
   </div>
 </section>
   <section class="projects">
-  <h2>Game design besides videogames</h2>
-  <h3>Boardgames</h3>
+  <h2 style="text-align: center;">Game design besides videogames</h2>
+  <h3 style="text-align: center;">Boardgames</h3>
   <div class="projects-container">
     <div class="project-card">
       <h4>Medivuno (Unfinished game)</h4>
@@ -108,22 +111,8 @@ title: Julián Perez Krohn
       <h4>Just one more king</h4>
     </div>
   </div>
-  <h3>TTRPGs and being a Dungeon Master</h3>
+  <h3 style="text-align: center;">TTRPGs and being a Dungeon Master</h3>
   <div class="projects-container">
-    <div class="project-card">
-      <h4>Adventures run as DM</h4>
-        <ul>
-        <li>Descent into Avernus (D&D 5e)</li>
-        <li>Death pit of Molloch (D&D 5e)</li>
-        <li>Grim Hollow [1-3] (D&D 5e)</li>
-        <li>The lost kenku (D&D 5e)</li>
-        <li>The wild sheep chase (D&D 5e)</li>
-      </ul>
-      <img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
-        <p>
-      This is me during the final encounter of the campaign, **Descent into Avernus**.
-        </p>
-    </div>
     <div class="project-card">
       <h4>Systems played and/or DMed</h4>
         <ul>
@@ -133,6 +122,25 @@ title: Julián Perez Krohn
         <li>Daggerheart</li>
         <li>Vampire The Masquerade 20th Anniversary Edition</li>
       </ul>
+      <h4>Adventures run as DM</h4>
+        <ul>
+        <li>Descent into Avernus (D&D 5e)</li>
+        <li>Death pit of Molloch (D&D 5e)</li>
+        <li>Grim Hollow [1-3] (D&D 5e)</li>
+        <li>The lost kenku (D&D 5e)</li>
+        <li>The wild sheep chase (D&D 5e)</li>
+        <li>Dead by Dawn (Shadow of the Demon Lord)</li>
+        <li>Fine Country Folk (Shadow of the Demon Lord)</li>
+        <li>Tales of the Desolation (Shadow of the Demon Lord)</li>
+        <li>The Sablewood Messengers (Daggerheart)</li>
+      </ul>
+    </div>
+    <div class="project-card">
+      <img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
+      <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/8db4ff34-3eef-4aab-bcb4-c9d101256442" />
+        <p>
+      After a long and rushed Dungeons and Dragons online campaign, Descent into Avernus, we met with the party to have the final showdown in person.
+        </p>
     </div>
   </div>
   </section>
