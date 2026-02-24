@@ -115,7 +115,7 @@ title: Julián Perez Krohn
   <div class="projects-container">
     <div class="project-card">
       <h4>Systems played and/or DMed</h4>
-        <ul>
+        <ul style="text-align: left;">
         <li>Dungeons and Dragons 5e (2014 & 2024)</li>
         <li>Pathfinder 2e</li>
         <li>Shadow of the Demon Lord</li>
@@ -123,13 +123,13 @@ title: Julián Perez Krohn
         <li>Vampire The Masquerade 20th Anniversary Edition</li>
       </ul>
       <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/8db4ff34-3eef-4aab-bcb4-c9d101256442" />
-        <p>
+        <p style="text-align: left;">
       After a long and rushed Dungeons and Dragons online campaign, Descent into Avernus, we met with the party to have the final showdown in person.
         </p>
     </div>
     <div class="project-card">
       <h4>Adventures run as DM</h4>
-        <ul>
+        <ul style="text-align: left;">
         <li>Descent into Avernus (D&D 5e)</li>
         <li>Death pit of Molloch (D&D 5e)</li>
         <li>Grim Hollow [1-3] (D&D 5e)</li>
