@@ -88,8 +88,8 @@ title: Julián Perez Krohn
   <h2 style="text-align: center;">Other videogames</h2>
   <div class="projects-container">
     <div class="project-card">
-      <h3><a href="Necromeowcy.html">Necromeowcy</a></h3>
-      <a href="Necromeowcy.html" class="my-link">
+      <h3><a href="Necromeowcy.html" class="my-link">Necromeowcy</a></h3>
+      <a href="Necromeowcy.html">
         <img width="450" height="450" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />
       </a>
     </div>
