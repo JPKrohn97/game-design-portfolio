@@ -5,15 +5,10 @@ title: Project Trash
 
 <div class="layout">
   <aside class="sidebar">
-    <h3>Important links: <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a></h3>
+    <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
     <img width="600" height="500" alt="Project Trash Poster"
        src="https://github.com/user-attachments/assets/87fd66b7-f22e-454f-bf58-42c518821e41" />
-  <h1>Project Trash</h1>
-  <p>
-    <a href="https://futuregames.itch.io/projecttrash" target="_blank">
-      <strong>PLAY IN BROWSER</strong>
-    </a>
-  </p>
+  <h2 style="text-align: center;">Project Trash</h2>
   <section class="project-section">
     <p>
       I would say it is my most successful game so far. I not only worked as a game designer, but it was also my first experience leading a team as a <strong>Product Owner</strong>. I guided a team of thirteen to create an entertaining arcade game based on my vision.
@@ -26,10 +21,13 @@ title: Project Trash
       <em>Our game's mascot, the Trashbubu</em>
     </p>
   </section>
+    <a href="https://futuregames.itch.io/projecttrash" target="_blank">
+      <strong>PLAY IN BROWSER</strong>
+    </a>
   </aside>
   <main class="content">
   <section class="project-section">
-    <h2>Teaser trailer</h2>
+    <h1 style="text-align: center;">Teaser trailer</h1>
     <p>
       <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
         <img src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
@@ -37,7 +35,7 @@ title: Project Trash
     </p>
   </section>
   <section class="project-section">
-    <h2>Development Process</h2>
+    <h1 style="text-align: center;">Development Process</h1>
     <p>
       Once the teams were revealed and we gained access to the Discord group, we immediately joined a Miro board to brainstorm ideas. We knew the game had to be an arcade, and optionally, it could include a green theme. During brainstorming, a UX/UI team member mentioned how fun physics-based games are. We all agreed, but we needed to narrow down the concept to fit a three-week development scope.  
       After a second brainstorming session, my idea was chosen. From that moment on, I became the <strong>Product Owner and spokesperson</strong> of the team.
@@ -49,7 +47,7 @@ title: Project Trash
     </p>
   </section>
   <section class="project-section">
-    <h2>Game Concept</h2>
+    <h1 style="text-align: center;">Game Concept</h1>
     <p>
       The game features an infinite stream of randomized items transported on a conveyor belt into a limited space that the player must keep clear to prevent overspilling.  
       These items are different recyclable materials, which the player must sort correctly. Incorrect sorting or dropped items count as mistakes; after a certain number of mistakes, the game ends.  
@@ -62,7 +60,7 @@ title: Project Trash
     </p>
   </section>
   <section class="project-section">
-    <h2>Jury Feedback</h2>
+    <h1 style="text-align: center;">Jury Feedback</h1>
     <ul>
       <li>The game was fun</li>
       <li>The pacing was slower than advertised</li>
@@ -78,7 +76,7 @@ title: Project Trash
     </p>
   </section>
   <section class="project-section">
-    <h2>Future Plans</h2>
+    <h1 style="text-align: center;">Future Plans</h1>
     <p>
       I'm planning to upload the game to Steam, to gather player feedback and increase exposure, as I feel that Itch.io is somewhat limited. Before doing so, I intend to implement improvements based on the jury’s feedback.
     </p>
