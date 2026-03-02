@@ -33,7 +33,7 @@ title: Julián Perez Krohn
       </p>
       <img width="400" height="500" alt="poster" src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
       <p>
-        Me as Harrier Du Bouis from Disco Elysium, on Halloween 2025.
+        *Me as Harrier Du Bouis from Disco Elysium, on Halloween 2025.
       </p>
     </div>
     <div>
@@ -61,7 +61,7 @@ title: Julián Perez Krohn
   </aside>
   <main class="content">
     <section class="projects">
-  <h2 style="text-align: center;">Games made at Futuregames Warsaw</h2>
+  <h2 style="text-align: center;">Games Highlights</h2>
   <div class="projects-container">
     <div class="project-card">
       <h3><a href="NoAnimalCrossing.html" class="my-link">No* Animal Crossing</a></h3>
@@ -76,6 +76,12 @@ title: Julián Perez Krohn
       </a>
     </div>
     <div class="project-card">
+      <h3><a href="Necromeowcy.html" class="my-link">Necromeowcy</a></h3>
+      <a href="Necromeowcy.html">
+        <img width="450" height="450" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />
+      </a>
+    </div>
+    <div class="project-card">
       <h3><a href="Ecdysis.html" class="my-link">Ecdysis</a></h3>
       <a href="Ecdysis.html">
         <img src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" alt="Ecdysis">
@@ -84,31 +90,19 @@ title: Julián Perez Krohn
     <!-- agrega más proyectos aquí -->
   </div>
 </section>
-<section class="projects">
-  <h2 style="text-align: center;">Other videogames</h2>
-  <div class="projects-container">
-    <div class="project-card">
-      <h3><a href="Necromeowcy.html" class="my-link">Necromeowcy</a></h3>
-      <a href="Necromeowcy.html">
-        <img width="450" height="450" src="https://github.com/user-attachments/assets/92792a7e-5e68-42e0-9bac-6fc5b0a4068e" />
-      </a>
-    </div>
-  </div>
-</section>
   <section class="projects">
-  <h2 style="text-align: center;">Game design besides videogames</h2>
+  <h2 style="text-align: center;">Other game designs</h2>
   <h3 style="text-align: center;">Boardgames</h3>
-  <div class="projects-container">
+  <div>
+    <h4>Medivuno (Unfinished game)</h4>
+      <p>
+        This was my idea in which I wanted to mix the easy core of Uno, but give it a twist by introducing Mafia-esque roles, and on top of that make it closer to D&D style of chacters and situation for the players to fight over.
+      </p>
     <div class="project-card">
-      <h4>Medivuno (Unfinished game)</h4>
-        <p>
-          This was my idea in which I wanted to mix the easy core of Uno, but give it a twist by introducing Mafia-esque roles, and on top of that make it closer to D&D style of chacters and situation for the players to fight over.
-        </p>
       <img width="450" height="300" src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
-      <img width="450" height="300" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
     </div>
     <div class="project-card">
-      <h4>Just one more king</h4>
+      <img width="450" height="300" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
     </div>
   </div>
   <h3 style="text-align: center;">TTRPGs and being a Dungeon Master</h3>
