@@ -35,6 +35,12 @@ body {
   margin-top: 1rem;
 }
 
+.projects-wide-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
 .projects-container {
   display: flex;
   flex-wrap: wrap;
