@@ -3,8 +3,10 @@ layout: default
 title: Project Trash
 ---
 
-<main class="project-page">
-  <img width="600" height="500" alt="Project Trash Poster"
+<div class="layout">
+  <aside class="sidebar">
+    <h3>Important links: <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a></h3>
+    <img width="600" height="500" alt="Project Trash Poster"
        src="https://github.com/user-attachments/assets/87fd66b7-f22e-454f-bf58-42c518821e41" />
   <h1>Project Trash</h1>
   <p>
@@ -16,7 +18,16 @@ title: Project Trash
     <p>
       I would say it is my most successful game so far. I not only worked as a game designer, but it was also my first experience leading a team as a <strong>Product Owner</strong>. I guided a team of thirteen to create an entertaining arcade game based on my vision.
     </p>
+    <p>
+      <a href="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" target="_blank">
+        <img src="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" alt="Trashbubu mascot" width="100" height="100">
+      </a>
+      <br>
+      <em>Our game's mascot, the Trashbubu</em>
+    </p>
   </section>
+  </aside>
+  <main class="content">
   <section class="project-section">
     <h2>Teaser trailer</h2>
     <p>
@@ -71,12 +82,5 @@ title: Project Trash
     <p>
       I'm planning to upload the game to Steam, to gather player feedback and increase exposure, as I feel that Itch.io is somewhat limited. Before doing so, I intend to implement improvements based on the jury’s feedback.
     </p>
-    <p>
-      <a href="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" target="_blank">
-        <img src="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" alt="Trashbubu mascot" width="100" height="100">
-      </a>
-      <br>
-      <em>Our game's mascot, the Trashbubu</em>
-    </p>
-  </section>
 </main>
+</div>
