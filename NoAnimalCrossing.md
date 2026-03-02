@@ -7,7 +7,7 @@ title: No* Animal Crossing
   <aside class="sidebar">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
     <img width="600" height="500" alt="No* Animal Crossing" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" />
-    <h1 style="text-align: center;">No* Animal Crossing</h1>
+    <h2 style="text-align: center;">No* Animal Crossing</h2>
     <section class="project-section">
       <p>
         This was the first game I developed during my Futuregames assignments. The task was simple: create a game inspired by arcade classics such as Mario Bros, Pac-Man, Space Invaders, Snake, Frogger...  I instantly started thinking to myself: Frogger? What if I inverted the gameplay of Frogger? I'm not playing as a frog, but the cars... What if I have to prevent the frog from crossing... and that's how I came up with the idea. Over the course of one month, and after not using Unity for nearly a year, I improvised various systems to build the core mechanics and interactions. I used free Unity assets to create a simple yet cohesive experience.
@@ -18,7 +18,7 @@ title: No* Animal Crossing
     </section>
   </aside>
   <main class="content">
-  <h3 style="text-align: center;">What is it?</h3>
+  <h1 style="text-align: center;">What is it?</h1>
     <p>
       Can it be described as an infinite survival tower defense game? Does it belong to a specific genre? The game was mostly improvised. It all started by creating one section of a city with some one-way streets, boulevards and avenues, in which you can spawn cars to hit the animals and prevent them from crossing the street, like Frogger. The game has arcade elements: an endless gameloop with the objective of surviving the longest. Players must compete for a high score to reach the leaderboard.
     </p>
@@ -37,7 +37,7 @@ title: No* Animal Crossing
     </a>
   </section>
   <section class="project-section">
-    <h3 style="text-align: center;">How do you get to the leaderboard?</h3>
+    <h1 style="text-align: center;">How do you get to the leaderboard?</h1>
     <p>
       Does the game require skill? Yes, otherwise how are you supposed to time a car to run over... sorry, save the animals from crossing the dangerous street. Players also require strategic thinking. It's easy to defeat the first waves of critters, but at some point the spawn rate is high, and if players haven't prepared a continuous flow of cars, the animals will inevitably cross. Players have access to four different types of vehicles used for different purposes, so planning ahead is key.
     </p>
@@ -48,7 +48,7 @@ title: No* Animal Crossing
     </a>
   </section>
   <section class="project-section">
-    <h3 style="text-align: center;">How was it received?</h3>
+    <h1 style="text-align: center;">How was it received?</h1>
     <p>
       During that time, the team had a blast playing it and competing to reach high scores. Some even commented that the original idea seemed silly and boring, but they enjoyed timing the cars and using trucks tactically to defeat groups of enemies.
     </p>
