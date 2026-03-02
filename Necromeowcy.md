@@ -3,17 +3,21 @@ layout: default
 title: Necromeowcy
 ---
 
-<main class="project-page">
-  <img width="300" height="300" alt="Necromeowcy Logo" src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
+<div class="layout">
+  <aside class="sidebar">
+    <h3>Important links: <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a></h3>
+    <img width="300" height="300" alt="Necromeowcy Logo" src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
   <h1>Necromeowcy</h1>
   <p>
-    <a href="https://untalpanda.itch.io/necromeowcy" target="_blank">
+    <a href="https://untalpanda.itch.io/necromeowcy" target="_blank" class="my-link">
       <strong>PLAY IN BROWSER</strong>
     </a>
   </p>
   <p>
     We tried making a city builder game for a gamejam that was overscoped in just one week. I'm impressed what we achieved with little experience.
   </p>
+  </aside>
+  <main class="content">
   <section class="project-section">
     <h2>Game jam theme</h2>
     <p>
@@ -44,3 +48,4 @@ title: Necromeowcy
     </p>
   </section>
 </main>
+</div>
