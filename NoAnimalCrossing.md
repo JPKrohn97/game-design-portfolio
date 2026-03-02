@@ -3,23 +3,9 @@ layout: default
 title: No* Animal Crossing
 ---
 
-<main class="project-page">
-  <img width="600" height="500" alt="No* Animal Crossing" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" />
-  <h1>No* Animal Crossing</h1>
-  <p>
-    <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank">
-      <strong>PLAY IN BROWSER</strong>
-    </a>
-  </p>
-  <section class="project-section">
-    <p>
-      This was the first game I developed during my Futuregames assignments. The task was simple: create a game inspired by arcade classics such as Mario Bros, Pac-Man, Space Invaders, Snake, Frogger...  
-      I instantly started thinking to myself: Frogger? What if I inverted the gameplay of Frogger? I'm not playing as a frog, but the cars... What if I have to prevent the frog from crossing... and that's how I came up with the idea.  
-      Over the course of one month, and after not using Unity for nearly a year, I improvised various systems to build the core mechanics and interactions. I used free Unity assets to create a simple yet cohesive experience.
-    </p>
-  </section>
-  <section class="project-section">
-    <h2>What is it?</h2>
+<div class="layout">
+  <main class="content">
+  <h2>What is it?</h2>
     <p>
       Can it be described as an infinite survival tower defense game? Does it belong to a specific genre? The game was mostly improvised. It all started by creating one section of a city with some one-way streets, boulevards and avenues, in which you can spawn cars to hit the animals and prevent them from crossing the street, like Frogger. The game has arcade elements: an endless gameloop with the objective of surviving the longest. Players must compete for a high score to reach the leaderboard.
     </p>
@@ -61,3 +47,20 @@ title: No* Animal Crossing
     </blockquote>
   </section>
 </main>
+  <aside class="sidebar">
+    <img width="600" height="500" alt="No* Animal Crossing" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" />
+    <h1>No* Animal Crossing</h1>
+    <p>
+      <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank">
+        <strong>PLAY IN BROWSER</strong>
+      </a>
+    </p>
+    <section class="project-section">
+      <p>
+        This was the first game I developed during my Futuregames assignments. The task was simple: create a game inspired by arcade classics such as Mario Bros, Pac-Man, Space Invaders, Snake, Frogger...  I instantly started thinking to myself: Frogger? What if I inverted the gameplay of Frogger? I'm not playing as a frog, but the cars... What if I have to prevent the frog from crossing... and that's how I came up with the idea. Over the course of one month, and after not using Unity for nearly a year, I improvised various systems to build the core mechanics and interactions. I used free Unity assets to create a simple yet cohesive experience.
+      </p>
+    </section>
+  </aside>
+</div>
+
+
