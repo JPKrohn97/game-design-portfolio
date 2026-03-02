@@ -7,7 +7,7 @@ title: Necromeowcy
   <aside class="sidebar">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
     <img width="300" height="300" alt="Necromeowcy Logo" src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
-    <h1 style="text-align: center;">Necromeowcy</h1>
+    <h2 style="text-align: center;">Necromeowcy</h2>
     <p>
       We tried making a city builder game for a gamejam that was overscoped in just one week. I'm impressed what we achieved with little experience.
     </p>
@@ -17,13 +17,13 @@ title: Necromeowcy
   </aside>
   <main class="content">
   <section class="project-section">
-    <h2 style="text-align: center;">Game jam theme</h2>
+    <h1 style="text-align: center;">Game jam theme</h1>
     <p>
       I remember that the team got together at Futuregames to brainstorm ideas a few hours before the jam start, but when it was revealed, we needed to scrap most of it. "Borrowed Time", at first glance it was a strange theme to build a game around, so we took the few ideas that could be useful and tried making them make sense. Necromancy was a big idea that was shared among most of the team members, but how could it be used? Having a dead army for what purpose? What if the necromancer is not evil and uses the dead to serve the living.
     </p>
   </section>
   <section class="project-section">
-    <h2 style="text-align: center;">Core concept</h2>
+    <h1 style="text-align: center;">Core concept</h1>
     <p>
       We really liked the idea of having a necromancer helping their people, using the undead to make their small town thrive. But before having the undead, they needed to create a system for the living.  
       We started off by creating a "simple" system of population that would be the core of the city builder experience. The player can command a small group of peasants to do their bidding: building <strong>houses</strong> to increase population cap, <strong>farms</strong> to feed the peasants, and then <strong>workshops</strong>, which generate building material for new buildings.  
@@ -38,7 +38,7 @@ title: Necromeowcy
     </p>
   </section>
   <section class="project-section">
-    <h2 style="text-align: center;">Economy system</h2>
+    <h1 style="text-align: center;">Economy system</h1>
     <p>
       <a href="https://github.com/user-attachments/assets/63c51816-8156-45a2-b929-19911937bcb5" target="_blank">
         <img src="https://github.com/user-attachments/assets/63c51816-8156-45a2-b929-19911937bcb5" alt="Economy system" width="900" height="300">
