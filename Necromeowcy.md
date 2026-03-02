@@ -7,7 +7,7 @@ title: Necromeowcy
   <aside class="sidebar">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
     <img width="300" height="300" alt="Necromeowcy Logo" src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
-    <h1>Necromeowcy</h1>
+    <h1 style="text-align: center;">Necromeowcy</h1>
     <p>
       We tried making a city builder game for a gamejam that was overscoped in just one week. I'm impressed what we achieved with little experience.
     </p>
