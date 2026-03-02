@@ -3,13 +3,18 @@ layout: default
 title: Ecdysis
 ---
 
-<main class="project-page">
-  <h1>Ecdysis</h1>
+<div class="layout">
+  <aside class="sidebar">
+    <h3>Important links: <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a></h3>
+    <h3>Ecdysis</h3>
   <p>
-    <a href="https://futuregames.itch.io/ecdysis" target="_blank">
+    <a href="https://futuregames.itch.io/ecdysis" target="_blank" class="my-link">
       <strong>DOWNLOAD IT ITCH.IO</strong>
     </a>
   </p>
+  </section>
+  </aside>
+  <main class="content">
   <section class="project-section">
     <h2>Development Process</h2>
     <p>
@@ -34,3 +39,4 @@ title: Ecdysis
     </a>
   </section>
 </main>
+</div>
