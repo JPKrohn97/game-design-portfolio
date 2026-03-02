@@ -4,6 +4,20 @@ title: No* Animal Crossing
 ---
 
 <div class="layout">
+  <aside class="sidebar">
+    <img width="600" height="500" alt="No* Animal Crossing" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" />
+    <h1>No* Animal Crossing</h1>
+    <p>
+      <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank">
+        <strong>PLAY IN BROWSER</strong>
+      </a>
+    </p>
+    <section class="project-section">
+      <p>
+        This was the first game I developed during my Futuregames assignments. The task was simple: create a game inspired by arcade classics such as Mario Bros, Pac-Man, Space Invaders, Snake, Frogger...  I instantly started thinking to myself: Frogger? What if I inverted the gameplay of Frogger? I'm not playing as a frog, but the cars... What if I have to prevent the frog from crossing... and that's how I came up with the idea. Over the course of one month, and after not using Unity for nearly a year, I improvised various systems to build the core mechanics and interactions. I used free Unity assets to create a simple yet cohesive experience.
+      </p>
+    </section>
+  </aside>
   <main class="content">
   <h2>What is it?</h2>
     <p>
@@ -27,9 +41,7 @@ title: No* Animal Crossing
   <section class="project-section">
     <h2>How do you get to the leaderboard?</h2>
     <p>
-      Does the game require skill? Yes, otherwise how are you supposed to time a car to run over... sorry, save the animals from crossing the dangerous street.  
-      Players also require strategic thinking. It's easy to defeat the first waves of critters, but at some point the spawn rate is high, and if players haven't prepared a continuous flow of cars, the animals will inevitably cross.  
-      Players have access to four different types of vehicles used for different purposes, so planning ahead is key.
+      Does the game require skill? Yes, otherwise how are you supposed to time a car to run over... sorry, save the animals from crossing the dangerous street. Players also require strategic thinking. It's easy to defeat the first waves of critters, but at some point the spawn rate is high, and if players haven't prepared a continuous flow of cars, the animals will inevitably cross. Players have access to four different types of vehicles used for different purposes, so planning ahead is key.
     </p>
   </section>
   <section class="project-section">
@@ -47,20 +59,6 @@ title: No* Animal Crossing
     </blockquote>
   </section>
 </main>
-  <aside class="sidebar">
-    <img width="600" height="500" alt="No* Animal Crossing" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" />
-    <h1>No* Animal Crossing</h1>
-    <p>
-      <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank">
-        <strong>PLAY IN BROWSER</strong>
-      </a>
-    </p>
-    <section class="project-section">
-      <p>
-        This was the first game I developed during my Futuregames assignments. The task was simple: create a game inspired by arcade classics such as Mario Bros, Pac-Man, Space Invaders, Snake, Frogger...  I instantly started thinking to myself: Frogger? What if I inverted the gameplay of Frogger? I'm not playing as a frog, but the cars... What if I have to prevent the frog from crossing... and that's how I came up with the idea. Over the course of one month, and after not using Unity for nearly a year, I improvised various systems to build the core mechanics and interactions. I used free Unity assets to create a simple yet cohesive experience.
-      </p>
-    </section>
-  </aside>
 </div>
 
 
