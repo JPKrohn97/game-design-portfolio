@@ -4,7 +4,7 @@ title: Necromeowcy
 ---
 
 <div class="layout">
-  <aside class="sidebar">
+  <aside class="sidebar content">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
     <section class="project-section projects-container">
     <img width="300" height="300" alt="Necromeowcy Logo" src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
