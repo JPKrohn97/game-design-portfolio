@@ -140,9 +140,6 @@ title: Julián Perez Krohn
       <img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
     </div>
   </div>
-  <div class="projects-wide-container">
-    <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/2425b675-90d2-498d-bd76-03e176f0129d" />
-  </div>
   </section>
 </main>
 </div>
