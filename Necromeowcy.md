@@ -5,17 +5,17 @@ title: Necromeowcy
 
 <div class="layout">
   <aside class="sidebar">
-    <section class="project-section projects-container">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
+    <section class="project-section projects-container">
     <img width="300" height="300" alt="Necromeowcy Logo" src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
     <h2 style="text-align: center;">Necromeowcy</h2>
     <p>
       We tried making a city builder game for a gamejam that was overscoped in just one week. I'm impressed what we achieved with little experience.
     </p>
+    </section>
     <a href="https://untalpanda.itch.io/necromeowcy" target="_blank" class="my-link">
       <strong>PLAY IN BROWSER</strong>
     </a>
-    </section>
   </aside>
   <main class="content">
   <section class="project-section">
