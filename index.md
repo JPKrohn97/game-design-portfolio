@@ -91,24 +91,7 @@ title: Julián Perez Krohn
   </div>
 </section>
   <section class="projects">
-  <h2 style="text-align: center;">Other game designs</h2>
-  <h3 style="text-align: center;">Boardgames</h3>
-  <div>
-    <div class="projects-wide-container">
-    <h4>Medivuno (Unfinished game)</h4>
-    <p>
-      This was my idea in which I wanted to mix the easy core of Uno, but give it a twist by introducing Mafia-esque roles, and on top of that make it closer to D&D style of chacters and situation for the players to fight over.
-    </p>
-    <div>
-      <div>
-        <img width="450" height="300" src="https://github.com/user-attachments/assets/5ee6044b-5bd6-4e14-8f2c-57e38b295504" />
-      </div>
-      <div>
-        <img width="450" height="300" src="https://github.com/user-attachments/assets/6b625cdf-81b8-4eb4-ac0f-a8a4636261ee" />
-      </div>
-    </div>
-  </div>
-  <h3 style="text-align: center;">TTRPGs and being a Dungeon Master</h3>
+  <h2 style="text-align: center;">TTRPGs and being a Dungeon Master</h2>
   <div class="projects-container">
     <div class="project-card">
       <h4>Systems played and/or DMed</h4>
@@ -140,6 +123,4 @@ title: Julián Perez Krohn
       <img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
     </div>
   </div>
-  </section>
-</main>
 </div>
