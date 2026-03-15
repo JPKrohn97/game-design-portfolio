@@ -123,4 +123,3 @@ title: Julián Perez Krohn
       <img width="800" height="800" alt="DM" src="https://github.com/user-attachments/assets/35c28943-db80-49fd-85e4-993ced292c6c" />
     </div>
   </div>
-</div>
