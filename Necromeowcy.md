@@ -58,6 +58,10 @@ title: Necromeowcy
       <em>Click to open in new tab.</em>
     </p>
     <p>
+      I must say I'm not an expert of excel, but I can manage working on functions to create spreadsheet that can allow me design an economy system for a "simple" game. See the sheet for yourself: 
+    <a href="https://docs.google.com/spreadsheets/d/1D1Q1IpKQHnFNLXhoZSwwbAe1SD5LLhLoceH37spaDj4/edit?usp=sharing" class="my-link"><strong>Necromeowcy - Economy</strong></a> 
+    </p>
+    <p>      
     <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" />
       <em>In-game tutorial.</em>
     </p>
