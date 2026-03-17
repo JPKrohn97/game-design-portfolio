@@ -42,7 +42,7 @@ title: Necromeowcy
       Lastly, without any major setbacks, the game was still relatively easy, so we decided to introduce a random element to challenge the player. We added an event system that would trigger every few days, it would provide a narrative element that mentions events in the world, as well as the player's backstory, and also, would have a price to pay: using Purr to fix a problem, losing resources or ignoring the problem resulting in peasant casualties.
     </p>
     <p>
-      <a href="https://github.com/user-attachments/assets/d7b74659-8813-4438-8d6b-87b59e2a6899" target="_blank">
+      <a href="https://github.com/user-attachments/assets/d7b74659-8813-4438-8d6b-87b59e2a6899" target="_blank" class="center-aligned">
         <img src="https://github.com/user-attachments/assets/d7b74659-8813-4438-8d6b-87b59e2a6899" alt="Brainstormed mechanics" width="900" height="700">
       </a>
       <br>
@@ -55,7 +55,7 @@ title: Necromeowcy
       On this next image, I'm presenting a dynamic spreadsheet I worked on, that simulates a projected economy per in-game day: population growth, natural death, resource production and consuption, job assigment, food shortages, population cap, and even an upgrade to the player's Castle which should allow the player get improve their building even further as well as getting new undead creatures to summon. 
     </p>
     <p>
-      <a href="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" target="_blank">
+      <a href="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" target="_blank" class="center-aligned">
         <img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" />
       </a>
       <br>
@@ -66,7 +66,9 @@ title: Necromeowcy
     <a href="https://docs.google.com/spreadsheets/d/1D1Q1IpKQHnFNLXhoZSwwbAe1SD5LLhLoceH37spaDj4/edit?usp=sharing" class="my-link"><strong>Necromeowcy - Economy</strong></a> 
     </p>
     <p>      
-    <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" />
+      <a href="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" target="_blank" class="center-aligned">
+        <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" />
+      </a>
       <br>
       <em>In-game tutorial.</em>
     </p>
