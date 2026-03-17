@@ -6,6 +6,7 @@ title: Necromeowcy
 <div class="layout">
   <aside class="sidebar content">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
+      <br>
     <section class="project-section projects-container">
     <img width="300" height="300" alt="Necromeowcy Logo" src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
     <h2 style="text-align: center;">Necromeowcy</h2>
@@ -52,9 +53,12 @@ title: Necromeowcy
     <h1 style="text-align: center;">Economy system</h1>
     <p>
       On this next image, I'm presenting a dynamic spreadsheet I worked on, that simulates a projected economy per in-game day: population growth, natural death, resource production and consuption, job assigment, food shortages, population cap, and even an upgrade to the player's Castle which should allow the player get improve their building even further as well as getting new undead creatures to summon. 
+    </p>
+    <p>
       <a href="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" target="_blank">
         <img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" />
       </a>
+      <br>
       <em>Click to open in new tab.</em>
     </p>
     <p>
@@ -63,6 +67,7 @@ title: Necromeowcy
     </p>
     <p>      
     <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" />
+      <br>
       <em>In-game tutorial.</em>
     </p>
   </section>
