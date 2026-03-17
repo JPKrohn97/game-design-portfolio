@@ -72,6 +72,13 @@ title: Necromeowcy
       <br>
       <em>In-game tutorial.</em>
     </p>
+    <p>      
+      <a href="https://github.com/user-attachments/assets/bf584bae-23ff-41f1-b78c-f3db90783afd" target="_blank" class="center-aligned">
+        <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/bf584bae-23ff-41f1-b78c-f3db90783afd" />
+      </a>
+      <br>
+      <em>Gameplay.</em>
+    </p>
   </section>
 </main>
 </div>
