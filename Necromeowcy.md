@@ -8,10 +8,13 @@ title: Necromeowcy
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
       <br>
     <section class="project-section projects-container">
-    <img width="300" height="300" alt="Necromeowcy Logo" src="https://github.com/user-attachments/assets/db9817bd-7b80-486c-bb73-74815ff93a1d" />
-    <h2 style="text-align: center;">Necromeowcy</h2>
+    <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b18d7b8c-1cca-4c8f-b312-d694a7a55dcd" />
+    <h1 style="text-align: center;">Necromeowcy</h1>
     <p>
-      Necromweocy is a city builder made during a one week game jam. I'm impressed on what we've achieved with little experience. Reflexing on the results, I understand we overscoped, we managed our time incorrectly and learned the importance of UX/UI in strategy games. 
+      Necromweocy is a city builder made during a one week game jam. 
+    </p>
+    <p>
+      I'm impressed on what we've achieved with little experience. Reflexing on the results, I understand we overscoped, we managed our time incorrectly and learned the importance of UX/UI in strategy games. 
     </p>
     </section>
     <a href="https://untalpanda.itch.io/necromeowcy" target="_blank" class="my-link">
@@ -22,31 +25,32 @@ title: Necromeowcy
   <section class="project-section">
     <h1 style="text-align: center;">"Borrowed Time"</h1>
     <p>
-      This was the game jam theme which at first glance, it was a strange theme to build a game around, but after the initial brainstorming session, we started developing several ideas. Necromancy was big, and was shared among most of the team members. How could it be used? Having a dead army for what purpose? What if the necromancer is not evil, and uses the dead to serve the living for a limited period of time. 
+      This was the game jam theme which at first glance, it was a strange theme to build a game around, but after the initial brainstorming session, we started developing several ideas. Necromancy was big, and was shared among most team members. How could it be used? Having a dead army for what purpose? What if the necromancer is not evil, and uses the dead to serve the living for a limited period of time. 
     </p>
   </section>
   <section class="project-section">
     <h1 style="text-align: center;">Core concept</h1>
     <p>
       We really liked the idea of having a necromancer helping their people, using the undead to make their small town thrive. But before having the undead, we needed to create a system for the living.  
-      We started off by creating a "simple" system of population that would be the core of the city builder experience. The player can command a small group of peasants to do the player's bidding: building <strong>houses</strong> to increase population cap, create <strong>farms</strong> to feed the peasants, and then <strong>workshops</strong>, which generate building material for new buildings.  
+      We started off by creating a "simple" system of population that would be the core of the city builder experience. The player can command a small group of peasants to do the player's bidding: building houses to increase population cap, create farms to feed the peasants, and then workshops, which generate building material for new buildings.  
     </p>
     <p>
-      Once a player creates this "simple" infrastructure, the town would be self-sufficient as long as the player manages the constant consumption of daily rations and the normal procreation rate. But it is not that simple as it seems, if they are not satified, they become stressed, which in turn reduces their lifespan. Yes, each peasant live for a period of time, and several factors reduce the normal lifespan: not having a home for a night, not being able to eat for a day, and, witness the undead walking among them. This combination, we were able to creates a cycle of growing population with a small quantity of old dead peasants being burried in town's cemetery. 
+      This "simple" infrastructure would make the town self-sufficient as long as the player manages the constant consumption of daily rations and procreation rate. But it is not that simple as it seems, if they are not satified, they become stressed, which in turn reduces their lifespan. Yes, each peasant live for a period of time, and several factors reduce the expected lifespan: not having a home for a night, not being able to eat for a day, and, <strong>notice the undead walking among them</strong>. With this system in mind, we were able to create a cycle of growing population and deceased old peasants burried in town's cemetery. 
     </p>
     <p> 
-      This was a great opportunity to introduce necromancy into the game. The player would use the dead bodies to summon undead servants, and put them to work for a limited period of time with the purpose of boosting the economy or reduce the build time of any construction site. Normally, the player would do necromancy in secret to prevent scaring away peasants, so they would put them to work at night; but, they would also have the choice to expose them in broad daylight, and making them work twice as much.
+      This was a great opportunity to introduce necromancy into the game. The player would use the bodies stored in the graveyard to summon undead servants for a limited period of time. They can take any available job, and participate in the economy without consuming resources. Since peasants work during day shift, the player could do necromancy in secret, prevent scaring away peasants and having them to work at night; but, they have the choice to expose them in broad daylight, and making them work twice as much.
       We also found out that, having a limited amount of bodies, would make the mechanic of summon undead servants very situational, and we wanted to encourage the player to use them regularly. That's how we created an energy/mana system called "Purr". The player has the responsibility of taking care of their cat peasants and making them happy, but they also can take their "Purr" away, by shortening their days, and reuse it to raise undead servants. Taking some Purr might not be bad for the town, but taking too much would be CATastrophic...
     </p>
     <p>
-      Lastly, without any major setbacks, the game was still relatively easy, so we decided to introduce a random element to challenge the player. We added an event system that would trigger every few days, it would provide a narrative element that mentions events in the world, as well as the player's backstory, and also, would have a price to pay: using Purr to fix a problem, losing resources or ignoring the problem resulting in peasant casualties.
+      <img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/8d22e13e-f948-40e6-bdc9-f8e467b4806c" />
+      <em>Brainstormed mechanics and systems for the game.</em>
     </p>
     <p>
-      <a href="https://github.com/user-attachments/assets/d7b74659-8813-4438-8d6b-87b59e2a6899" target="_blank" class="center-aligned">
-        <img src="https://github.com/user-attachments/assets/d7b74659-8813-4438-8d6b-87b59e2a6899" alt="Brainstormed mechanics" width="900" height="700">
-      </a>
-      <br>
-      <em>Brainstormed mechanics and systems for the game.</em>
+      Lastly, without any major setbacks, the game was still relatively easy, so we decided to introduce a random element to challenge the player. We added an event system that would trigger every few days, it would provide a narrative element that mentions events in the world and player's story. These events allow the player to pay the price: using Purr to fix a problem, losing resources or ignoring the problem (usually resulting in peasant casualties).
+    </p>
+    <p>
+      <img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/2ee8d34b-6866-4466-9f1c-5fb0d462f645" />
+      <em>Example of early version of events.</em>
     </p>
   </section>
   <section class="project-section">
