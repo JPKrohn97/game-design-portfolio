@@ -29,7 +29,7 @@ title: Necromeowcy
     </p>
     <p>      
       <a href="https://github.com/user-attachments/assets/bf584bae-23ff-41f1-b78c-f3db90783afd" target="_blank" class="center-aligned">
-        <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/bf584bae-23ff-41f1-b78c-f3db90783afd" />
+        <img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/bf584bae-23ff-41f1-b78c-f3db90783afd" />
       </a>
       <br>
       <em>Gameplay.</em>
@@ -50,7 +50,7 @@ title: Necromeowcy
     </p>
     <p>      
       <a href="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" target="_blank" class="center-aligned">
-        <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" />
+        <img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" />
       </a>
       <br>
       <em>In-game tutorial.</em>
@@ -77,7 +77,7 @@ title: Necromeowcy
     </p>
     <p>
       <a href="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" target="_blank" class="center-aligned">
-        <img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" />
+        <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" />
       </a>
       <br>
       <em>Click to open in new tab.</em>
