@@ -71,9 +71,10 @@ title: Necromeowcy
     <h1 style="text-align: center;">Economy system</h1>
     <p>
       On this next image, I'm presenting a dynamic spreadsheet I worked on, that simulates a projected economy per in-game day: population growth, natural death rate, resource production and consuption, job assigment, food stocks and shortages, population cap. With these numbers in mind, we projected that the player should be able to upgrade their Castle, to unlock Tier 2 buildings and summons, allowing them grow even further. 
+      This numbers don't take into account the positive outcomes of undead servants helping the economy, or the negatives from events and taking Purr away from the living. 
     </p>
     <p>
-      This numbers don't take into account the positive outcomes of undead servants helping the economy, or the negatives from events and taking Purr away from the living. We weren't able to test these number properly as we run out of time, but we tried having a planned economy that would be self sufficient, and the rest is up to the player of how would they manage their growing town.
+      We weren't able to test these number properly as we run out of time, but we tried having a planned economy that would be self sufficient, and the rest is up to the player of how would they manage their growing town.
     </p>
     <p>
       <a href="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" target="_blank" class="center-aligned">
