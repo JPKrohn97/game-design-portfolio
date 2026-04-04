@@ -27,6 +27,13 @@ title: Necromeowcy
     <p>
       This was the game jam theme which at first glance, it was a strange theme to build a game around, but after the initial brainstorming session, we started developing several ideas. Necromancy was big, and was shared among most team members. How could it be used? Having a dead army for what purpose? What if the necromancer is not evil, and uses the dead to serve the living for a limited period of time. 
     </p>
+    <p>      
+      <a href="https://github.com/user-attachments/assets/bf584bae-23ff-41f1-b78c-f3db90783afd" target="_blank" class="center-aligned">
+        <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/bf584bae-23ff-41f1-b78c-f3db90783afd" />
+      </a>
+      <br>
+      <em>Gameplay.</em>
+    </p>
   </section>
   <section class="project-section">
     <h1 style="text-align: center;">Core concept</h1>
@@ -40,6 +47,13 @@ title: Necromeowcy
     <p> 
       This was a great opportunity to introduce necromancy into the game. The player would use the bodies stored in the graveyard to summon undead servants for a limited period of time. They can take any available job, and participate in the economy without consuming resources. Since peasants work during day shift, the player could do necromancy in secret, prevent scaring away peasants and having them to work at night; but, they have the choice to expose them in broad daylight, and making them work twice as much.
       We also found out that, having a limited amount of bodies, would make the mechanic of summon undead servants very situational, and we wanted to encourage the player to use them regularly. That's how we created an energy/mana system called "Purr". The player has the responsibility of taking care of their cat peasants and making them happy, but they also can take their "Purr" away, by shortening their days, and reuse it to raise undead servants. Taking some Purr might not be bad for the town, but taking too much would be CATastrophic...
+    </p>
+    <p>      
+      <a href="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" target="_blank" class="center-aligned">
+        <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" />
+      </a>
+      <br>
+      <em>In-game tutorial.</em>
     </p>
     <p>
       <img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/8d22e13e-f948-40e6-bdc9-f8e467b4806c" />
@@ -56,7 +70,10 @@ title: Necromeowcy
   <section class="project-section">
     <h1 style="text-align: center;">Economy system</h1>
     <p>
-      On this next image, I'm presenting a dynamic spreadsheet I worked on, that simulates a projected economy per in-game day: population growth, natural death, resource production and consuption, job assigment, food shortages, population cap, and even an upgrade to the player's Castle which should allow the player get improve their building even further as well as getting new undead creatures to summon. 
+      On this next image, I'm presenting a dynamic spreadsheet I worked on, that simulates a projected economy per in-game day: population growth, natural death rate, resource production and consuption, job assigment, food stocks and shortages, population cap. With these numbers in mind, we projected that the player should be able to upgrade their Castle, to unlock Tier 2 buildings and summons, allowing them grow even further. 
+    </p>
+    <p>
+      This numbers don't take into account the positive outcomes of undead servants helping the economy, or the negatives from events and taking Purr away from the living. We weren't able to test these number properly as we run out of time, but we tried having a planned economy that would be self sufficient, and the rest is up to the player of how would they manage their growing town.
     </p>
     <p>
       <a href="https://github.com/user-attachments/assets/78b097c0-e1eb-4d38-a6fc-f2b7f51e4cc9" target="_blank" class="center-aligned">
@@ -68,20 +85,6 @@ title: Necromeowcy
     <p>
       I must say I'm not an expert of excel, but I can manage working on functions to create spreadsheet that can allow me design an economy system for a "simple" game. See the sheet for yourself: 
     <a href="https://docs.google.com/spreadsheets/d/1D1Q1IpKQHnFNLXhoZSwwbAe1SD5LLhLoceH37spaDj4/edit?usp=sharing" class="my-link"><strong>Necromeowcy - Economy</strong></a> 
-    </p>
-    <p>      
-      <a href="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" target="_blank" class="center-aligned">
-        <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d2c97147-ecb0-489e-abcc-5f4b5dc8e7aa" />
-      </a>
-      <br>
-      <em>In-game tutorial.</em>
-    </p>
-    <p>      
-      <a href="https://github.com/user-attachments/assets/bf584bae-23ff-41f1-b78c-f3db90783afd" target="_blank" class="center-aligned">
-        <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/bf584bae-23ff-41f1-b78c-f3db90783afd" />
-      </a>
-      <br>
-      <em>Gameplay.</em>
     </p>
   </section>
 </main>
