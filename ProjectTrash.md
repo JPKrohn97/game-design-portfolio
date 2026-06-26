@@ -9,18 +9,18 @@ title: Project Trash
     ---
     <img width="600" height="500" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/87fd66b7-f22e-454f-bf58-42c518821e41" />
     ---
-  <h2 style="text-align: center;">Project Trash</h2>
+  <h2 style="text-align: center;">>What is "Project Trash"?</h2>
   <section class="project-section">
     <p>
-      I would say it is my most successful game so far. I not only worked as a game designer, but it was also my first experience leading a team as a <strong>Product Owner</strong>. I guided a team of thirteen to create an entertaining arcade game based on my vision.
+     Project Trash is the game I'm most proud of so far. It's a fast-paced arcade game that combined engaging gameplay with an educational message about recycling. Players must sort an endless stream of recyclable waste carried by a conveyor belt before it overflows Every dropped or incorrectly sorted item, which eventually leads to a game over. This was my first experience leading as a Product Owner, where I guided thirteen developers through the production.
     </p>
     ---
-    <a href="https://futuregames.itch.io/projecttrash" target="_blank">
-      <strong>PLAY IN BROWSER</strong>
-    </a>
-    <br>
     <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
       <strong>DOWNLOAD FROM STEAM</strong>
+    </a>
+    <br>
+    <a href="https://futuregames.itch.io/projecttrash" target="_blank">
+      <strong>PLAY IN BROWSER</strong>
     </a>
     <p>
       <a href="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" target="_blank">
