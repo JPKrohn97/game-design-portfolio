@@ -5,9 +5,10 @@ title: Project Trash
 
 <div class="layout">
   <aside class="sidebar">
+    <p>
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
+    </p>
       <br>
-      </br>
     <img width="600" height="500" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/4725aaf4-79d8-4e26-a480-f38742cfbdc0" />
       <br>
   <h2 style="text-align: center;">What is "Project Trash"?</h2>
@@ -20,13 +21,11 @@ title: Project Trash
       <strong>DOWNLOAD FROM STEAM</strong>
     </a>
       <br>
-      </br>
     <br>
     <a href="https://futuregames.itch.io/projecttrash" target="_blank">
       <strong>PLAY IN BROWSER</strong>
     </a>
       <br>
-      </br>
     <blockquote>
       Have fun and start sorting!
     </blockquote>
@@ -37,7 +36,7 @@ title: Project Trash
   <main class="content">
     <section class="projects">
   <h1 style="text-align: center;">Project Trash</h1>
-    <h3>An Endless Arcade Sorting Game</h3>
+    <h3 style="text-align: center;">An Endless Arcade Sorting Game</h3>
 <ul>
   <li>Engine: Unity</li>
   <li>Role: Product owner/game designer</li>
@@ -60,48 +59,39 @@ title: Project Trash
   </section>
   <section class="project-section">
       <br>
-      </br>
-  <h2>Game overview</h2>
-    <p>
-  </p>
-  <h3>Problem</h3>
-    <p>
-  </p>
-  <h3>Solution</h3>
-    <p>
-
-  </p>
   <h3>Gameplay loop</h3>
     <p>
-
+Players observe incoming waste items, identify their material, grab them from the conveyor belt, and throw them into the appropriate recycling container. As the game progresses, the conveyor belt continuously delivers new items, increasing the player's workload and forcing faster decision-making. Success depends on maintaining a clean workspace, sorting accurately under pressure, and minimizing mistakes for as long as possible.
+  </p>
+  <h3>Design problem</h3>
+    <p>
+      How can recycling be transformed into an engaging arcade experience that can be both fun and educational?
+  </p>
+  <h3>Design solution</h3>
+    <p>
+      The game combines simple drag-and-throw interactions with an endless stream of randomized recyclable and waste items. Difficulty gradually increases by introducing more objects on the conveyor belt, requiring players to balance speed and accuracy, while reinforcing the recognition of different recyclable materials.
   </p>
   <h3>Result</h3>
     <p>
-
-  </p>
-    <h3 style="text-align: center;">Development Process</h3>
-    <p>
-      Once the teams were revealed and we gained access to the Discord group, we immediately joined a Miro board to brainstorm ideas. We knew the game had to be an arcade, and optionally, it could include a green theme. During brainstorming, a UX/UI team member mentioned how fun physics-based games are. We all agreed, but we needed to narrow down the concept to fit a three-week development scope.  
-      After a second brainstorming session, my idea was chosen. From that moment on, I became the <strong>Product Owner and spokesperson</strong> of the team.
-    </p>
+    Players enjoyed the core gameplay as it was easy to understand
+  </p>¿
+    <section class="projects">¿
+  <div class="projects-container">
+    <div class="project-card">
     <p>
       <a href="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" target="_blank">
         <img src="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" alt="In-game screenshot" width="600" height="500">
       </a>
     </p>
-  </section>
-  <section class="project-section">
-    <h1 style="text-align: center;">Game Concept</h1>
-    <p>
-      The game features an infinite stream of randomized items transported on a conveyor belt into a limited space that the player must keep clear to prevent overspilling.  
-      These items are different recyclable materials, which the player must sort correctly. Incorrect sorting or dropped items count as mistakes; after a certain number of mistakes, the game ends.  
-      The goal was to combine fast-paced arcade gameplay with an educational message.
-    </p>
+    </div>
+    <div class="project-card">
     <p>
       <a href="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" target="_blank">
         <img src="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" alt="Full tray screenshot" width="600" height="500">
       </a>
     </p>
+    </div>
+    </div>
   </section>
   <section class="project-section">
     <h1 style="text-align: center;">Jury Feedback</h1>
