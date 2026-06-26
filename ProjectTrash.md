@@ -6,24 +6,28 @@ title: Project Trash
 <div class="layout">
   <aside class="sidebar">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
+    ---
     <img width="600" height="500" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/87fd66b7-f22e-454f-bf58-42c518821e41" />
+    ---
   <h2 style="text-align: center;">Project Trash</h2>
   <section class="project-section">
     <p>
       I would say it is my most successful game so far. I not only worked as a game designer, but it was also my first experience leading a team as a <strong>Product Owner</strong>. I guided a team of thirteen to create an entertaining arcade game based on my vision.
     </p>
+    ---
     <a href="https://futuregames.itch.io/projecttrash" target="_blank">
       <strong>PLAY IN BROWSER</strong>
     </a>
+    <br>
     <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
       <strong>DOWNLOAD FROM STEAM</strong>
     </a>
     <p>
       <a href="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" target="_blank">
-        <img src="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" alt="Trashbubu mascot" width="100" height="100">
+        <img src="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" alt="Trashbubu mascot" width="100" height="100" tyle="text-align: center;">
       </a>
       <br>
-      <em>*Our game's mascot, the Trashbubu</em>
+      <em tyle="text-align: center;">*Our game's mascot, the Trashbubu</em>
     </p>
   </section>
   </aside>
@@ -31,14 +35,12 @@ title: Project Trash
   <section class="project-section">
     <div class="project-card">
     <h1 style="text-align: center;">Teaser trailer</h1>
-    <p>
       <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
         <img src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
       </a>
-    </p>
     </div>
     <div class="project-card">
-      <h3><a href="ProjectTrash.html" class="my-link">Project Trash</a></h3>
+      <h1>Project Trash on Steam!</h1>
       <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
         https://store.steampowered.com/app/4798760/Project_Trash/
       </a>
