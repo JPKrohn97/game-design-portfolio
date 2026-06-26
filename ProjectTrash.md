@@ -7,6 +7,7 @@ title: Project Trash
   <aside class="sidebar">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
       <br>
+      </br>
     <img width="600" height="500" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/4725aaf4-79d8-4e26-a480-f38742cfbdc0" />
       <br>
   <h2 style="text-align: center;">What is "Project Trash"?</h2>
@@ -18,42 +19,24 @@ title: Project Trash
     <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
       <strong>DOWNLOAD FROM STEAM</strong>
     </a>
+      <br>
+      </br>
     <br>
     <a href="https://futuregames.itch.io/projecttrash" target="_blank">
       <strong>PLAY IN BROWSER</strong>
     </a>
       <br>
-    <p>
-      <a href="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" target="_blank" style="text-align: center;">
-        <img src="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" alt="Trashbubu mascot" width="100" height="100" style="text-align: center;">
-      </a>
-      <br>
+      </br>
     <blockquote>
-      *Our game's mascot, the Trashbubu
+      Have fun and start sorting!
     </blockquote>
-    </p>
       <br>
     <img width="600" height="400" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/f670b8bd-3973-445c-9522-025bd069a25d" />
   </section>
   </aside>
   <main class="content">
     <section class="projects">
-    <div class="project-card">
-    <h1 style="text-align: center;">Teaser trailer</h1>
-      <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
-        <img src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
-      </a>
-    </div>
-    <div class="project-card">
-      <h1>Project Trash on Steam!</h1>
-      <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
-        <https://store.steampowered.com/app/4798760/Project_Trash/>
-      </a>
-    </div>
-  </section>
-  <section class="project-section">
-  <h1 style="text-align: center;">Project Trash<img width="900" height="900" alt="Thumbnail" src="https://github.com/user-attachments/assets/2ea7d028-f3a4-4c61-a137-4660e0a93aae" />
-</h1>
+  <h1 style="text-align: center;">Project Trash</h1>
     <h3>An Endless Arcade Sorting Game</h3>
 <ul>
   <li>Engine: Unity</li>
@@ -61,7 +44,42 @@ title: Project Trash
   <li>Development time: 3 weeks</li>
   <li>Genre: Arcade/time management/endless survival</li>
 </ul>
-    <h1 style="text-align: center;">Development Process</h1>
+  <div class="projects-container">
+    <div class="project-card">
+    <h3 style="text-align: center;">Teaser trailer</h3>
+      <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
+        <img src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
+      </a>
+    </div>
+    <div class="project-card">
+      <h3>Project Trash on Steam!</h3>
+      <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
+      </a>
+    </div>
+    </div>
+  </section>
+  <section class="project-section">
+      <br>
+      </br>
+  <h2>Game overview</h2>
+    <p>
+  </p>
+  <h3>Problem</h3>
+    <p>
+  </p>
+  <h3>Solution</h3>
+    <p>
+
+  </p>
+  <h3>Gameplay loop</h3>
+    <p>
+
+  </p>
+  <h3>Result</h3>
+    <p>
+
+  </p>
+    <h3 style="text-align: center;">Development Process</h3>
     <p>
       Once the teams were revealed and we gained access to the Discord group, we immediately joined a Miro board to brainstorm ideas. We knew the game had to be an arcade, and optionally, it could include a green theme. During brainstorming, a UX/UI team member mentioned how fun physics-based games are. We all agreed, but we needed to narrow down the concept to fit a three-week development scope.  
       After a second brainstorming session, my idea was chosen. From that moment on, I became the <strong>Product Owner and spokesperson</strong> of the team.
