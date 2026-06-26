@@ -128,7 +128,6 @@ Early on, players observe enemy movement, they predict interception points and s
   <li>Serves as a high-threat target that pressures resource allocation and timing decisions</li>
     </ul>
   </section>
-  </section>
   <section class="project-section">
     <h3>How do you get to the leaderboard?</h3>
     <p>
@@ -136,8 +135,8 @@ Early on, players observe enemy movement, they predict interception points and s
     </p>
   </section>
   <section class="project-section projects-container" style="text-align: center;">
-    <a href="https://github.com/user-attachments/assets/089dde3a-59fa-42ff-b258-c6da373f1fa5" target="_blank">
-      <img src="https://github.com/user-attachments/assets/089dde3a-59fa-42ff-b258-c6da373f1fa5" alt="Leaderboard" width="600" height="500">
+    <a href="https://github.com/user-attachments/assets/089dde3a-59fa-42ff-b258-c6da373f1fa5" target="_blank" style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/089dde3a-59fa-42ff-b258-c6da373f1fa5" alt="Leaderboard" width="600" height="500" style="text-align: center;">
     </a>
     <blockquote>
       These are not the highest scores achieved, but they were the highest recorded by me.
