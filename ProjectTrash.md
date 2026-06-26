@@ -45,6 +45,12 @@ title: Project Trash
         https://store.steampowered.com/app/4798760/Project_Trash/
       </a>
     </div>
+    <div class="project-card">
+      <h1>Project Trash on Steam!</h1>
+      <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
+        https://store.steampowered.com/app/4798760/Project_Trash/
+      </a>
+    </div>
   </section>
   <section class="project-section">
     <h1 style="text-align: center;">Development Process</h1>
