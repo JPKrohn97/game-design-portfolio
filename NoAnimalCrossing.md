@@ -20,7 +20,7 @@ title: No* Animal Crossing
   </aside>
   <main class="content">
   <h1 style="text-align: center;">No* Animal Crossing</h1>
-  <h3>An arcade lane-defense survival game</h3>
+  <h3 style="text-align: center;">An arcade lane-defense survival game</h3>
     <ul>
       <li>Engine: Unity</li>
       <li>Role: solo game designer/programmer</li>
