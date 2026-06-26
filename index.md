@@ -32,9 +32,9 @@ title: Julián Perez Krohn
         I've been thinking of making games since I was 13, and slowy but surely, I'm moving forwards with the objective of entering the industry to develop my profesional skills, gain valuable experience and build connections. My ultimate goal is making a impact on both the industry and the world. I believe the best games aren't remembered because of what players did, but because of how those experiences made them feel and the stories they created along the way.
       </p>
       <img width="400" height="500" alt="poster" src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
-      <p>
+    <blockquote>
         *Me as Harrier Du Bouis from Disco Elysium, on Halloween 2025.
-      </p>
+    </blockquote>
     </div>
     <div>
       <h3>Favourite videogames</h3>
