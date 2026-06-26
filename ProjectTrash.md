@@ -28,12 +28,16 @@ title: Project Trash
         <img src="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" alt="Trashbubu mascot" width="100" height="100" style="text-align: center;">
       </a>
       <br>
-      <em style="text-align: center;">*Our game's mascot, the Trashbubu</em>
+    <blockquote>
+      *Our game's mascot, the Trashbubu
+    </blockquote>
     </p>
+      <br>
+    <img width="600" height="400" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/f670b8bd-3973-445c-9522-025bd069a25d" />
   </section>
   </aside>
   <main class="content">
-  <section class="project-section">
+    <section class="projects">
     <div class="project-card">
     <h1 style="text-align: center;">Teaser trailer</h1>
       <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
@@ -43,13 +47,7 @@ title: Project Trash
     <div class="project-card">
       <h1>Project Trash on Steam!</h1>
       <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
-        https://store.steampowered.com/app/4798760/Project_Trash/
-      </a>
-    </div>
-    <div class="project-card">
-      <h1>Project Trash on Steam!</h1>
-      <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
-        https://store.steampowered.com/app/4798760/Project_Trash/
+        <https://store.steampowered.com/app/4798760/Project_Trash/>
       </a>
     </div>
   </section>
