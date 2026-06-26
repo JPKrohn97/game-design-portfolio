@@ -15,6 +15,9 @@ title: Project Trash
     <a href="https://futuregames.itch.io/projecttrash" target="_blank">
       <strong>PLAY IN BROWSER</strong>
     </a>
+    <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
+      <strong>DOWNLOAD FROM STEAM</strong>
+    </a>
     <p>
       <a href="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" target="_blank">
         <img src="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" alt="Trashbubu mascot" width="100" height="100">
@@ -26,12 +29,20 @@ title: Project Trash
   </aside>
   <main class="content">
   <section class="project-section">
+    <div class="project-card">
     <h1 style="text-align: center;">Teaser trailer</h1>
     <p>
       <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
         <img src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
       </a>
     </p>
+    </div>
+    <div class="project-card">
+      <h3><a href="ProjectTrash.html" class="my-link">Project Trash</a></h3>
+      <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
+        https://store.steampowered.com/app/4798760/Project_Trash/
+      </a>
+    </div>
   </section>
   <section class="project-section">
     <h1 style="text-align: center;">Development Process</h1>
