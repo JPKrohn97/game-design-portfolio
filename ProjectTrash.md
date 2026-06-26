@@ -6,15 +6,15 @@ title: Project Trash
 <div class="layout">
   <aside class="sidebar">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
-    ---
+    ------
     <img width="600" height="500" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/87fd66b7-f22e-454f-bf58-42c518821e41" />
-    ---
+    ------
   <h2 style="text-align: center;">>What is "Project Trash"?</h2>
   <section class="project-section">
     <p>
      Project Trash is the game I'm most proud of so far. It's a fast-paced arcade game that combined engaging gameplay with an educational message about recycling. Players must sort an endless stream of recyclable waste carried by a conveyor belt before it overflows Every dropped or incorrectly sorted item, which eventually leads to a game over. This was my first experience leading as a Product Owner, where I guided thirteen developers through the production.
     </p>
-    ---
+    ------
     <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
       <strong>DOWNLOAD FROM STEAM</strong>
     </a>
@@ -24,10 +24,10 @@ title: Project Trash
     </a>
     <p>
       <a href="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" target="_blank">
-        <img src="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" alt="Trashbubu mascot" width="100" height="100" tyle="text-align: center;">
+        <img src="https://github.com/user-attachments/assets/9c7094db-78fb-4171-a8ff-f9423da5e209" alt="Trashbubu mascot" width="100" height="100" style="text-align: center;">
       </a>
       <br>
-      <em tyle="text-align: center;">*Our game's mascot, the Trashbubu</em>
+      <em style="text-align: center;">*Our game's mascot, the Trashbubu</em>
     </p>
   </section>
   </aside>
