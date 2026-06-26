@@ -10,7 +10,8 @@ title: No* Animal Crossing
     <h2 style="text-align: center;">What is "No* Animal Crossing"?</h2>
     <section class="project-section">
       <p>
-        This was the first game I developed during my Futuregames assignments. The task was simple: create a game inspired by arcade classics such as Mario Bros, Pac-Man, Space Invaders, Snake, Frogger...  I instantly started thinking to myself: Frogger? What if I inverted the gameplay of Frogger? I'm not playing as a frog, but the cars... What if I have to prevent the frog from crossing... and that's how I came up with the idea. Over the course of one month, and after not using Unity for nearly a year, I improvised various systems to build the core mechanics and interactions. I used free Unity assets to create a simple yet cohesive experience.
+        This was the first game I developed during my Futuregames assignments. The task was simple: create a game inspired by arcade classics such as Mario Bros, Pac-Man, Space Invaders, Snake, Frogger...  I instantly started thinking to myself: Frogger, Frogger, Frogger!?!?
+        What if I inverted the gameplay of Frogger? I'm not playing as a frog, but the cars... What if I have to prevent the frog from crossing... and that's how I came up with the idea. Over the course of one month, and after not using Unity for nearly a year, I improvised various systems to build the core mechanics and interactions. I used free Unity assets to create a simple yet cohesive experience.
       </p>
       <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank" class="my-link">
         <strong>PLAY IN BROWSER</strong>
@@ -19,22 +20,37 @@ title: No* Animal Crossing
   </aside>
   <main class="content">
   <h1 style="text-align: center;">No* Animal Crossing</h1>
+  <h3 style="text-align: center;">An arcade lane-defense survival game</h3>
+    <ul>
+      <li>Engine: Unity</li>
+      <li>Role: Solo Game Designer / Programmer</li>
+      <li>Development time: 1 month</li>
+      <li>Genre: Arcade / Lane Defense / Score Attack</li>
+      <li>Medieval fencing enthusiast</li>
+    </ul>
+  <h3 style="text-align: center;">Overview"</h3>
     <p>
-      - Engine: Unity
-      - Genre: arcade and survival (maybe "tower defense"?)
-      - Role: solo game designer
-      - Development time: 1 month
-      - Responsibilities: game programmer, game designer, 
-      - Problems:
-      During playtesting players ignored exploration because resources were too abundant.
-      - Solution:
-      I redesigned the loot distribution and moved important upgrades into optional areas.
-      - Result
-      Exploration time increased by 35%.
-    </p>
+This game is an experimental arcade survival experience where players defend a city grid by strategically spawning cars to eliminate incoming animals attempting to cross the streets.
+Inspired by Frogger-like movement systems, the game reverses the concept: instead of avoiding traffic, players use traffic as a defensive tool.
+  </p>
+  <h3 style="text-align: center;">Design Problem</h3>
     <p>
-      Can it be described as an infinite survival tower defense game? Does it belong to a specific genre? The game was mostly improvised. It all started by creating one section of a city with some one-way streets, boulevards and avenues, in which you can spawn cars to hit the animals and prevent them from crossing the street, like Frogger. The game has arcade elements: an endless gameloop with the objective of surviving the longest. Players must compete for a high score to reach the leaderboard.
-    </p>
+How can a simple arcade concept be reinterpreted into a competitive, engaging survival game that encourages strategic thinking and high-score chasing?
+  </p>
+  <h3 style="text-align: center;">Design Solution</h3>
+    <p>
+I focused on two core pillars:
+Skill-based execution: rewarding precise timing and prediction of enemy movement.
+Strategic resource use: forcing players to decide when and where to deploy cars to control lane pressure.
+  </p>
+  <h3 style="text-align: center;">Core Gameplay Loop</h3>
+    <p>
+Players observe enemy movement patterns, predict optimal interception points, and spawn vehicles to eliminate threats before they reach their objective. As the game progresses, pressure increases across multiple lanes, requiring both short-term reaction and long-term planning.
+  </p>
+  <h3 style="text-align: center;">Result</h3>
+    <p>
+      The final experience creates a tension curve where early gameplay focuses on prediction and positioning, while later stages demand prioritization and risk management. Players are incentivized to optimize survival time and compete for high scores on the leaderboard.
+  </p>
   <section class="project-section projects-container">
     <a href="https://github.com/user-attachments/assets/7a7d1ae2-8690-42e0-9d0b-dc7725977e69" target="_blank" class="project-card">
       <img src="https://github.com/user-attachments/assets/7a7d1ae2-8690-42e0-9d0b-dc7725977e69" alt="Gameplay 1">
