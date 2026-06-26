@@ -27,7 +27,7 @@ title: No* Animal Crossing
       <li>Development time: 1 month</li>
       <li>Genre: arcade/lane defense/score attack</li>
     </ul>
-  <h3>Overview</h3>
+  <h2>Game overview</h2>
     <p>
 An experimental arcade survival game where players defend a city by strategically spawning cars to eliminate incoming animals attempting to cross the streets.
 Inspired by Frogger movement systems, the game reverses the roles: instead of avoiding traffic, we use traffic as a defensive tool.
@@ -64,7 +64,73 @@ Early on, players observe enemy movement, they predict interception points and s
     </a>
   </section>
   <section class="project-section">
-    <h1 style="text-align: center;">How do you get to the leaderboard?</h1>
+    <h2>Gameplay features</h2>
+    <h3>Player Vehicles</h3>
+    <p>
+      The player has access to four distinct vehicles, each with unique speed, durability, cooldown, and tactical purpose. Vehicles can be activated individually to trigger a one-time temporary speed boost, increasing the chances to intercept enemies.
+    </p>
+    <h4>Standard car (blue)</h4>
+    <ul>
+      <li>Balanced all-round vehicle</li>
+      <li>Resist up to two enemy hits</li>
+      <li>Lowest cooldown</li>
+      <li>Primary tool for sustained defense and lane control</li>
+    </ul>
+    <h4>Fast car (Red)</h4>
+    <ul>
+      <li>Highest speed in the game</li>
+      <li>Resist one hit</li>
+      <li>Higher cooldown than Standard car</li>
+      <li>Best used for quick interception</li>
+    </ul>
+    <h4>Truck (blue)</h4>
+    <ul>
+      <li>Slow but highly durable</li>
+      <li>Resist multiple hits</li>
+      <li>Can eliminate Bears in a single hit</li>
+      <li>Highest cooldown</li>
+      <li>Designed for high enemy density and heavy-impact situations</li>
+    </ul>
+    <h4>Tanker (red)</h4>
+    <ul>
+      <li>Slightly faster than the Truck</li>
+      <li>On impact, triggers an explosion that destroys both enemies and vehicles within the area</li>
+      <li>Highest cooldown in the game</li>
+      <li>High-risk, high-reward tool for crowd control and emergency situations</li>
+    </ul>
+    <blockquote>
+      Design note: differences in vehicle speeds can lead to unintended collisions, creating additional risk and emergent gameplay situations.
+    </blockquote>
+    <h3>Enemy Types</h3>
+    <p>
+      Enemies spawn at the bottom of the screen and traverse vertically across multiple roads in a Frogger-inspired pattern. Different enemy types are introduced progressively throughout the level, each altering predictability, speed, and durability. This increase in difficulty forces the players to continuously adapt their strategy to increasing pressure and enemy density. Additionally, as the game progresses, the spawn rate of more challenging enemy types is increased.
+    </p>
+    <h4>Frog</h4>
+    <ul>
+  <li>First enemy type introduced</li>
+  <li>Moves by jumping forward between lanes. There is a short cooldown between jumps, creating clear windows of opportunity</li>
+  <li>Predictable movement pattern</li>
+  <li>Eliminated with a single hit</li>
+    </ul>
+    <h4>Rabbit</h4>
+    <ul>
+  <li>Second enemy type introduced</li>
+  <li>Faster and less predictable than the Frog</li>
+  <li>When off cooldown, rabbits can randomly jump backwards, increasing unpredictability</li>
+  <li>Eliminated with a single hit</li>
+    </ul>
+    <h4>Bear</h4>
+    <ul>
+  <li>Final enemy type introduced</li>
+  <li>Slow but highly durable enemy</li>
+  <li>Requires multiple hits from standard vehicles to eliminate</li>
+  <li>Most predictable movement pattern</li>
+  <li>Serves as a high-threat target that pressures resource allocation and timing decisions</li>
+    </ul>
+  </section>
+  </section>
+  <section class="project-section">
+    <h3>How do you get to the leaderboard?</h3>
     <p>
       Does the game require skill? Yes, otherwise how are you supposed to time a car to run over... sorry, save the animals from crossing the dangerous street. Players also require strategic thinking. It's easy to defeat the first waves of critters, but at some point the spawn rate is high, and if players haven't prepared a continuous flow of cars, the animals will inevitably cross. Players have access to four different types of vehicles used for different purposes, so planning ahead is key.
     </p>
@@ -78,30 +144,9 @@ Early on, players observe enemy movement, they predict interception points and s
     </blockquote>
   </section>
   <section class="project-section">
-    <h1 style="text-align: center;">Design choices</h1>
+    <h3>How was it received?</h3>
     <p>
-      Since I only had one month to work on the game, I had to make fast decision to have an early prototype and from then on, polish the core features of the game, add feedback to the players and then content to create variety and let the players choose their play style.
-    </p>
-    <p>
-      Early prototype
-    </p>
-    <p>
-      I started by creating two types of game object: animals and vehicles. 
-      - Vehicles would spawn at a certain location and move horizontally until reaching the exit trigger to get destroyed.
-      - Animals would have a wide area which at random would spawn on the horizontal axis and then move vertically until reaching the exit trigger that would damage the player.
-      Simple concept, made in two days, and enough to have a visual representation of what the game could be. 
-    </p>
-    <p>
-      Adding new features
-    </p>
-    <p>
-      At this moment I realized 
-    </p>
-  </section>
-  <section class="project-section">
-    <h1 style="text-align: center;">How was it received?</h1>
-    <p>
-      During that time, the team had a blast playing it and competing to reach high scores. Some even commented that the original idea seemed silly and boring, but they enjoyed timing the cars and using trucks tactically to defeat groups of enemies.
+      During that time, the team had a blast playing it and competing to reach high scores. Some even commented that the original idea seemed silly and boring, but after playing for a while they enjoyed timing the cars, doing "skill-shots" by sending fast cars to deal with small enemies, or even using the explosive trucks tactically to defeat groups of enemies.
     </p>
   </section>
 </main>
