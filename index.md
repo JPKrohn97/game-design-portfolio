@@ -6,17 +6,17 @@ title: Julián Perez Krohn
 <div class="layout">
   <aside class="sidebar">
     <h1>Julián Perez Krohn</h1>
-    <h3>Who am I? A Hideo Kojima wannabe?</h3>
+    <h3>Who am I?</h3>
     <ul>
-      <li><strong><em>Game design student</em></strong></li>
+      <li><strong><em>Game Design student at Futuregames Warsaw</em></strong></li>
+      <li>Software Developer (7 years)</li>
       <li>Tabletop RPG enjoyer and Dungeon Master since 2021</li>
       <li>Hardcore PC gamer</li>
       <li>Boardgame aficionado</li>
       <li>Medieval fencing enthusiast</li>
     </ul>
     <p>
-      I moved from Argentina to Poland, to study at Futuregames Warsaw, with the
-      objective of getting into the gaming industry.
+      Moved from Argentina to Poland to pursue a career in game development.
     </p>
     <img width="300" height="400" alt="poster" src="https://github.com/user-attachments/assets/75fa9d81-8b3f-4fde-bc44-3806cbbdec6b" />
     <p>
@@ -29,7 +29,7 @@ title: Julián Perez Krohn
         I'm 28 years old, born and raised in Argentina, and surrounded by games since childhood. From playing card games with grandparents and boardgames with cousins, to playing sports at school and videogames with friends; I have always been a fan of the social interactions that comes out of playing games: competitiveness, cooperation, deception, and most importantly, <strong>joy</strong>.
       </p>
       <p>
-        I've been thinking of making games since I was 13, and slowy but surely, I'm moving forwards with the objective of entering the industry to develop my profesional skills, gain valuable experience and build connections. My ultimate goal is making a impact on both the industry and the world.
+        I've been thinking of making games since I was 13, and slowy but surely, I'm moving forwards with the objective of entering the industry to develop my profesional skills, gain valuable experience and build connections. My ultimate goal is making a impact on both the industry and the world. I believe the best games aren't remembered because of what players did, but because of how those experiences made them feel and the stories they created along the way.
       </p>
       <img width="400" height="500" alt="poster" src="https://github.com/user-attachments/assets/be3904ad-215f-4280-bec0-5e7aadec1f6a" />
       <p>
@@ -103,9 +103,9 @@ title: Julián Perez Krohn
         <li>Vampire The Masquerade 20th Anniversary Edition</li>
       </ul>
       <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/8db4ff34-3eef-4aab-bcb4-c9d101256442" />
-        <p style="text-align: left;">
+    <blockquote>
       After a long and rushed Dungeons and Dragons online campaign, Descent into Avernus, we met with the party to have the final showdown in person.
-        </p>
+    </blockquote>
     </div>
     <div class="project-card">
       <h4>Adventures run as DM</h4>
