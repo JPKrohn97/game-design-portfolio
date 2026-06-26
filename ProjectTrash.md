@@ -74,8 +74,8 @@ Players observe incoming waste items, identify their material, grab them from th
   <h3>Result</h3>
     <p>
     Players enjoyed the core gameplay as it was easy to understand
-  </p>¿
-    <section class="projects">¿
+  </p>
+    <section class="projects">
   <div class="projects-container">
     <div class="project-card">
     <p>
@@ -93,26 +93,5 @@ Players observe incoming waste items, identify their material, grab them from th
     </div>
     </div>
   </section>
-  <section class="project-section">
-    <h1 style="text-align: center;">Jury Feedback</h1>
-    <ul>
-      <li>The game was fun</li>
-      <li>The pacing was slower than advertised</li>
-      <li>A timer-based mode could replace the game-over condition</li>
-      <li>Some items were confusing to sort</li>
-      <li>Some bugs were present, but none were game-breaking</li>
-      <li>Certain items were hard to grab and throw</li>
-    </ul>
-    <p>
-      <a href="https://github.com/user-attachments/assets/47a9b9d9-d4df-4c91-b516-4bcfb94d5eec" target="_blank">
-        <img src="https://github.com/user-attachments/assets/47a9b9d9-d4df-4c91-b516-4bcfb94d5eec" alt="Jury screenshot" width="600" height="400">
-      </a>
-    </p>
-  </section>
-  <section class="project-section">
-    <h1 style="text-align: center;">Future Plans</h1>
-    <p>
-      I'm planning to upload the game to Steam, to gather player feedback and increase exposure, as I feel that Itch.io is somewhat limited. Before doing so, I intend to implement improvements based on the jury’s feedback.
-    </p>
 </main>
 </div>
