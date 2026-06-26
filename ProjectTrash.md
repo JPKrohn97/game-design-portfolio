@@ -7,9 +7,9 @@ title: Project Trash
   <aside class="sidebar">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
     ------
-    <img width="600" height="500" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/87fd66b7-f22e-454f-bf58-42c518821e41" />
+    <img width="600" height="500" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/4725aaf4-79d8-4e26-a480-f38742cfbdc0" />
     ------
-  <h2 style="text-align: center;">>What is "Project Trash"?</h2>
+  <h2 style="text-align: center;">What is "Project Trash"?</h2>
   <section class="project-section">
     <p>
      Project Trash is the game I'm most proud of so far. It's a fast-paced arcade game that combined engaging gameplay with an educational message about recycling. Players must sort an endless stream of recyclable waste carried by a conveyor belt before it overflows Every dropped or incorrectly sorted item, which eventually leads to a game over. This was my first experience leading as a Product Owner, where I guided thirteen developers through the production.
@@ -53,6 +53,15 @@ title: Project Trash
     </div>
   </section>
   <section class="project-section">
+  <h1 style="text-align: center;">Project Trash<img width="900" height="900" alt="Thumbnail" src="https://github.com/user-attachments/assets/2ea7d028-f3a4-4c61-a137-4660e0a93aae" />
+</h1>
+    <h3>An Endless Arcade Sorting Game</h3>
+<ul>
+  <li><strong>Engine:</strong> Unity</li>
+  <li><strong>Role:</strong> Product Owner / Game Designer</li>
+  <li><strong>Development Time:</strong> 3 weeks</li>
+  <li><strong>Genre:</strong> Arcade / Time Management / Endless Survival</li>
+</ul>
     <h1 style="text-align: center;">Development Process</h1>
     <p>
       Once the teams were revealed and we gained access to the Discord group, we immediately joined a Miro board to brainstorm ideas. We knew the game had to be an arcade, and optionally, it could include a green theme. During brainstorming, a UX/UI team member mentioned how fun physics-based games are. We all agreed, but we needed to narrow down the concept to fit a three-week development scope.  
