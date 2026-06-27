@@ -97,18 +97,16 @@ Overall, the feedback was positive, while also highlighting clear opportunities 
     <div class="projects-container">
       <div class="project-card">
         <h3>In-game screenshot</h3>
-        <p>
-          <a href="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" target="_blank">
             <img src="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" alt="In-game screenshot" width="600" height="500">
-          </a>
-        </p>
       </div>
       <div class="project-card">
-        <p>
-          <a href="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" target="_blank">
             <img src="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" alt="Full tray screenshot" width="600" height="500">
-          </a>
-        </p>
+      </div>
+      <div class="project-card">
+        <img width="1920" height="1080" alt="Gameplay3" src="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea" />
+      </div>
+      <div class="project-card">
+        <img width="1920" height="1080" alt="Gameplay4" src="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2" />
       </div>
     </div>
   </section>
