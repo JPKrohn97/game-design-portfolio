@@ -58,7 +58,7 @@ title: Project Trash
     </div>
     </div>
   </section>
-  <section class="project-section">¿
+  <section class="project-section">
   <h3>Gameplay loop</h3>
     <p>
 Players observe incoming waste items, identify their material, grab them from the conveyor belt, and throw them into the appropriate recycling container. As the game progresses, the conveyor belt continuously delivers new items, increasing the player's workload and forcing faster decision-making. Success depends on maintaining a clean workspace, sorting accurately under pressure, and minimizing mistakes for as long as possible.
