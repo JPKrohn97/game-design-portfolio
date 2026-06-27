@@ -72,7 +72,7 @@ title: Julián Perez Krohn
     <div class="project-card">
       <h3><a href="ProjectTrash.html" class="my-link">Project Trash</a></h3>
       <a href="ProjectTrash.html">
-        <img src="https://github.com/user-attachments/assets/092bc8a9-40f0-4a05-8184-4d2c3c5a6dc0" alt="ProjectTrash">
+        <img width="900" height="900" alt="Thumbnail" src="https://github.com/user-attachments/assets/63fa4869-90cb-4fe2-9ea0-901ba29f4046" />
       </a>
     </div>
     <div class="project-card">
