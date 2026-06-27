@@ -31,7 +31,6 @@ title: Project Trash
     <blockquote>
       Have fun and start sorting!
     </blockquote>
-      <br>
     <img width="600" height="400" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/f670b8bd-3973-445c-9522-025bd069a25d" />
   </section>
     <div>
@@ -51,14 +50,10 @@ title: Project Trash
   <li>Development time: 3 weeks</li>
   <li>Genre: Arcade/time management/endless survival</li>
 </ul>
-    <div>
       <h3>Play Project Trash on Steam!</h3>
       <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
       <img width="650" height="250" alt="WideLink" src="https://github.com/user-attachments/assets/bdee13c3-58ca-4692-8cad-b7e5b0c453e3" />
       </a>
-    </div>
-  </section>
-  <section class="project-section">
   <h3>Gameplay loop</h3>
     <p>
 Players observe incoming waste items, identify their material, grab them from the conveyor belt, and throw them into the appropriate recycling container. As the game progresses, the conveyor belt continuously delivers new items, increasing the player's workload and forcing faster decision-making. Success depends on maintaining a clean workspace, sorting accurately under pressure, and minimizing mistakes for as long as possible.
@@ -70,27 +65,36 @@ Players observe incoming waste items, identify their material, grab them from th
   <h3>Design solution</h3>
     <p>
       The game was design around several pillars: readability, accessibility, feedback, and engagement.
-
+  </p>
+    <p>
 To ensure clarity, every item was designed using real world objects. Most of them share similar material/texture as the bin: yellow for plastic, blue for paper, gray for metal, green for glass, red for hazardous waste, and black for general waste. And to further reinforce readability, each recycling bin displays its name, icon and dynamic spotlight that signals the player the correct option.
-
+  </p>
+    <p>
 Accessibility was consideration from the beginning. The recycling bins were assigned visually distinct colors to remain easily distinguishable for players with colorblindness, based on guidelines and comparisons researched during development. Also, instead of relying on color-based communication and the multiple layers of identification (mentioned before), the game includes accessibility settings based on the standard profiles of color vision deficiencies.
-
+  </p>
+    <p>
 Every item plays a distinct sound effect when picked up and released, reinforcing the player's actions while also helping identify the object being manipulated. The combination of visual and audio cues creates a responsive feedback system that makes interactions intuitive, and easy to understand. Additionally, correctly sorted items trigger visual effects such as confetti bursts from the recycling bins, while also successful streaks build a combo accompanied by progressively intensifying musical cues that integrate with the background soundtrack. These systems reinforce player performance and make repetitive actions feel satisfying and dynamic. To further reinforce progression, the scoreboard continuously displays the player's score and current combo streak, encouraging players to chase higher scores.
-
+  </p>
+    <p>
 Finally, the game includes humorous references to well-known video games. Examples include "The Orange" cardboard box from Metal Gear, a green-slimed crowbar referencing Half-Life, and a parody mascot, "Trashbubu". These easter eggs add personality and reward attentive players without interfering with core gameplay.
   </p>
   <h3>Result</h3>
     <p>
    After three weeks of development, Futuregames invited a jury of industry professionals to playtest and evaluate the game as a final review.
-
+  </p>
+    <p>
 Project Trash was described as a fun arcade experience. Players were able to quickly understand the mechanics and engage with the core loop.
-
+  </p>
+    <p>
 The jury also identified several minor bugs, none were considered critical, as they were considered solvable in future updates.
-
+  </p>
+    <p>
 The accessibility features were particularly well received, as well as the educational aspect of the project. 
-
+  </p>
+    <p>
 Reviewers also noted the inconsistency between the education value and the game's humor, as certain items occasionally created ambiguity regarding their correct recycling category.
-
+  </p>
+    <p>
 Overall, the feedback was positive, while also highlighting clear opportunities for future improvements in pacing, clarity, and polish.
     </p>
     <section class="projects">
