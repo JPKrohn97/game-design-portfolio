@@ -9,7 +9,9 @@ title: Project Trash
     <a href="index.html" class="my-link"><strong>Back to portfolio</strong></a>
     </p>
       <br>
-    <img width="600" height="500" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/4725aaf4-79d8-4e26-a480-f38742cfbdc0" />
+      <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
+        <img width="300" height="300" alt="SteamLink" src="https://github.com/user-attachments/assets/8070fd5c-c155-43b2-a0f3-1f5a9d6b0365" />
+      </a>
       <br>
   <h2 style="text-align: center;">What is "Project Trash"?</h2>
   <section class="project-section">
@@ -53,7 +55,7 @@ title: Project Trash
     <div class="project-card">
       <h3>Play Project Trash on Steam!</h3>
       <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
-        <img width="300" height="300" alt="SteamLink" src="https://github.com/user-attachments/assets/8070fd5c-c155-43b2-a0f3-1f5a9d6b0365" />
+      <img width="600" height="225" alt="WideLink" src="https://github.com/user-attachments/assets/bdee13c3-58ca-4692-8cad-b7e5b0c453e3" />
       </a>
     </div>
     </div>
