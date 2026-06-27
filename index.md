@@ -66,13 +66,13 @@ title: Julián Perez Krohn
     <div class="project-card">
       <h3><a href="NoAnimalCrossing.html" class="my-link">No* Animal Crossing</a></h3>
       <a href="NoAnimalCrossing.html">
-        <img src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" alt="NoAnimalCrossing">
+        <img width="450" height="450" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" alt="NoAnimalCrossing">
       </a>
     </div>
     <div class="project-card">
       <h3><a href="ProjectTrash.html" class="my-link">Project Trash</a></h3>
       <a href="ProjectTrash.html">
-        <img width="900" height="900" alt="Thumbnail" src="https://github.com/user-attachments/assets/63fa4869-90cb-4fe2-9ea0-901ba29f4046" />
+        <img width="450" height="450" alt="MainCapsule" src="https://github.com/user-attachments/assets/f4ccde91-0897-44d1-912d-dde7cbfe9844" />
       </a>
     </div>
     <div class="project-card">
@@ -84,7 +84,7 @@ title: Julián Perez Krohn
     <div class="project-card">
       <h3><a href="Ecdysis.html" class="my-link">Ecdysis</a></h3>
       <a href="Ecdysis.html">
-        <img src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" alt="Ecdysis">
+        <img width="450" height="450" src="https://github.com/user-attachments/assets/98132455-bc75-4639-8063-e609bb6b6954" alt="Ecdysis">
       </a>
     </div>
     <!-- agrega más proyectos aquí -->
