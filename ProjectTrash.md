@@ -96,7 +96,7 @@ Overall, the feedback was positive, while also highlighting clear opportunities 
     <section class="projects">
     <div class="projects-container">
       <div class="project-card">
-        <h3>In-game screenshot</h3>
+        <h3>In-game screenshots</h3>
             <img src="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" alt="In-game screenshot" width="600" height="500">
       </div>
       <div class="project-card">
