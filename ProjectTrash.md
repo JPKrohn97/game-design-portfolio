@@ -19,12 +19,12 @@ title: Project Trash
      Project Trash is the game I'm most proud of so far. It's a fast-paced arcade game that combined engaging gameplay with an educational message about recycling. Players must sort an endless stream of recyclable waste carried by a conveyor belt before it overflows Every dropped or incorrectly sorted item, which eventually leads to a game over. This was my first experience leading as a Product Owner, where I guided thirteen developers through the production.
     </p>
       <br>
-    <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
+    <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank" class="my-link">
       <strong>DOWNLOAD FROM STEAM</strong>
     </a>
       <br>
     <br>
-    <a href="https://futuregames.itch.io/projecttrash" target="_blank">
+    <a href="https://futuregames.itch.io/projecttrash" target="_blank" class="my-link">
       <strong>PLAY IN BROWSER</strong>
     </a>
       <br>
