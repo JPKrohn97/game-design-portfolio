@@ -6,7 +6,7 @@ title: Project Trash
 <div class="layout">
   <aside class="sidebar">
     <p>
-    <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
+    <a href="index.html" class="my-link"><strong>Back to portfolio</strong></a>
     </p>
       <br>
     <img width="600" height="500" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/4725aaf4-79d8-4e26-a480-f38742cfbdc0" />
@@ -53,13 +53,12 @@ title: Project Trash
     <div class="project-card">
       <h3>Play Project Trash on Steam!</h3>
       <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
-        <img width="300" height="400" alt="SteamLink" src="https://github.com/user-attachments/assets/8070fd5c-c155-43b2-a0f3-1f5a9d6b0365" />
+        <img width="300" height="300" alt="SteamLink" src="https://github.com/user-attachments/assets/8070fd5c-c155-43b2-a0f3-1f5a9d6b0365" />
       </a>
     </div>
     </div>
   </section>
-  <section class="project-section">
-      <br>
+  <section class="project-section">¿
   <h3>Gameplay loop</h3>
     <p>
 Players observe incoming waste items, identify their material, grab them from the conveyor belt, and throw them into the appropriate recycling container. As the game progresses, the conveyor belt continuously delivers new items, increasing the player's workload and forcing faster decision-making. Success depends on maintaining a clean workspace, sorting accurately under pressure, and minimizing mistakes for as long as possible.
