@@ -97,16 +97,24 @@ Overall, the feedback was positive, while also highlighting clear opportunities 
     <div class="projects-container">
       <div class="project-card">
         <h3>In-game screenshots</h3>
-            <img src="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" alt="In-game screenshot" width="600" height="500">
+          <a href="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293">
+            <img src="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" alt="In-game screenshot" width="600" height="500"/>
+            </a>
       </div>
       <div class="project-card">
-            <img src="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" alt="Full tray screenshot" width="600" height="500">
+          <a href="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6">
+            <img src="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" alt="Full tray screenshot" width="600" height="500"/>
+            </a>
       </div>
       <div class="project-card">
-        <img width="1920" height="1080" alt="Gameplay3" src="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea" />
+          <a href="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea">
+        <img src="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea" alt="Confetti screenshot" width="600" height="500"/>
+            </a>
       </div>
       <div class="project-card">
-        <img width="1920" height="1080" alt="Gameplay4" src="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2" />
+          <a href="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2">
+        <img src="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2" alt="Game over screenshot" width="600" height="500"/>
+            </a>
       </div>
     </div>
   </section>
