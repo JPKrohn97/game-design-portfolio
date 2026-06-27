@@ -34,6 +34,12 @@ title: Project Trash
       <br>
     <img width="600" height="400" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/f670b8bd-3973-445c-9522-025bd069a25d" />
   </section>
+    <div class="project-card">
+    <h3 style="text-align: center;">Teaser trailer</h3>
+      <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
+        <img width="600" height="400" src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
+      </a>
+    </div>
   </aside>
   <main class="content">
     <section class="projects">
@@ -45,13 +51,11 @@ title: Project Trash
   <li>Development time: 3 weeks</li>
   <li>Genre: Arcade/time management/endless survival</li>
 </ul>
-    <div class="project-card">
+    <div>
       <h3>Play Project Trash on Steam!</h3>
       <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
-      <img width="600" height="225" alt="WideLink" src="https://github.com/user-attachments/assets/bdee13c3-58ca-4692-8cad-b7e5b0c453e3" />
+      <img width="900" height="400" alt="WideLink" src="https://github.com/user-attachments/assets/bdee13c3-58ca-4692-8cad-b7e5b0c453e3" />
       </a>
-    </div>
-  <div class="projects-container">
     </div>
   </section>
   <section class="project-section">
@@ -92,6 +96,7 @@ Overall, the feedback was positive, while also highlighting clear opportunities 
     <section class="projects">
     <div class="projects-container">
       <div class="project-card">
+        <h3>In-game screenshot</h3>
         <p>
           <a href="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" target="_blank">
             <img src="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" alt="In-game screenshot" width="600" height="500">
@@ -107,9 +112,3 @@ Overall, the feedback was positive, while also highlighting clear opportunities 
       </div>
     </div>
   </section>
-    <div class="project-card">
-    <h3 style="text-align: center;">Teaser trailer</h3>
-      <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
-        <img width="600" height="400" src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
-      </a>
-    </div>
