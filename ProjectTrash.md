@@ -79,7 +79,7 @@ Accessibility was consideration from the beginning. The recycling bins were assi
 
 Every item plays a distinct sound effect when picked up and released, reinforcing the player's actions while also helping identify the object being manipulated. The combination of visual and audio cues creates a responsive feedback system that makes interactions intuitive, and easy to understand. Additionally, correctly sorted items trigger visual effects such as confetti bursts from the recycling bins, while also successful streaks build a combo accompanied by progressively intensifying musical cues that integrate with the background soundtrack. These systems reinforce player performance and make repetitive actions feel satisfying and dynamic. To further reinforce progression, the scoreboard continuously displays the player's score and current combo streak, encouraging players to chase higher scores.
 
-Finally, the game includes humorous references to well-known video games. Examples include "The Orange" cardboard box from Metal Gear, a green-slimed crowbar referencing Half-Life, and our own Trashbubu, a parody of Labubu. These easter eggs add personality and reward attentive players without interfering with core gameplay.
+Finally, the game includes humorous references to well-known video games. Examples include "The Orange" cardboard box from Metal Gear, a green-slimed crowbar referencing Half-Life, and a parody mascot, "Trashbubu". These easter eggs add personality and reward attentive players without interfering with core gameplay.
   </p>
   <h3>Result</h3>
     <p>
@@ -91,7 +91,7 @@ The jury also identified several minor bugs, none were considered critical, as t
 
 The accessibility features were particularly well received, as well as the educational aspect of the project. 
 
-Reviewers also noted some inconsistencies arising from the game's humorous design, where certain objects created ambiguity regarding their correct category.
+Reviewers also noted the inconsistency between the education value and the game's humor, as certain items occasionally created ambiguity regarding their correct recycling category.
 
 Overall, the feedback was positive, while also highlighting clear opportunities for future improvements in pacing, clarity, and polish.
     </p>
