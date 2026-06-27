@@ -71,11 +71,29 @@ Players observe incoming waste items, identify their material, grab them from th
   </p>
   <h3>Design solution</h3>
     <p>
-      The game combines simple drag-and-throw interactions with an endless stream of randomized recyclable and waste items. Difficulty gradually increases by introducing more objects on the conveyor belt, requiring players to balance speed and accuracy, while reinforcing the recognition of different recyclable materials.
+      The game was design around several pillars: readability, accessibility, feedback, and engagement.
+
+To ensure clarity, every item was designed using real world objects. Most of them share similar material/texture as the bin: yellow for plastic, blue for paper, gray for metal, green for glass, red for hazardous waste, and black for general waste. And to further reinforce readability, each recycling bin displays its name, icon and dynamic spotlight that signals the player the correct option.
+
+Accessibility was consideration from the beginning. The recycling bins were assigned visually distinct colors to remain easily distinguishable for players with colorblindness, based on guidelines and comparisons researched during development. Also, instead of relying on color-based communication and the multiple layers of identification (mentioned before), the game includes accessibility settings based on the standard profiles of color vision deficiencies.
+
+Every item plays a distinct sound effect when picked up and released, reinforcing the player's actions while also helping identify the object being manipulated. The combination of visual and audio cues creates a responsive feedback system that makes interactions intuitive, and easy to understand. Additionally, correctly sorted items trigger visual effects such as confetti bursts from the recycling bins, while also successful streaks build a combo accompanied by progressively intensifying musical cues that integrate with the background soundtrack. These systems reinforce player performance and make repetitive actions feel satisfying and dynamic. To further reinforce progression, the scoreboard continuously displays the player's score and current combo streak, encouraging players to chase higher scores.
+
+Finally, the game includes humorous references to well-known video games. Examples include "The Orange" cardboard box from Metal Gear, a green-slimed crowbar referencing Half-Life, and our own Trashbubu, a parody of Labubu. These easter eggs add personality and reward attentive players without interfering with core gameplay.
   </p>
   <h3>Result</h3>
     <p>
-      Players enjoyed the core gameplay as it was easy to understand
+   After three weeks of development, Futuregames invited a jury of industry professionals to playtest and evaluate the game as a final review.
+
+Project Trash was described as a fun arcade experience. Players were able to quickly understand the mechanics and engage with the core loop.
+
+The jury also identified several minor bugs, none were considered critical, as they were considered solvable in future updates.
+
+The accessibility features were particularly well received, as well as the educational aspect of the project. 
+
+Reviewers also noted some inconsistencies arising from the game's humorous design, where certain objects created ambiguity regarding their correct category.
+
+Overall, the feedback was positive, while also highlighting clear opportunities for future improvements in pacing, clarity, and polish.
     </p>
     <section class="projects">
     <div class="projects-container">
