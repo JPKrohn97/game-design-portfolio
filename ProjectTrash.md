@@ -47,12 +47,13 @@ title: Project Trash
     <div class="project-card">
     <h3 style="text-align: center;">Teaser trailer</h3>
       <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
-        <img src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
+        <img width="600" height="400" src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
       </a>
     </div>
     <div class="project-card">
-      <h3>Project Trash on Steam!</h3>
+      <h3>Play Project Trash on Steam!</h3>
       <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
+        <img width="300" height="400" alt="SteamLink" src="https://github.com/user-attachments/assets/8070fd5c-c155-43b2-a0f3-1f5a9d6b0365" />
       </a>
     </div>
     </div>
