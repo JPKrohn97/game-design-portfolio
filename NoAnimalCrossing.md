@@ -6,7 +6,9 @@ title: No* Animal Crossing
 <div class="layout">
   <aside class="sidebar">
     <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
-    <img width="600" height="500" alt="No* Animal Crossing" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" />
+      <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank" class="my-link">
+        <img width="600" height="500" alt="No* Animal Crossing" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" />
+      </a>
     <h2 style="text-align: center;">What is "No* Animal Crossing"?</h2>
     <section class="project-section">
       <p>
@@ -27,6 +29,9 @@ title: No* Animal Crossing
       <li>Development time: 1 month</li>
       <li>Genre: arcade/lane defense/score attack</li>
     </ul>
+      <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank" class="my-link">
+        <strong>PLAY IN BROWSER</strong>
+      </a>
   <h2>Game overview</h2>
     <p>
 An experimental arcade survival game where players defend a city by strategically spawning cars to eliminate incoming animals attempting to cross the streets.
