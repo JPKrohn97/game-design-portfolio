@@ -19,6 +19,12 @@ title: No* Animal Crossing
         <strong>PLAY IN BROWSER</strong>
       </a>
     </section>
+    <div>
+    <h3 style="text-align: center;">Gameplay</h3>
+      <a href="https://youtu.be/_bysra4bc88" target="_blank">
+        <img width="300" height="175" alt="Watch gameplay!" src="https://github.com/user-attachments/assets/2a5e9655-e0dc-4950-9ed2-3de901879cef" />
+      </a>
+    </div>
   </aside>
   <main class="content">
   <h1 style="text-align: center;">No* Animal Crossing</h1>
