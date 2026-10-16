@@ -95,11 +95,11 @@ title: Julián Perez Krohn
             </a>
           </div>
           <div>
-            <span class="card-tag tag-boss">Survival / Defense</span>
+            <span class="card-tag tag-product">PO & Game Design / UE5.8</span>
             <h3 style="margin-top: 0.5rem;"><a href="zomvid-19.html">Zomvid-19</a></h3>
           </div>
           <p class="card-description">
-            A post-apocalyptic zombie survival challenge centered around base fortification, scavenging scarce supplies, and holding the perimeter.
+            First-person zombie defense team project in Unreal Engine 5.8. Led production as Product Owner & Game Designer, designing player-driven barricade systems, illumination, and loot economy.
           </p>
           <div class="card-footer">
             <a href="zomvid-19.html" class="my-link">Read Case Study →</a>
@@ -114,11 +114,11 @@ title: Julián Perez Krohn
             </a>
           </div>
           <div>
-            <span class="card-tag tag-boss">Boss Design</span>
+            <span class="card-tag tag-boss">LD & Game Design / UE5.4</span>
             <h3 style="margin-top: 0.5rem;"><a href="i-hate-fish.html">I HATE FISH</a></h3>
           </div>
           <p class="card-description">
-            Fast-paced underwater arcade boss encounter featuring intense mob survival waves and a massive multi-tentacle Kraken encounter.
+            Underwater FPS boss prototype team project in Unreal Engine 5.4. Sized 3D space metrics, custom swim stroke impulse mechanics, and Atlantis ruin level pacing.
           </p>
           <div class="card-footer">
             <a href="i-hate-fish.html" class="my-link">Read Case Study →</a>
@@ -133,11 +133,11 @@ title: Julián Perez Krohn
             </a>
           </div>
           <div>
-            <span class="card-tag tag-coop">Co-op Simulation</span>
+            <span class="card-tag tag-coop">PO & Game Design / UE5.7</span>
             <h3 style="margin-top: 0.5rem;"><a href="overbrewed.html">OverBrewed</a></h3>
           </div>
           <p class="card-description">
-            Asymmetrical two-player co-op potion brewing and shopkeeping simulator where communication, role division, and physical physics reign.
+            Asymmetrical two-player co-op potion brewing team project in Unreal Engine 5.7 where verbal communication, role division, and physical handling reign.
           </p>
           <div class="card-footer">
             <a href="overbrewed.html" class="my-link">Read Case Study →</a>

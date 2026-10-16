@@ -1,0 +1,53 @@
+About the Game
+
+Survive the  apocalypse by preparing your defenses during the day, to fight zombie hordes at night. Do you have what it takes to survive?
+
+Key Features
+
+Scavenge: Search the environment for randomized loot drops. Every run offers new survival opportunities.
+Fortify: Build your own defense. Manually place furniture and fix them in place to create a strong barricade. Craft and set deadly traps.
+Day & Night Cycle: Plan your strategy during the day, because the horde gets aggressive when the sun goes down.
+Power Management: Keep the lights on! Manage your base's power supply to keep your defenses running through the dark.
+Controls & Instructions
+
+Action	Control
+Movement	W A S D
+Jump	Spacebar
+Attack / Shoot / Throw	Left Mouse Button
+Nail Object (with hammer in hand)	Right Mouse Button
+Interact / Grab	E
+Select Item	Mouse wheel / 1-4
+Drop Item	G
+Reload	R
+Remove Nail	J
+Power Menu
+TAB
+Credits
+
+Team Lead:
+
+Julián Perez Krohn
+
+Producers:
+
+Camilla Davel Braga
+
+Alex Loubenets
+
+Artist: Nadir Zahim 
+
+Programmers: Theo Choicoski
+
+Ozan Turp
+
+Sandee Srisawat (Jab)
+
+Designers: 
+
+Julián Perez Krohn
+
+ Gargeya Deshmukh
+
+ Nikoloz Ninua
+
+Special thanks Mateusz Swarc

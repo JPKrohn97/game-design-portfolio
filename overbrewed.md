@@ -39,15 +39,15 @@ title: OverBrewed
         <div class="metadata-grid">
           <div class="metadata-item">
             <span class="label">Engine</span>
-            <span class="value">(workin on it)</span>
+            <span class="value">Unreal Engine 5.7</span>
           </div>
           <div class="metadata-item">
-            <span class="label">Role</span>
-            <span class="value">Product Owner & Game Designer</span>
+            <span class="label">Roles</span>
+            <span class="value">Product Owner, Game Designer</span>
           </div>
           <div class="metadata-item">
-            <span class="label">Team Size</span>
-            <span class="value">11 developers (Futuregames)</span>
+            <span class="label">Project Type</span>
+            <span class="value">Team Project (11 developers)</span>
           </div>
           <div class="metadata-item">
             <span class="label">Genre</span>
