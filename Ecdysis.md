@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ecdysis
+published: false
 ---
 
 <div class="layout">

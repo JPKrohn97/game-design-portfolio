@@ -5,120 +5,154 @@ title: Project Trash
 
 <div class="layout">
   <aside class="sidebar">
-    <p>
-    <a href="index.html" class="my-link"><strong>Back to portfolio</strong></a>
-    </p>
-      <br>
-      <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
-        <img width="300" height="300" alt="SteamLink" src="https://github.com/user-attachments/assets/8070fd5c-c155-43b2-a0f3-1f5a9d6b0365" />
+    <a href="index.html" class="btn-back">← Back to portfolio</a>
+    
+    <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
+      <img alt="Project Trash Steam Link" src="https://github.com/user-attachments/assets/8070fd5c-c155-43b2-a0f3-1f5a9d6b0365" style="width: 100%; border-radius: var(--radius-md);" />
+    </a>
+
+    <div style="text-align: center; margin-top: 0.5rem;">
+      <h2 style="margin: 0.5rem 0;">Project Trash</h2>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">Endless Arcade Sorting</p>
+    </div>
+
+    <div class="btn-group" style="justify-content: center;">
+      <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank" class="btn btn-primary" style="width: 100%;">
+        Download on Steam ↗
       </a>
-      <br>
-  <h2 style="text-align: center;">What is "Project Trash"?</h2>
-  <section class="project-section">
-    <p>
-     Project Trash is the game I'm most proud of so far. It's a fast-paced arcade game that combined engaging gameplay with an educational message about recycling. Players must sort an endless stream of recyclable waste carried by a conveyor belt before it overflows Every dropped or incorrectly sorted item, which eventually leads to a game over. This was my first experience leading as a Product Owner, where I guided thirteen developers through the production.
-    </p>
-      <br>
-    <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank" class="my-link">
-      <strong>DOWNLOAD FROM STEAM</strong>
-    </a>
-      <br>
-    <br>
-    <a href="https://futuregames.itch.io/projecttrash" target="_blank" class="my-link">
-      <strong>PLAY IN BROWSER</strong>
-    </a>
-      <br>
-    <blockquote>
-      Have fun and start sorting!
-    </blockquote>
-    <img width="600" height="400" alt="Project Trash Poster" src="https://github.com/user-attachments/assets/f670b8bd-3973-445c-9522-025bd069a25d" />
-  </section>
+      <a href="https://futuregames.itch.io/projecttrash" target="_blank" class="btn btn-outline" style="width: 100%;">
+        Play on itch.io ↗
+      </a>
+    </div>
+
     <div>
-    <h3 style="text-align: center;">Teaser trailer</h3>
+      <h3>Quick Overview</h3>
+      <p>
+        Project Trash is a fast-paced arcade game combining engaging sorting mechanics with an educational recycling message. Guided 13 developers as Product Owner over a 3-week sprint.
+      </p>
+    </div>
+
+    <div>
+      <img alt="Project Trash Poster" src="https://github.com/user-attachments/assets/f670b8bd-3973-445c-9522-025bd069a25d" style="width: 100%; border-radius: var(--radius-md);" />
+    </div>
+
+    <div>
+      <h3>Teaser Trailer</h3>
       <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
-        <img width="300" height="175" src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" />
+        <img src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" style="width: 100%; border-radius: var(--radius-md);" />
       </a>
     </div>
   </aside>
+
   <main class="content">
-    <section class="projects">
-  <h1 style="text-align: center;">Project Trash</h1>
-    <h3 style="text-align: center;">An Endless Arcade Sorting Game</h3>
-<ul>
-  <li>Engine: Unity</li>
-  <li>Role: Product owner/game designer</li>
-  <li>Development time: 3 weeks</li>
-  <li>Genre: Arcade/time management/endless survival</li>
-</ul>
-      <h3>Play Project Trash on Steam!</h3>
-      <a href="https://store.steampowered.com/app/4798760/Project_Trash/">
-      <img width="650" height="250" alt="WideLink" src="https://github.com/user-attachments/assets/bdee13c3-58ca-4692-8cad-b7e5b0c453e3" />
-      </a>
-  <h3>Gameplay loop</h3>
-    <p>
-Players observe incoming waste items, identify their material, grab them from the conveyor belt, and throw them into the appropriate recycling container. As the game progresses, the conveyor belt continuously delivers new items, increasing the player's workload and forcing faster decision-making. Success depends on maintaining a clean workspace, sorting accurately under pressure, and minimizing mistakes for as long as possible.
-  </p>
-  <h3>Design problem</h3>
-    <p>
-      How can recycling be transformed into an engaging arcade experience that can be both fun and educational?
-  </p>
-  <h3>Design solution</h3>
-    <p>
-      The game was design around several pillars: readability, accessibility, feedback, and engagement.
-  </p>
-    <p>
-To ensure clarity, every item was designed using real world objects. Most of them share similar material/texture as the bin: yellow for plastic, blue for paper, gray for metal, green for glass, red for hazardous waste, and black for general waste. And to further reinforce readability, each recycling bin displays its name, icon and dynamic spotlight that signals the player the correct option.
-  </p>
-    <p>
-Accessibility was consideration from the beginning. The recycling bins were assigned visually distinct colors to remain easily distinguishable for players with colorblindness, based on guidelines and comparisons researched during development. Also, instead of relying on color-based communication and the multiple layers of identification (mentioned before), the game includes accessibility settings based on the standard profiles of color vision deficiencies.
-  </p>
-    <p>
-Every item plays a distinct sound effect when picked up and released, reinforcing the player's actions while also helping identify the object being manipulated. The combination of visual and audio cues creates a responsive feedback system that makes interactions intuitive, and easy to understand. Additionally, correctly sorted items trigger visual effects such as confetti bursts from the recycling bins, while also successful streaks build a combo accompanied by progressively intensifying musical cues that integrate with the background soundtrack. These systems reinforce player performance and make repetitive actions feel satisfying and dynamic. To further reinforce progression, the scoreboard continuously displays the player's score and current combo streak, encouraging players to chase higher scores.
-  </p>
-    <p>
-Finally, the game includes humorous references to well-known video games. Examples include "The Orange" cardboard box from Metal Gear, a green-slimed crowbar referencing Half-Life, and a parody mascot, "Trashbubu". These easter eggs add personality and reward attentive players without interfering with core gameplay.
-  </p>
-  <h3>Result</h3>
-    <p>
-   After three weeks of development, Futuregames invited a jury of industry professionals to playtest and evaluate the game as a final review.
-  </p>
-    <p>
-Project Trash was described as a fun arcade experience. Players were able to quickly understand the mechanics and engage with the core loop.
-  </p>
-    <p>
-The jury also identified several minor bugs, none were considered critical, as they were considered solvable in future updates.
-  </p>
-    <p>
-The accessibility features were particularly well received, as well as the educational aspect of the project. 
-  </p>
-    <p>
-Reviewers also noted the inconsistency between the education value and the game's humor, as certain items occasionally created ambiguity regarding their correct recycling category.
-  </p>
-    <p>
-Overall, the feedback was positive, while also highlighting clear opportunities for future improvements in pacing, clarity, and polish.
-    </p>
-    <section class="projects">
-    <div class="projects-container">
-      <div class="project-card">
-        <h3>In-game screenshots</h3>
-          <a href="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293">
-            <img src="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" alt="In-game screenshot" width="600" height="500"/>
-            </a>
+    <section>
+      <div class="case-study-header">
+        <h1>Project Trash</h1>
+        <div class="subtitle">An Endless Arcade Sorting Game</div>
+        
+        <div class="metadata-grid">
+          <div class="metadata-item">
+            <span class="label">Engine</span>
+            <span class="value">Unity</span>
+          </div>
+          <div class="metadata-item">
+            <span class="label">Role</span>
+            <span class="value">Product Owner / Game Designer</span>
+          </div>
+          <div class="metadata-item">
+            <span class="label">Timeline</span>
+            <span class="value">3 weeks (13 developers)</span>
+          </div>
+          <div class="metadata-item">
+            <span class="label">Genre</span>
+            <span class="value">Arcade / Time Management / Survival</span>
+          </div>
+        </div>
+
+        <div class="btn-group">
+          <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank" class="btn btn-primary">
+            Get on Steam ↗
+          </a>
+          <a href="https://futuregames.itch.io/projecttrash" target="_blank" class="btn btn-outline">
+            Play on itch.io ↗
+          </a>
+          <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank" class="btn btn-outline">
+            Watch Teaser Trailer ↗
+          </a>
+        </div>
       </div>
-      <div class="project-card">
-          <a href="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6">
-            <img src="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" alt="Full tray screenshot" width="600" height="500"/>
-            </a>
+
+      <div style="margin: 1.5rem 0;">
+        <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
+          <img alt="Project Trash Steam Capsule" src="https://github.com/user-attachments/assets/bdee13c3-58ca-4692-8cad-b7e5b0c453e3" style="width: 100%; border-radius: var(--radius-md);" />
+        </a>
       </div>
-      <div class="project-card">
-          <a href="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea">
-        <img src="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea" alt="Confetti screenshot" width="600" height="500"/>
-            </a>
+
+      <h2>Gameplay Loop</h2>
+      <p>
+        Players observe incoming waste items on a conveyor belt, quickly identify their material composition, grab them, and toss them into the matching recycling container. As the round progresses, conveyor speed accelerates and item flow intensifies, demanding rapid decision-making. Mistakes or dropped waste cause trays to overflow, eventually triggering a game over.
+      </p>
+
+      <h2>Design Pillars</h2>
+
+      <div class="feature-box">
+        <h4>Design Problem</h4>
+        <p>How can recycling be transformed into a dynamic arcade experience that is simultaneously fast-paced, intuitive, and educational?</p>
       </div>
-      <div class="project-card">
-          <a href="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2">
-        <img src="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2" alt="Game over screenshot" width="600" height="500"/>
-            </a>
+
+      <div class="feature-box">
+        <h4>Readability & Multi-Layer Identification</h4>
+        <p>
+          Every item was modeled after real-world objects with recognizable materials: yellow for plastic, blue for paper, gray for metal, green for glass, red for hazardous waste, and black for general refuse. To reinforce instant readability, each recycling container displays its title, an icon, and a dynamic spotlight cueing the player.
+        </p>
       </div>
-    </div>
-  </section>
+
+      <div class="feature-box">
+        <h4>Accessibility-First Thinking</h4>
+        <p>
+          Color palettes were chosen based on contrast research to remain distinct for colorblind players. Rather than relying solely on color recognition, the game integrates secondary and tertiary identifiers (shapes, labels, spotlights) and includes dedicated accessibility settings calibrated to standard color vision deficiency profiles.
+        </p>
+      </div>
+
+      <div class="feature-box">
+        <h4>Sensory Feedback & Dynamic Audio</h4>
+        <p>
+          Every item triggers distinct haptic sound effects on pickup and release. Correct sorting spawns confetti bursts, while sustained streaks build an adaptive combo system where musical layers progressively intensify with player performance.
+        </p>
+      </div>
+
+      <div class="feature-box">
+        <h4>Humor & Easter Eggs</h4>
+        <p>
+          To keep the mood lively, the trash stream contains playful gaming references: "The Orange" cardboard box (Metal Gear), a green-slimed crowbar (Half-Life), and our mascot parody "Trashbubu."
+        </p>
+      </div>
+
+      <h2>Industry Jury Review & Results</h2>
+      <p>
+        After the 3-week production sprint, Futuregames invited a jury of industry professionals to playtest and evaluate Project Trash.
+      </p>
+      <ul>
+        <li><strong>Playability:</strong> Jurors praised the core loop, noting players grasped mechanics immediately and stayed engaged chasing higher combos.</li>
+        <li><strong>Accessibility:</strong> The accessibility considerations and multi-sensory feedback loops received special commendation.</li>
+        <li><strong>Critique & Scope:</strong> Reviewers noted slight friction between educational realism and comedic items where waste categorization was humorous rather than scientifically exact.</li>
+      </ul>
+
+      <h2>In-Game Screenshots</h2>
+      <div class="media-gallery">
+        <a href="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" target="_blank">
+          <img src="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" alt="In-game screenshot" />
+        </a>
+        <a href="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" target="_blank">
+          <img src="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" alt="Full tray screenshot" />
+        </a>
+        <a href="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea" target="_blank">
+          <img src="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea" alt="Confetti celebration screenshot" />
+        </a>
+        <a href="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2" target="_blank">
+          <img src="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2" alt="Game over scoreboard screenshot" />
+        </a>
+      </div>
+    </section>
+  </main>
+</div>
