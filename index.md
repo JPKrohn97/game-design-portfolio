@@ -64,10 +64,15 @@ title: Julián Perez Krohn
   <h2 style="text-align: center;">Games Highlights</h2>
   <div class="projects-container">
     <div class="project-card">
-      <h3><a href="NoAnimalCrossing.html" class="my-link">No* Animal Crossing</a></h3>
-      <a href="NoAnimalCrossing.html">
-        <img width="450" height="450" src="https://github.com/user-attachments/assets/6b5366d6-a10f-4253-976f-fcc5b6088fea" alt="NoAnimalCrossing">
-      </a>
+      <article class="project-card">
+  <a class="btn btn-primary" href="NoAnimalCrossing.html" role="button" aria-label="Open No* Animal Crossing project">No* Animal Crossing</a>
+  <a href="NoAnimalCrossing.html" class="project-thumb" aria-hidden="true">
+    <figure>
+      <img loading="lazy" src="https://github.com/user-attachments/.../image" alt="No* Animal Crossing screenshot">
+      <figcaption style="display:none;">No* Animal Crossing — screenshot</figcaption>
+    </figure>
+  </a>
+</article>
     </div>
     <div class="project-card">
       <h3><a href="ProjectTrash.html" class="my-link">Project Trash</a></h3>
