@@ -1,24 +1,30 @@
 /* ==========================================================================
    Modern Game Design Portfolio - Julián Perez Krohn
-   Design System & Stylesheet
+   Design System & Stylesheet (Antigravity Dark Mode Palette)
    ========================================================================== */
 
 :root {
-  --bg-base: #0c0e14;
-  --bg-surface: #121622;
-  --bg-card: #181d2c;
-  --bg-card-hover: #1f2538;
-  --bg-card-subtle: #141824;
+  /* 3-Tier Antigravity Dark Mode Grays */
+  --bg-base: #111215;          /* Tier 1: Deepest gray for main body background */
+  --bg-surface: #18191e;       /* Tier 2: Intermediate gray for sidebar, game highlights & content sections */
+  --bg-card: #22232a;          /* Tier 3: Lighter dark gray for cards, feature boxes & inner containers */
+  --bg-card-hover: #292a33;    /* Hover state for interactive cards */
+  --bg-card-subtle: #1c1d24;   /* Subtle inner card container background */
   
   --border-color: rgba(255, 255, 255, 0.08);
-  --border-color-hover: rgba(96, 235, 21, 0.4);
+  --border-color-hover: rgba(168, 85, 247, 0.45);
   --border-color-subtle: rgba(255, 255, 255, 0.04);
   
-  --accent-green: #60eb15;
-  --accent-green-hover: #75f631;
-  --accent-green-glow: rgba(96, 235, 21, 0.18);
+  /* Violet details (replacing green) */
   --accent-purple: #a855f7;
+  --accent-purple-hover: #c084fc;
+  --accent-purple-light: #d8b4fe;
+  --accent-purple-glow: rgba(168, 85, 247, 0.25);
+  --accent-purple-bg: rgba(168, 85, 247, 0.12);
+  --accent-purple-border: rgba(168, 85, 247, 0.35);
+  
   --accent-blue: #38bdf8;
+  --accent-rose: #fb7185;
   
   --text-main: #f8fafc;
   --text-secondary: #94a3b8;
@@ -32,7 +38,7 @@
   --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);
   --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.35);
   --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.5);
-  --shadow-glow: 0 0 25px rgba(96, 235, 21, 0.15);
+  --shadow-glow: 0 0 25px rgba(168, 85, 247, 0.20);
   
   --font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -98,18 +104,18 @@ li {
 
 /* Links */
 a {
-  color: var(--accent-green);
+  color: var(--accent-purple);
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 a:hover {
-  color: var(--accent-green-hover);
-  text-shadow: 0 0 10px var(--accent-green-glow);
+  color: var(--accent-purple-hover);
+  text-shadow: 0 0 10px var(--accent-purple-glow);
 }
 
 .my-link {
-  color: var(--accent-green);
+  color: var(--accent-purple);
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
@@ -117,7 +123,7 @@ a:hover {
 }
 
 .my-link:hover {
-  color: var(--accent-green-hover);
+  color: var(--accent-purple-hover);
 }
 
 /* Layout */
@@ -196,7 +202,7 @@ a:hover {
 
 .sidebar ul li::before {
   content: "•";
-  color: var(--accent-green);
+  color: var(--accent-purple);
   position: absolute;
   left: 0;
   font-weight: bold;
@@ -216,9 +222,9 @@ a:hover {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  background: rgba(96, 235, 21, 0.1);
-  border: 1px solid rgba(96, 235, 21, 0.3);
-  color: var(--accent-green);
+  background: var(--accent-purple-bg);
+  border: 1px solid var(--accent-purple-border);
+  color: var(--accent-purple-light);
   font-size: 0.8rem;
   font-weight: 600;
   padding: 0.35rem 0.75rem;
@@ -229,14 +235,14 @@ a:hover {
 .status-dot {
   width: 8px;
   height: 8px;
-  background-color: var(--accent-green);
+  background-color: var(--accent-purple);
   border-radius: 50%;
-  box-shadow: 0 0 8px var(--accent-green);
+  box-shadow: 0 0 8px var(--accent-purple);
 }
 
 /* Details / Expandable */
 .expandable {
-  background: var(--bg-card-subtle);
+  background: var(--bg-card);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
   padding: 0.75rem 1rem;
@@ -262,7 +268,7 @@ a:hover {
 .expandable summary::after {
   content: "↓";
   font-size: 0.9rem;
-  color: var(--accent-green);
+  color: var(--accent-purple);
   transition: transform 0.2s ease;
 }
 
@@ -372,7 +378,7 @@ a:hover {
 }
 
 .project-card:hover h3 a {
-  color: var(--accent-green);
+  color: var(--accent-purple-light);
 }
 
 .project-card .card-description {
@@ -403,10 +409,10 @@ a:hover {
   color: #cbd5e1;
 }
 
-.card-tag.tag-design { background: rgba(96, 235, 21, 0.12); color: var(--accent-green); }
+.card-tag.tag-design { background: var(--accent-purple-bg); color: var(--accent-purple-light); }
 .card-tag.tag-product { background: rgba(56, 189, 248, 0.12); color: var(--accent-blue); }
-.card-tag.tag-boss { background: rgba(244, 63, 94, 0.15); color: #fb7185; }
-.card-tag.tag-coop { background: rgba(168, 85, 247, 0.15); color: #c084fc; }
+.card-tag.tag-boss { background: rgba(244, 63, 94, 0.15); color: var(--accent-rose); }
+.card-tag.tag-coop { background: var(--accent-purple-bg); color: var(--accent-purple-light); }
 
 /* Buttons & CTAs */
 .btn-group {
@@ -432,16 +438,16 @@ a:hover {
 }
 
 .btn-primary {
-  background-color: var(--accent-green);
-  color: #051401 !important;
-  box-shadow: 0 4px 14px rgba(96, 235, 21, 0.3);
+  background-color: var(--accent-purple);
+  color: #ffffff !important;
+  box-shadow: 0 4px 14px rgba(168, 85, 247, 0.35);
 }
 
 .btn-primary:hover {
-  background-color: var(--accent-green-hover);
+  background-color: var(--accent-purple-hover);
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(96, 235, 21, 0.45);
-  color: #051401 !important;
+  box-shadow: 0 6px 20px rgba(168, 85, 247, 0.5);
+  color: #ffffff !important;
 }
 
 .btn-outline {
@@ -451,9 +457,9 @@ a:hover {
 }
 
 .btn-outline:hover {
-  border-color: var(--accent-green);
-  color: var(--accent-green);
-  background: var(--accent-green-glow);
+  border-color: var(--accent-purple);
+  color: var(--accent-purple);
+  background: var(--accent-purple-bg);
 }
 
 .btn-back {
@@ -472,9 +478,9 @@ a:hover {
 }
 
 .btn-back:hover {
-  color: var(--accent-green);
+  color: var(--accent-purple-light);
   border-color: var(--border-color-hover);
-  background: rgba(96, 235, 21, 0.05);
+  background: var(--accent-purple-bg);
 }
 
 /* Project Detail Case Study Pages */
@@ -491,7 +497,7 @@ a:hover {
 
 .case-study-header .subtitle {
   font-size: 1.2rem;
-  color: var(--accent-green);
+  color: var(--accent-purple-light);
   font-weight: 500;
   margin-bottom: 1.25rem;
 }
@@ -574,7 +580,7 @@ video, .featured-video {
 .feature-box {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
-  border-left: 4px solid var(--accent-green);
+  border-left: 4px solid var(--accent-purple);
   border-radius: var(--radius-md);
   padding: 1.25rem 1.5rem;
   margin: 1.25rem 0;
@@ -591,9 +597,9 @@ video, .featured-video {
 
 .wip-badge {
   display: inline-block;
-  color: #eab308;
-  background: rgba(234, 179, 8, 0.12);
-  border: 1px solid rgba(234, 179, 8, 0.3);
+  color: var(--accent-purple-light);
+  background: var(--accent-purple-bg);
+  border: 1px solid var(--accent-purple-border);
   font-size: 0.85rem;
   padding: 0.2rem 0.6rem;
   border-radius: var(--radius-sm);
@@ -603,7 +609,7 @@ video, .featured-video {
 
 /* Blockquotes */
 blockquote {
-  border-left: 3px solid var(--accent-green);
+  border-left: 3px solid var(--accent-purple);
   background: var(--bg-card-subtle);
   padding: 0.85rem 1.25rem;
   border-radius: 0 var(--radius-md) var(--radius-md) 0;
@@ -630,7 +636,7 @@ blockquote {
 }
 
 .media-gallery a:hover {
-  border-color: var(--accent-green);
+  border-color: var(--accent-purple);
   transform: translateY(-3px);
   box-shadow: var(--shadow-md);
 }
