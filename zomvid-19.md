@@ -7,7 +7,7 @@ title: Zomvid-19
   <aside class="sidebar">
     <a href="index.html" class="btn-back">← Back to portfolio</a>
     
-    <img src="Source/Zomvid19Poster.png" alt="Zomvid-19 Poster" style="width: 100%; border-radius: var(--radius-md);" />
+    <img src="Source/Zomvid19-Poster.png" alt="Zomvid-19 Poster" style="width: 100%; border-radius: var(--radius-md);" />
     
     <div style="text-align: center; margin-top: 0.5rem;">
       <h2 style="margin: 0.5rem 0;">Zomvid-19</h2>
@@ -73,7 +73,7 @@ title: Zomvid-19
 
       <h2>Trailer & Gameplay Footage</h2>
       <div class="video-container">
-        <video controls preload="metadata" poster="Source/Zomvid19Poster.png" class="featured-video">
+        <video controls preload="metadata" poster="Source/Zomvid19-Poster.png" class="featured-video">
           <source src="Source/Zomvid19-Trailer.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
