@@ -13,7 +13,7 @@ title: Julián Perez Krohn - Game Design Portfolio
       </svg>
       <span>About me</span>
     </button>
-    <button type="button" class="nav-tab-btn nav-tab-center" id="btn-tab-career">
+    <button type="button" class="nav-tab-btn nav-tab-center active" id="btn-tab-career" aria-expanded="true">
       <svg class="tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <rect x="2" y="6" width="20" height="12" rx="2"></rect>
         <path d="M6 12h4m-2-2v4"></path>
@@ -60,7 +60,7 @@ title: Julián Perez Krohn - Game Design Portfolio
         </div>
       </div>
 
-      <!-- Columna 2: Background & Interests, y los links -->
+      <!-- Columna 2: Background & Interests, Contact details & links, y Favourite games -->
       <div class="about-col-secondary">
         <h3>Background & Interests</h3>
         <ul class="about-interests-list">
@@ -82,10 +82,43 @@ title: Julián Perez Krohn - Game Design Portfolio
             </a>
           </div>
         </div>
+
+        <!-- Favourite games (Ubicado directamente debajo de Contact details & links) -->
+        <div class="favorites-section" style="margin-top: 1.25rem;">
+          <h4 class="links-subtitle">Favourite games</h4>
+          <div class="favorites-grid" style="margin-top: 0.65rem;">
+            <div class="favorites-col">
+              <h5 class="fav-subheading">Videogames</h5>
+              <div class="games-thumb-grid">
+                <a href="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" target="_blank">
+                  <img src="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" alt="Favourite videogames 1">
+                </a>
+                <a href="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" target="_blank">
+                  <img src="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" alt="Favourite videogames 2">
+                </a>
+                <a href="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" target="_blank">
+                  <img src="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" alt="Favourite videogames 3">
+                </a>
+                <a href="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" target="_blank">
+                  <img src="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" alt="Favourite videogames 4">
+                </a>
+              </div>
+            </div>
+
+            <div class="favorites-col">
+              <h5 class="fav-subheading">Boardgames</h5>
+              <div class="boardgame-thumb-wrapper">
+                <a href="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" target="_blank">
+                  <img src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" alt="Favourite boardgames">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
-    <!-- Div 2 (Inferior): Botón expandible para el resto de información -->
+    <!-- Div 2 (Inferior): Botón expandible para historia personal y cosplay -->
     <div class="about-expandable-section">
       <details class="about-expandable">
         <summary>
@@ -105,36 +138,6 @@ title: Julián Perez Krohn - Game Design Portfolio
             <blockquote class="photo-caption">
               *Me as Harrier Du Bois from Disco Elysium, on Halloween 2025.
             </blockquote>
-          </div>
-
-          <!-- Dos columnas: Favourite videogames & Favourite boardgames -->
-          <div class="favorites-grid">
-            <div class="favorites-col">
-              <h4>Favourite videogames</h4>
-              <div class="games-thumb-grid">
-                <a href="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" target="_blank">
-                  <img src="https://github.com/user-attachments/assets/8d019e89-1669-43b3-b169-259b807debc8" alt="Favourite videogames 1">
-                </a>
-                <a href="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" target="_blank">
-                  <img src="https://github.com/user-attachments/assets/d12cd85f-9c89-4de2-9b62-c7e9a4061739" alt="Favourite videogames 2">
-                </a>
-                <a href="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" target="_blank">
-                  <img src="https://github.com/user-attachments/assets/c88e8aa3-d42d-41a4-bf57-d6fce9e14643" alt="Favourite videogames 3">
-                </a>
-                <a href="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" target="_blank">
-                  <img src="https://github.com/user-attachments/assets/568353a1-2a24-46bf-a454-11cdaecb4c6b" alt="Favourite videogames 4">
-                </a>
-              </div>
-            </div>
-
-            <div class="favorites-col">
-              <h4>Favourite boardgames</h4>
-              <div class="boardgame-thumb-wrapper">
-                <a href="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" target="_blank">
-                  <img src="https://github.com/user-attachments/assets/d991960d-0e12-4ec9-b79a-34d99bda003d" alt="Favourite boardgames">
-                </a>
-              </div>
-            </div>
           </div>
         </div>
       </details>
@@ -192,131 +195,119 @@ title: Julián Perez Krohn - Game Design Portfolio
   </div>
 </aside>
 
-<!-- 5. Main Content: Vertical Alternating Overlapping Games Showcase Feed -->
+<!-- 5. Main Content: Vertical Alternating Overlapping Games Showcase Feed (Grunge Ripped Posters) -->
 <main class="games-showcase-page">
   <div class="games-showcase-list">
-    <!-- 1. Zomvid-19 (Impar -> Docked to the Right Edge) -->
+    <!-- 1. Zomvid-19 (Impar -> Poster on Right, Scrap Container on Left) -->
     <article class="game-showcase-item">
       <div class="game-poster-bg" style="background-image: url('Source/Zomvid19-Poster.png');"></div>
       <div class="game-overlay-container">
-        <div class="game-row-header">
+        <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="zomvid-19.html">Zomvid-19</a></h2>
           <div class="game-overlay-tags">
             <span class="card-tag tag-product">PO & Game Design / UE5.8</span>
           </div>
         </div>
-        <div class="game-row-body">
-          <p class="game-overlay-desc">
-            First-person zombie defense team project in Unreal Engine 5.8. Led production as Product Owner & Game Designer, designing player-driven barricade systems, illumination, and loot economy.
-          </p>
-          <div class="game-overlay-action">
-            <a href="zomvid-19.html" class="btn btn-primary">Read more</a>
-          </div>
+        <p class="game-overlay-desc">
+          First-person zombie defense team project in Unreal Engine 5.8. Led production as Product Owner & Game Designer, designing player-driven barricade systems, illumination, and loot economy.
+        </p>
+        <div class="game-overlay-action">
+          <a href="zomvid-19.html" class="btn btn-primary">Read more →</a>
         </div>
       </div>
     </article>
 
-    <!-- 2. I HATE FISH (Par -> Docked to the Left Edge) -->
+    <!-- 2. I HATE FISH (Par -> Poster on Left, Scrap Container on Right) -->
     <article class="game-showcase-item">
       <div class="game-poster-bg" style="background-image: url('Source/IHateFish-Poster.png');"></div>
       <div class="game-overlay-container">
-        <div class="game-row-header">
+        <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="i-hate-fish.html">I HATE FISH</a></h2>
           <div class="game-overlay-tags">
             <span class="card-tag tag-boss">LD & Game Design / UE5.4</span>
           </div>
         </div>
-        <div class="game-row-body">
-          <p class="game-overlay-desc">
-            Underwater FPS boss prototype team project in Unreal Engine 5.4. Sized 3D space metrics, custom swim stroke impulse mechanics, and Atlantis ruin level pacing.
-          </p>
-          <div class="game-overlay-action">
-            <a href="i-hate-fish.html" class="btn btn-primary">Read more</a>
-          </div>
+        <p class="game-overlay-desc">
+          Underwater FPS boss prototype team project in Unreal Engine 5.4. Sized 3D space metrics, custom swim stroke impulse mechanics, and Atlantis ruin level pacing.
+        </p>
+        <div class="game-overlay-action">
+          <a href="i-hate-fish.html" class="btn btn-primary">Read more →</a>
         </div>
       </div>
     </article>
 
-    <!-- 3. OverBrewed (Impar -> Docked to the Right Edge) -->
+    <!-- 3. OverBrewed (Impar -> Poster on Right, Scrap Container on Left) -->
     <article class="game-showcase-item">
       <div class="game-poster-bg" style="background-image: url('Source/Overbrewed-Poster.png');"></div>
       <div class="game-overlay-container">
-        <div class="game-row-header">
+        <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="overbrewed.html">OverBrewed</a></h2>
           <div class="game-overlay-tags">
             <span class="card-tag tag-coop">PO & Game Design / UE5.7</span>
           </div>
         </div>
-        <div class="game-row-body">
-          <p class="game-overlay-desc">
-            Asymmetrical two-player co-op potion brewing team project in Unreal Engine 5.7 where verbal communication, role division, and physical handling reign.
-          </p>
-          <div class="game-overlay-action">
-            <a href="overbrewed.html" class="btn btn-primary">Read more</a>
-          </div>
+        <p class="game-overlay-desc">
+          Asymmetrical two-player co-op potion brewing team project in Unreal Engine 5.7 where verbal communication, role division, and physical handling reign.
+        </p>
+        <div class="game-overlay-action">
+          <a href="overbrewed.html" class="btn btn-primary">Read more →</a>
         </div>
       </div>
     </article>
 
-    <!-- 4. No* Animal Crossing (Par -> Docked to the Left Edge) -->
+    <!-- 4. No* Animal Crossing (Par -> Poster on Left, Scrap Container on Right) -->
     <article class="game-showcase-item">
       <div class="game-poster-bg" style="background-image: url('Source/NoAnimalCrossing-Poster.png');"></div>
       <div class="game-overlay-container">
-        <div class="game-row-header">
+        <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="NoAnimalCrossing.html">No* Animal Crossing</a></h2>
           <div class="game-overlay-tags">
             <span class="card-tag tag-design">Lane Defense / Arcade</span>
           </div>
         </div>
-        <div class="game-row-body">
-          <p class="game-overlay-desc">
-            Inverting Frogger's core premise: players control traffic to defensively eliminate crossing animals with satisfying skill-shots and lane control.
-          </p>
-          <div class="game-overlay-action">
-            <a href="NoAnimalCrossing.html" class="btn btn-primary">Read more</a>
-          </div>
+        <p class="game-overlay-desc">
+          Inverting Frogger's core premise: players control traffic to defensively eliminate crossing animals with satisfying skill-shots and lane control.
+        </p>
+        <div class="game-overlay-action">
+          <a href="NoAnimalCrossing.html" class="btn btn-primary">Read more →</a>
         </div>
       </div>
     </article>
 
-    <!-- 5. Project Trash (Impar -> Docked to the Right Edge) -->
+    <!-- 5. Project Trash (Impar -> Poster on Right, Scrap Container on Left) -->
     <article class="game-showcase-item">
       <div class="game-poster-bg" style="background-image: url('Source/ProjectTrash-Poster.png');"></div>
       <div class="game-overlay-container">
-        <div class="game-row-header">
+        <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="ProjectTrash.html">Project Trash</a></h2>
           <div class="game-overlay-tags">
             <span class="card-tag tag-product">Product Owner / Arcade</span>
           </div>
         </div>
-        <div class="game-row-body">
-          <p class="game-overlay-desc">
-            Fast-paced arcade recycling game combining educational design pillars with responsive sensory feedback. Published on Steam and itch.io.
-          </p>
-          <div class="game-overlay-action">
-            <a href="ProjectTrash.html" class="btn btn-primary">Read more</a>
-          </div>
+        <p class="game-overlay-desc">
+          Fast-paced arcade recycling game combining educational design pillars with responsive sensory feedback. Published on Steam and itch.io.
+        </p>
+        <div class="game-overlay-action">
+          <a href="ProjectTrash.html" class="btn btn-primary">Read more →</a>
         </div>
       </div>
     </article>
 
-    <!-- 6. Necromeowcy (Par -> Docked to the Left Edge) -->
+    <!-- 6. Necromeowcy (Par -> Poster on Left, Scrap Container on Right) -->
     <article class="game-showcase-item">
       <div class="game-poster-bg" style="background-image: url('Source/Necromeowcy-Poster.png');"></div>
       <div class="game-overlay-container">
-        <div class="game-row-header">
+        <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="Necromeowcy.html">Necromeowcy</a></h2>
           <div class="game-overlay-tags">
             <span class="card-tag tag-design">City Builder / Jam</span>
           </div>
         </div>
-        <div class="game-row-body">
-          <p class="game-overlay-desc">
-            Strategic city builder made in a one-week game jam featuring necromancy for the common good, living vs. undead workforce, and economy modeling.
-          </p>
-          <div class="game-overlay-action">
-            <a href="Necromeowcy.html" class="btn btn-primary">Read more</a>
-          </div>
+        <p class="game-overlay-desc">
+          Strategic city builder made in a one-week game jam featuring necromancy for the common good, living vs. undead workforce, and economy modeling.
+        </p>
+        <div class="game-overlay-action">
+          <a href="Necromeowcy.html" class="btn btn-primary">Read more →</a>
         </div>
       </div>
     </article>

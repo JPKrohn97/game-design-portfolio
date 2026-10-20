@@ -41,9 +41,21 @@ document.addEventListener('DOMContentLoaded', () => {
       overlay.setAttribute('aria-hidden', 'true');
     }
     document.body.style.overflow = '';
+
+    // "Game design career" is marked as active whenever no drawer is open
+    if (btnCareer) {
+      btnCareer.classList.add('active');
+      btnCareer.setAttribute('aria-expanded', 'true');
+    }
   }
 
   function openDrawer(drawerToOpen, btnToActivate) {
+    // When a side drawer is opened, remove active state from Game design career
+    if (btnCareer) {
+      btnCareer.classList.remove('active');
+      btnCareer.setAttribute('aria-expanded', 'false');
+    }
+
     // If opposite drawer is open, close it cleanly first
     if (drawerToOpen === drawerAbout && isDrawerOpen(drawerTtrpg)) {
       drawerTtrpg.classList.remove('panel-open');
@@ -78,6 +90,12 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.style.overflow = 'hidden';
   }
 
+  // Set default active state on initial load: Game design career is active
+  if (btnCareer) {
+    btnCareer.classList.add('active');
+    btnCareer.setAttribute('aria-expanded', 'true');
+  }
+
   // Tab 1: About Me
   if (btnAbout && drawerAbout) {
     btnAbout.addEventListener('click', (e) => {
@@ -90,7 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Tab 2: Game Design (Closes side drawers and scrolls smoothly to showcase)
+  // Tab 2: Game Design Career (Closes side drawers and scrolls smoothly to showcase)
   if (btnCareer) {
     btnCareer.addEventListener('click', (e) => {
       e.stopPropagation();
@@ -99,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Tab 3: DM & TTRPGS
+  // Tab 3: DM & TTRPGs background
   if (btnTtrpg && drawerTtrpg) {
     btnTtrpg.addEventListener('click', (e) => {
       e.stopPropagation();
