@@ -20,28 +20,21 @@ title: I HATE FISH
       <a href="https://jpkrohn97.itch.io/i-hate-fish" target="_blank" class="btn btn-primary" style="width: 100%;">
         Play on itch.io ↗
       </a>
-      <a href="https://youtu.be/b9l_qhYmrbY" target="_blank" class="btn btn-outline" style="width: 100%;">
-        Watch on YouTube ↗
-      </a>
-      <a href="https://miro.com/app/board/uXjVGy_LbHE=/?share_link_id=182028882207" target="_blank" class="btn btn-outline" style="width: 100%;">
-        Miro Design Board ↗
-      </a>
     </div>
 
     <div>
       <h3>Quick Overview</h3>
       <p>
-        A fast-paced underwater FPS boss encounter created in <strong>Unreal Engine 5.4</strong> at Futuregames. Battle hostile aquatic mobs through sunken Atlantis ruins before confronting the massive Kraken in a gladiatorial submerged arena.
+        A fast-paced underwater FPS boss encounter created in <strong>Unreal Engine 5.4</strong> at Futuregames. Battle hostile aquatic mobs through sunken ruins before confronting the massive Kraken in a submerged arena.
       </p>
     </div>
 
     <div>
       <h3>Core Credits</h3>
       <ul>
-        <li><strong>Format:</strong> Team Project (Team Hate Fish)</li>
         <li><strong>Roles:</strong> Level Designer, Game Designer</li>
         <li><strong>Team Lead:</strong> Nikoloz Ninua</li>
-        <li><strong>Assignment:</strong> Futuregames Boss Design (AGD GD25)</li>
+        <li><strong>Assignment:</strong> Futuregames Advanced Design (Boss Fight)</li>
       </ul>
     </div>
   </aside>
@@ -62,32 +55,13 @@ title: I HATE FISH
             <span class="value">Level Designer, Game Designer</span>
           </div>
           <div class="metadata-item">
-            <span class="label">Format</span>
-            <span class="value">Team Project</span>
-          </div>
-          <div class="metadata-item">
             <span class="label">Timeline</span>
             <span class="value">3 Weeks (Futuregames AGD GD25)</span>
           </div>
           <div class="metadata-item">
             <span class="label">Genre</span>
-            <span class="value">Underwater FPS / Boss Fight</span>
+            <span class="value">FPS</span>
           </div>
-        </div>
-
-        <div class="btn-group">
-          <a href="https://jpkrohn97.itch.io/i-hate-fish" target="_blank" class="btn btn-primary">
-            Download on itch.io ↗
-          </a>
-          <a href="https://youtu.be/b9l_qhYmrbY" target="_blank" class="btn btn-outline">
-            Watch Full Gameplay ↗
-          </a>
-          <a href="https://miro.com/app/board/uXjVGy_LbHE=/?share_link_id=182028882207" target="_blank" class="btn btn-outline">
-            Miro Design Board ↗
-          </a>
-          <a href="https://canva.link/k5eisas0gd05s8u" target="_blank" class="btn btn-outline">
-            Canva Deck ↗
-          </a>
         </div>
       </div>
 
@@ -98,57 +72,61 @@ title: I HATE FISH
 
       <h2>Project Overview & Creative Vision</h2>
       <p>
-        Developed during the Futuregames Boss Design module, <strong>I HATE FISH</strong> is an intense underwater first-person shooter prototype. Sourcing key assets from Epic's FAB store (an ancient Atlantis ruins kit and a terrifying Kraken model), our team combined claustrophobic corridor exploration with an expansive colosseum-style boss arena.
+        Developed during the Futuregames Advanced Design course, <strong>I HATE FISH</strong> is an underwater first-person shooter prototype. Our team combined claustrophobic corridor exploration with an expansive colosseum-style boss arena.
       </p>
       <p>
-        Because traditional navigation navmeshes fail in full 3D vertical underwater volume, I helped set up Unreal Engine 5.4 with a specialized 3D pathfinding plugin, configured our Miro board for rapid level sketching, and coordinated our Diversion version control repository.
+        Because traditional navigation navmeshes fail in full 3D vertical underwater volume, we've set up Unreal Engine 5.4 with a specialized 3D pathfinding plugin.
       </p>
 
-      <h2>Level Design: From 2D Miro Metrics to Unreal Greybox</h2>
+      <h2>Level Design: From 2D Miro to Unreal</h2>
       <p>
-        As Level Designer, I approached the space in two distinct beats: an **Introductory Tutorial Corridor** and the **Submerged Boss Colosseum**.
+        As Level Designer, I started with a 2m tall player character as main reference, and then a 20m tall, 50m long and 30m Kraken. With these two values, I started sketching the general layout in miro board and I approached the space in two distinct beats: <strong>Tutorial Corridors</strong> and the <strong>Boss Arena</strong>. 
       </p>
 
       <div class="feature-box">
-        <h4>1. Introductory Section (Tutorial & Pacing)</h4>
+        <h4>Introductory Section</h4>
         <ul>
-          <li><strong>Safe Spawn & Immersion:</strong> The player begins in a dry, safe room and jumps through an opening into the water, establishing the land-to-water movement transition.</li>
-          <li><strong>Environmental Literacy:</strong> Introduces essential interaction mechanics before high-stress encounters: toggling levers, navigating timed doors, and detonating naval mines/explosive barrels to breach destructible walls.</li>
-          <li><strong>The Tease:</strong> Built-in submerged windows allow players to glimpse looming aquatic threats pacing inside adjacent chambers, creating anticipation and narrative tension.</li>
+          <li><strong>Spawn:</strong> The player begins in a safe area with a distant structure foreshadowing the arena.</li>
+          <li><strong>Movement:</strong> After jumping through an opening into the water, the player must adapt into an underwater movement system, where they can explore safely and get used to the controls and rhythm. </li>
+          <li><strong>Mechanics:</strong> Then they are introduced to basic mechanics: toggling levers, navigating timed doors, the friendly healing crabs, and explosive barrels (used to open passages or hurt enemies).</li>
+          <li><strong>Teasing Enemy:</strong> A windows allow players to glimpse looming aquatic threats pacing inside adjacent chambers, creating anticipation.</li>
+          <li><strong>Level:</strong> Linear and claustrophobic.</li>
+          <li><strong>Increasing Threat:</strong> Finally, as the player move closer to the Arena, they are tested before the final confrotation.</li>
         </ul>
       </div>
 
       <div class="feature-box">
-        <h4>2. Boss Arena Metrics & Sightlines</h4>
-        <p>
-          Level metrics were calculated based on a <strong>2m player character</strong> versus a <strong>20m tall, 50m wide Kraken colossus</strong>:
-        </p>
+        <h4>Colosseum</h4>
         <ul>
-          <li><strong>Scale & Flow:</strong> Calibrated corridor dimensions so smaller shark minions could flank the player in 3D while preserving readable combat lines.</li>
-          <li><strong>Verticality & Pillars:</strong> Distributed ancient Atlantis pillars throughout the arena floor to serve as visual anchor points, cover from sweeping attacks, and tactical vertical navigation routes.</li>
+          <li><strong>Fantasy:</strong> In order to reinforce the idea of facing a massive creature in underwater ruins, the Kraken relies on big and telegraphed attacks. Then there are several elements that are destructible. One of this cases is important during the introduction of the Kraken once the player enters the arena.</li>
+          <li><strong>Level:</strong> Open and wide. Additionally, there are side passages which the player can take to have total cover from Kraken's bigger attacks, give them a breather.</li>
+          <li><strong>Minions:</strong> To prevent the player from hiding and take safe shot on the Kraken, minions are constantly spawning forcing the player to move around.</li>
         </ul>
       </div>
 
-      <h2>Production Pivots & Design Challenges</h2>
+      <h2>Design Challenges</h2>
 
       <div class="feature-box">
-        <h4>Pivotal Design 1: The "Swim Stroke" Movement Rework</h4>
+        <h4>"Swim Stroke" Movement</h4>
         <p>
-          Unreal's default character controller felt floaty, uninspired, and disconnected from underwater physics. I spearheaded a complete movement overhaul:
+          Unreal's default underwayer character movement felt floaty, uninspired, and disconnected from underwater physics. I was responsible to overhaul the movement system:
         </p>
         <ul>
-          <li><strong>Rhythmic Impulse:</strong> Players can hold any movement key to swim at a slow, constant pace, or tap rhythmically to trigger forward thrusts replicating genuine swim strokes.</li>
-          <li><strong>Physics Tuning:</strong> Custom values for drag, inertia, gravity attenuation, and momentum were tuned to deliver an authentic underwater weight. This impulse mechanic later influenced minion attack velocity and boss reaction timing.</li>
+          <li><strong>Rhythmic Impulse:</strong> Players can hold any movement key to swim at a slow, constant pace, or tap rhythmically to trigger forward thrusts replicating genuine swim strokes. The HUD provides with a visual indicator so the player can master the movement.</li>
+          <li><strong>Physics Tuning:</strong> Custom values for drag, inertia, gravity, and momentum were tuned to deliver a realistic feeling.</li>
         </ul>
+        <p>
+          The result influenced the level design, enemy speed, boss timings, area of effect and many other systems.
+        </p>
       </div>
 
       <div class="feature-box">
-        <h4>Pivotal Design 2: Arena Rescaling for a Static Boss</h4>
+        <h4>Arena Rescaling for a Static Boss</h4>
         <p>
-          Midway through production, technical bottlenecks made a free-roaming 3D boss AI impractical within our 3-week timeline. As Producer, I made the call to anchor the Kraken to a fixed lair at the far end of the arena.
+          By the second week of out three weeks project, our team leader made the call to rework the boss fight by anchoring the Kraken, in order to meet the deadline.
         </p>
         <p>
-          I immediately redesigned the greybox layout: <strong>tightened the arena volume</strong> so the player could never feel completely out of danger, and introduced dedicated cover niches alongside a long-range tentacle slam attack so the boss could reach players attempting to exploit blind spots.
+          I immediately redesigned new sketches: tightened the arena volume so the player could never feel completely out of danger, and introduced dedicated cover niches alongside a long-range tentacle slam attack so the boss could reach players attempting to exploit blind spots.
         </p>
       </div>
 

@@ -14,28 +14,11 @@ title: Zomvid-19
       <p style="color: var(--text-muted); font-size: 0.9rem;">Fortify, Scavenge & Survive</p>
     </div>
 
-    <div class="btn-group" style="justify-content: center;">
-      <a href="https://miro.com/app/board/uXjVHvWENxQ=/?share_link_id=246443047222" target="_blank" class="btn btn-primary" style="width: 100%;">
-        Miro Design Board ↗
-      </a>
-    </div>
-
     <div>
       <h3>Quick Overview</h3>
       <p>
         Survive the apocalypse by preparing your base defenses during the day to hold off relentless zombie hordes at night. An intense first-person survival experience developed in <strong>Unreal Engine 5.8</strong>.
       </p>
-    </div>
-
-    <div>
-      <h3>Core Credits</h3>
-      <ul>
-        <li><strong>Format:</strong> Team Project (Team 01)</li>
-        <li><strong>Roles:</strong> Product Owner, Game Designer</li>
-        <li><strong>Producers:</strong> Camilla Davel Braga, Alex Loubenets</li>
-        <li><strong>Artist:</strong> Nadir Zahim</li>
-        <li><strong>Designers:</strong> Julián Perez Krohn, Gargeya Deshmukh, Nikoloz Ninua</li>
-      </ul>
     </div>
   </aside>
 
@@ -55,19 +38,9 @@ title: Zomvid-19
             <span class="value">Product Owner, Game Designer</span>
           </div>
           <div class="metadata-item">
-            <span class="label">Format</span>
-            <span class="value">Team Project (Team 01)</span>
-          </div>
-          <div class="metadata-item">
             <span class="label">Genre</span>
-            <span class="value">FPS / Base Fortification / Survival</span>
+            <span class="value">FPS / Survival-horror / Sandbox </span>
           </div>
-        </div>
-
-        <div class="btn-group">
-          <a href="https://miro.com/app/board/uXjVHvWENxQ=/?share_link_id=246443047222" target="_blank" class="btn btn-primary">
-            Explore Miro GDD & Kanban ↗
-          </a>
         </div>
       </div>
 
@@ -89,7 +62,7 @@ title: Zomvid-19
       <div class="feature-box">
         <h4>1. Player-Driven Fortification & Barricade Physics</h4>
         <p>
-          Unlike static-cover shooters, players actively build their own perimeter defense. Grab furniture, drag it to doorways, and physically nail it in place with a hammer (Right Mouse Button) to build resilient barricades. Place deadly defensive traps to halt advancing waves, or use your tools (J key) to deconstruct and reconfigure choke points on the fly.
+          Unlike static-cover shooters, players actively build their own perimeter defense. Grab furniture, drag it to doorways, and physically nail them in place to build resilient barricades. Place deadly defensive traps to halt advancing waves.
         </p>
       </div>
 
@@ -99,51 +72,23 @@ title: Zomvid-19
           Strategic tension is governed by a strict circadian cycle:
         </p>
         <ul>
-          <li><strong>Daylight Phase:</strong> Tactical calm dedicated to scouting, gathering randomized loot drops, boarding up windows, and tuning power distribution.</li>
-          <li><strong>Night Phase:</strong> High-stress combat trial where aggressive horde waves assault fortified choke points.</li>
+          <li><strong>Daylight Phase:</strong> Tactical calm dedicated to scouting, gathering randomized loot drops, "boarding up windows", and tuning power distribution.</li>
+          <li><strong>Night Phase:</strong> High-stress combat trial where aggressive horde waves assault player's fortress.</li>
         </ul>
       </div>
 
       <div class="feature-box">
         <h4>3. Power Management & Illumination Blueprints</h4>
         <p>
-          Darkness is a lethal hazard. Players must manage their base's electrical generator and power supply via the Power Menu (TAB key) to keep spotlights active. In addition, I created custom <strong>Fire Barrel Blueprints</strong> to light up dark perimeters, giving players sightlines on advancing infected.
+          Darkness is a lethal hazard. Players must manage their base's electrical generator and power supply via the Power Menu to keep spotlights active. Alternativelly, light barrels on fire to light up the perimeter, giving players sightlines on advancing infected.
         </p>
       </div>
 
       <div class="feature-box">
         <h4>4. Scavenging & Dynamic Loot System</h4>
         <p>
-          I designed and coded the <strong>Loot Spawner</strong> and <strong>Loot Manager</strong> Blueprints, dynamically seeding items, ammunition, and crafting materials across the compound so that every survival run yields distinct tactical choices.
+          The Loot Manager, dynamically spawns items, ammunition, and crafting materials across the compound so that every survival run yields distinct tactical choices. Exploration is rewarding but takes time that one would spend fortifying home.
         </p>
-      </div>
-
-      <h2>Player Controls & Mechanics</h2>
-      <div class="metadata-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
-        <div class="metadata-item">
-          <span class="label">Movement</span>
-          <span class="value">W, A, S, D & Spacebar (Jump)</span>
-        </div>
-        <div class="metadata-item">
-          <span class="label">Combat & Throw</span>
-          <span class="value">Left Mouse Button</span>
-        </div>
-        <div class="metadata-item">
-          <span class="label">Nail / Build</span>
-          <span class="value">RMB (with Hammer) / J (Remove)</span>
-        </div>
-        <div class="metadata-item">
-          <span class="label">Interact / Grab</span>
-          <span class="value">E key / G (Drop item)</span>
-        </div>
-        <div class="metadata-item">
-          <span class="label">Inventory & Reload</span>
-          <span class="value">Mouse Wheel, 1-4 / R (Reload)</span>
-        </div>
-        <div class="metadata-item">
-          <span class="label">Power Grid</span>
-          <span class="value">TAB (Power Menu)</span>
-        </div>
       </div>
 
       <h2>Production Leadership & Team Credits</h2>
@@ -166,10 +111,10 @@ title: Zomvid-19
         </div>
         <div class="metadata-item">
           <span class="label">Programmers</span>
-          <span class="value">Theo Choicoski, Ozan Turp, Sandee Srisawat (Jab)</span>
+          <span class="value">Theo Choicoski, Ozan Turp, Sandee Srisawat</span>
         </div>
         <div class="metadata-item">
-          <span class="label">3D Artist</span>
+          <span class="label">Artist</span>
           <span class="value">Nadir Zahim</span>
         </div>
         <div class="metadata-item">
