@@ -474,22 +474,24 @@ a.img-fullsize-link img {
   font-size: 0.78rem;
   font-weight: 400;
   letter-spacing: 0.03em;
-  color: var(--text-muted);
+  color: #ffffff;
   margin-bottom: 1rem;
-  padding: 0.5rem 0.95rem;
+  padding: 0.55rem 1.05rem;
   border-radius: 0;
-  background: rgba(16, 17, 23, 0.55);
-  border: 1px dashed rgba(255, 255, 255, 0.22);
+  background: rgba(168, 85, 247, 0.88);
+  border: 1px dashed rgba(255, 255, 255, 0.35);
   width: fit-content;
   clip-path: var(--clip-torn-btn);
   transform: rotate(-0.8deg);
+  box-shadow: 0 6px 18px rgba(168, 85, 247, 0.35);
 }
 
 .btn-back:hover {
-  color: var(--accent-purple-light);
-  border-color: var(--border-color-hover);
-  background: var(--accent-purple-bg);
-  transform: rotate(0deg);
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.55);
+  background: var(--accent-purple-hover);
+  transform: rotate(0deg) translateY(-2px);
+  filter: drop-shadow(0 0 12px rgba(168, 85, 247, 0.45));
 }
 
 /* Project Detail Case Study Pages */
