@@ -52,7 +52,7 @@ title: Julián Perez Krohn - Game Design Portfolio
         </p>
         <div class="about-photo-wrapper">
           <img alt="Julián Perez Krohn" src="Source/about/julian.jpg" class="about-photo" width="640" height="800" loading="lazy" decoding="async" />
-        </div>
+      </div>
       </div>
 
       <div class="about-col-secondary">
@@ -182,7 +182,9 @@ title: Julián Perez Krohn - Game Design Portfolio
 <main class="games-showcase-page">
   <div class="games-showcase-list">
     <article class="game-showcase-item">
-      <img class="game-poster-bg" src="Source/Zomvid19-Poster.png" alt="" fetchpriority="high" decoding="async" />
+      <div class="game-poster-frame">
+        <img class="game-poster-bg" src="Source/Zomvid19-Poster.png" alt="" fetchpriority="high" decoding="async" />
+      </div>
       <div class="game-overlay-container">
         <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="zomvid-19.html">Zomvid-19</a></h2>
@@ -200,7 +202,9 @@ title: Julián Perez Krohn - Game Design Portfolio
     </article>
 
     <article class="game-showcase-item">
-      <img class="game-poster-bg" src="Source/IHateFish-Poster.png" alt="" loading="lazy" decoding="async" />
+      <div class="game-poster-frame">
+        <img class="game-poster-bg" src="Source/IHateFish-Poster.png" alt="" loading="lazy" decoding="async" />
+      </div>
       <div class="game-overlay-container">
         <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="i-hate-fish.html">I HATE FISH</a></h2>
@@ -218,7 +222,9 @@ title: Julián Perez Krohn - Game Design Portfolio
     </article>
 
     <article class="game-showcase-item">
-      <img class="game-poster-bg" src="Source/Overbrewed-Poster.png" alt="" loading="lazy" decoding="async" />
+      <div class="game-poster-frame">
+        <img class="game-poster-bg" src="Source/Overbrewed-Poster.png" alt="" loading="lazy" decoding="async" />
+      </div>
       <div class="game-overlay-container">
         <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="overbrewed.html">OverBrewed</a></h2>
@@ -236,7 +242,9 @@ title: Julián Perez Krohn - Game Design Portfolio
     </article>
 
     <article class="game-showcase-item">
-      <img class="game-poster-bg" src="Source/NoAnimalCrossing-Poster.png" alt="" loading="lazy" decoding="async" />
+      <div class="game-poster-frame">
+        <img class="game-poster-bg" src="Source/NoAnimalCrossing-Poster.png" alt="" loading="lazy" decoding="async" />
+      </div>
       <div class="game-overlay-container">
         <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="NoAnimalCrossing.html">No* Animal Crossing</a></h2>
@@ -254,7 +262,9 @@ title: Julián Perez Krohn - Game Design Portfolio
     </article>
 
     <article class="game-showcase-item">
-      <img class="game-poster-bg" src="Source/ProjectTrash-Poster.png" alt="" loading="lazy" decoding="async" />
+      <div class="game-poster-frame">
+        <img class="game-poster-bg" src="Source/ProjectTrash-Poster.png" alt="" loading="lazy" decoding="async" />
+      </div>
       <div class="game-overlay-container">
         <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="ProjectTrash.html">Project Trash</a></h2>
@@ -272,7 +282,9 @@ title: Julián Perez Krohn - Game Design Portfolio
     </article>
 
     <article class="game-showcase-item">
-      <img class="game-poster-bg" src="Source/Necromeowcy-Poster.png" alt="" loading="lazy" decoding="async" />
+      <div class="game-poster-frame">
+        <img class="game-poster-bg" src="Source/Necromeowcy-Poster.png" alt="" loading="lazy" decoding="async" />
+      </div>
       <div class="game-overlay-container">
         <div class="game-card-header">
           <h2 class="game-overlay-title"><a href="Necromeowcy.html">Necromeowcy</a></h2>
