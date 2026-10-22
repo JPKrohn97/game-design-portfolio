@@ -126,6 +126,22 @@ a:hover {
   color: var(--accent-purple-hover);
 }
 
+/* Full-size image links (open asset in a new tab) */
+a.img-fullsize-link {
+  color: inherit;
+  text-decoration: none;
+  cursor: zoom-in;
+}
+
+a.img-fullsize-link:hover {
+  color: inherit;
+  text-shadow: none;
+}
+
+a.img-fullsize-link img {
+  cursor: zoom-in;
+}
+
 /* Layout */
 .layout {
   display: grid;
@@ -292,23 +308,35 @@ a:hover {
 
 .media-block {
   margin: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .media-block--center {
   text-align: center;
 }
 
+.media-block > a {
+  display: block;
+  max-width: min(100%, 720px);
+  width: 100%;
+}
+
 .media-block img,
 .media-constrained {
   width: 100%;
-  max-width: 100%;
+  max-width: min(100%, 720px);
+  height: auto;
   border-radius: var(--radius-md);
   display: block;
+  margin-inline: auto;
+  object-fit: contain;
 }
 
-.media-block--center .media-constrained {
-  max-width: 650px;
-  margin-inline: auto;
+.media-block--center .media-constrained,
+.media-block--center > a {
+  max-width: min(100%, 650px);
 }
 
 .media-caption {

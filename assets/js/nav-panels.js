@@ -157,4 +157,37 @@ document.addEventListener('DOMContentLoaded', () => {
       closeAllDrawers();
     }
   });
+
+  /**
+   * Make content images open at full size in a new tab.
+   * Decorative showcase backgrounds (.game-poster-bg) are skipped.
+   * Existing links are retargeted to the image src so click always shows the asset.
+   */
+  document.querySelectorAll('img:not(.game-poster-bg)').forEach((img) => {
+    const src = img.getAttribute('src');
+    if (!src) return;
+
+    let link = img.closest('a');
+    if (link) {
+      link.setAttribute('href', src);
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+      link.classList.add('img-fullsize-link');
+      if (!link.getAttribute('aria-label') && img.alt) {
+        link.setAttribute('aria-label', `Open full size: ${img.alt}`);
+      }
+      return;
+    }
+
+    link = document.createElement('a');
+    link.href = src;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.className = 'img-fullsize-link';
+    if (img.alt) {
+      link.setAttribute('aria-label', `Open full size: ${img.alt}`);
+    }
+    img.parentNode.insertBefore(link, img);
+    link.appendChild(img);
+  });
 });

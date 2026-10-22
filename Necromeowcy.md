@@ -64,9 +64,9 @@ title: Necromeowcy
         At first glance, "Borrowed Time" seemed like an unusual prompt for a strategy game. During our brainstorming sessions, necromancy emerged as a central theme. How could it be subverted? What if the necromancer isn't inherently evil, but uses the dead to serve the living for a strictly limited period of time?
       </p>
 
-      <div class="media-block">
+      <div class="media-block media-block--center">
         <a href="Source/media/necromeowcy/town.png" target="_blank" rel="noopener noreferrer">
-          <img class="media-constrained" src="Source/media/necromeowcy/town.png" alt="Necromeowcy Gameplay" loading="lazy" decoding="async" />
+          <img class="media-constrained" src="Source/media/necromeowcy/town.png" alt="Necromeowcy Gameplay" width="1018" height="753" loading="lazy" decoding="async" />
         </a>
         <p class="media-caption"><em>In-game town view and citizen management.</em></p>
       </div>
@@ -90,15 +90,15 @@ title: Necromeowcy
         </p>
       </div>
 
-      <div class="media-block">
+      <div class="media-block media-block--center">
         <a href="Source/media/necromeowcy/tutorial.png" target="_blank" rel="noopener noreferrer">
-          <img class="media-constrained" src="Source/media/necromeowcy/tutorial.png" alt="In-game tutorial" loading="lazy" decoding="async" />
+          <img class="media-constrained" src="Source/media/necromeowcy/tutorial.png" alt="In-game tutorial" width="1784" height="1059" loading="lazy" decoding="async" />
         </a>
         <p class="media-caption"><em>In-game guidance explaining the Purr and summon cycle.</em></p>
       </div>
 
-      <div class="media-block">
-        <img class="media-constrained" src="Source/media/necromeowcy/whiteboard.png" alt="Brainstormed mechanics and systems" loading="lazy" decoding="async" />
+      <div class="media-block media-block--center">
+        <img class="media-constrained" src="Source/media/necromeowcy/whiteboard.png" alt="Brainstormed mechanics and systems" width="1263" height="609" loading="lazy" decoding="async" />
         <p class="media-caption"><em>Original design whiteboard mapping systems, resources, and dependencies.</em></p>
       </div>
 
@@ -109,8 +109,8 @@ title: Necromeowcy
         </p>
       </div>
 
-      <div class="media-block">
-        <img class="media-constrained" src="Source/media/necromeowcy/events.png" alt="Event system prototype" loading="lazy" decoding="async" />
+      <div class="media-block media-block--center">
+        <img class="media-constrained" src="Source/media/necromeowcy/events.png" alt="Event system prototype" width="1187" height="714" loading="lazy" decoding="async" />
         <p class="media-caption"><em>Early event system mock-ups and narrative choices.</em></p>
       </div>
 
@@ -119,9 +119,9 @@ title: Necromeowcy
         To balance resource production and attrition, I built a dynamic spreadsheet simulation forecasting daily town metrics: population growth, natural mortality, food consumption, job distribution, inventory deficits, and upgrade thresholds for the Tier 2 Castle.
       </p>
 
-      <div class="media-block">
+      <div class="media-block media-block--center">
         <a href="Source/media/necromeowcy/economy.png" target="_blank" rel="noopener noreferrer">
-          <img class="media-constrained" src="Source/media/necromeowcy/economy.png" alt="Economy spreadsheet preview" loading="lazy" decoding="async" />
+          <img class="media-constrained" src="Source/media/necromeowcy/economy.png" alt="Economy spreadsheet preview" width="1821" height="573" loading="lazy" decoding="async" />
         </a>
       </div>
 
