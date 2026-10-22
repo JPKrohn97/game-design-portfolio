@@ -40,10 +40,10 @@
   --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.5);
   --shadow-glow: 0 0 25px rgba(168, 85, 247, 0.20);
   
-  /* Titles & buttons: Shadows Into Light | Body copy: Rock Salt */
-  --font-heading: 'Shadows Into Light', cursive, sans-serif;
-  --font-body: 'Rock Salt', cursive, sans-serif;
-  --font-grunge: 'Shadows Into Light', cursive, sans-serif;
+  /* Titles & buttons: Trade Winds | Body copy: Special Elite */
+  --font-heading: 'Trade Winds', cursive, sans-serif;
+  --font-body: 'Special Elite', cursive, sans-serif;
+  --font-grunge: 'Trade Winds', cursive, sans-serif;
 
   /* Shared torn-paper clip paths */
   --clip-torn-panel: polygon(
@@ -78,8 +78,8 @@ body {
   font-family: var(--font-body);
   background-color: var(--bg-base);
   color: var(--text-main);
-  line-height: 1.7;
-  font-size: 0.92rem;
+  line-height: 1.65;
+  font-size: 1rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -88,14 +88,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
   color: var(--text-main);
   font-weight: 400;
-  line-height: 1.25;
+  line-height: 1.3;
   letter-spacing: 0.02em;
 }
 
-h1 { font-size: 2.6rem; margin-bottom: 0.75rem; }
-h2 { font-size: 2rem; margin-top: 1.75rem; margin-bottom: 0.75rem; }
-h3 { font-size: 1.65rem; margin-top: 1.25rem; margin-bottom: 0.5rem; }
-h4 { font-size: 1.4rem; margin-top: 1rem; margin-bottom: 0.35rem; }
+h1 { font-size: 2.25rem; margin-bottom: 0.75rem; }
+h2 { font-size: 1.7rem; margin-top: 1.75rem; margin-bottom: 0.75rem; }
+h3 { font-size: 1.35rem; margin-top: 1.25rem; margin-bottom: 0.5rem; }
+h4 { font-size: 1.15rem; margin-top: 1rem; margin-bottom: 0.35rem; }
 
 p, li, label, blockquote, .media-caption, .sidebar-tagline,
 .about-bio-short, .game-overlay-desc, .metadata-item .value {
@@ -266,7 +266,7 @@ a.img-fullsize-link img {
   border: 1px dashed var(--accent-purple-border);
   color: var(--accent-purple-light);
   font-family: var(--font-grunge);
-  font-size: 1rem;
+  font-size: 0.82rem;
   font-weight: 400;
   letter-spacing: 0.03em;
   padding: 0.45rem 0.85rem;
@@ -379,7 +379,7 @@ a.img-fullsize-link img {
 
 .card-tag {
   font-family: var(--font-grunge);
-  font-size: 0.95rem;
+  font-size: 0.78rem;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -427,7 +427,7 @@ a.img-fullsize-link img {
   border-radius: 0;
   font-family: var(--font-grunge);
   font-weight: 400;
-  font-size: 1.2rem;
+  font-size: 0.95rem;
   letter-spacing: 0.04em;
   text-decoration: none;
   cursor: pointer;
@@ -472,7 +472,7 @@ a.img-fullsize-link img {
   align-items: center;
   gap: 0.4rem;
   font-family: var(--font-grunge);
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   font-weight: 400;
   letter-spacing: 0.03em;
   color: #ffffff;
@@ -509,7 +509,7 @@ a.img-fullsize-link img {
 
 .case-study-header .subtitle {
   font-family: var(--font-body);
-  font-size: 0.9rem;
+  font-size: 1.05rem;
   color: var(--accent-purple-light);
   font-weight: 400;
   margin-bottom: 1.25rem;
@@ -720,7 +720,7 @@ blockquote {
   border-right: 1px solid rgba(255, 255, 255, 0.07);
   color: var(--text-secondary);
   font-family: var(--font-grunge);
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 400;
   letter-spacing: 0.04em;
   cursor: pointer;
@@ -911,17 +911,17 @@ blockquote {
 
 .about-name {
   font-family: var(--font-heading);
-  font-size: 2.35rem;
+  font-size: 2rem;
   font-weight: 400;
   margin: 0;
-  line-height: 1.2;
+  line-height: 1.25;
 }
 
 .about-bio-short {
   font-family: var(--font-body);
   color: var(--text-secondary);
-  font-size: 0.88rem;
-  line-height: 1.65;
+  font-size: 1rem;
+  line-height: 1.6;
   margin-bottom: 0.5rem;
 }
 
@@ -965,7 +965,7 @@ blockquote {
   padding-left: 1.25rem;
   margin-bottom: 0.6rem;
   font-family: var(--font-body);
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   color: var(--text-secondary);
 }
 
@@ -1053,8 +1053,8 @@ blockquote {
   padding-top: 1.25rem;
   border-top: 1px dashed rgba(255, 255, 255, 0.12);
   font-family: var(--font-body);
-  font-size: 0.88rem;
-  line-height: 1.7;
+  font-size: 1rem;
+  line-height: 1.65;
 }
 
 .cosplay-wrapper {
@@ -1358,10 +1358,10 @@ blockquote {
 
 .game-overlay-title {
   font-family: var(--font-grunge);
-  font-size: 2.1rem;
+  font-size: 1.7rem;
   font-weight: 400;
   margin: 0;
-  line-height: 1.2;
+  line-height: 1.25;
   letter-spacing: 0.02em;
 }
 
@@ -1383,7 +1383,7 @@ blockquote {
 
 .game-overlay-tags .card-tag {
   font-family: var(--font-grunge);
-  font-size: 0.95rem;
+  font-size: 0.75rem;
   letter-spacing: 0.05em;
   padding: 0.2rem 0.55rem;
 }
@@ -1391,8 +1391,8 @@ blockquote {
 .game-overlay-desc {
   font-family: var(--font-body);
   color: #e2e8f0;
-  font-size: 0.82rem;
-  line-height: 1.65;
+  font-size: 0.95rem;
+  line-height: 1.6;
   margin: 0.25rem 0 0.5rem 0;
   flex-grow: 1;
 }
@@ -1405,7 +1405,7 @@ blockquote {
 
 .game-overlay-action .btn {
   font-family: var(--font-grunge);
-  font-size: 1.15rem;
+  font-size: 0.95rem;
   letter-spacing: 0.04em;
   padding: 0.65rem 1.4rem;
   width: 100%;
@@ -1414,7 +1414,7 @@ blockquote {
 
 .fav-subheading {
   font-family: var(--font-grunge);
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-weight: 400;
   color: var(--accent-purple-light);
   margin-top: 0;
@@ -1477,7 +1477,7 @@ blockquote {
   }
 
   .nav-tab-btn {
-    font-size: 0.95rem;
+    font-size: 0.8rem;
     gap: 0.35rem;
     padding: 0 0.35rem;
   }
