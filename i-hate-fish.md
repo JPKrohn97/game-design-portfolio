@@ -6,18 +6,18 @@ title: I HATE FISH
 <div class="layout">
   <aside class="sidebar">
     <a href="index.html" class="btn-back">← Back to portfolio</a>
-    
-    <a href="https://jpkrohn97.itch.io/i-hate-fish" target="_blank">
-      <img src="Source/IHateFish-Poster.png" alt="I HATE FISH Poster" style="width: 100%; border-radius: var(--radius-md);" />
+
+    <a href="https://jpkrohn97.itch.io/i-hate-fish" target="_blank" rel="noopener noreferrer">
+      <img class="sidebar-poster" src="Source/IHateFish-Poster.png" alt="I HATE FISH Poster" loading="lazy" decoding="async" />
     </a>
 
-    <div style="text-align: center; margin-top: 0.5rem;">
-      <h2 style="margin: 0.5rem 0;">I HATE FISH</h2>
-      <p style="color: var(--text-muted); font-size: 0.9rem;">The Kraken Boss Encounter</p>
+    <div class="sidebar-hero">
+      <h2>I HATE FISH</h2>
+      <p class="sidebar-tagline">The Kraken Boss Encounter</p>
     </div>
 
-    <div class="btn-group" style="justify-content: center;">
-      <a href="https://jpkrohn97.itch.io/i-hate-fish" target="_blank" class="btn btn-primary" style="width: 100%;">
+    <div class="btn-group btn-group--center btn-group--stack">
+      <a href="https://jpkrohn97.itch.io/i-hate-fish" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
         Play on itch.io ↗
       </a>
     </div>
@@ -44,7 +44,7 @@ title: I HATE FISH
       <div class="case-study-header">
         <h1>I HATE FISH</h1>
         <div class="subtitle">Underwater FPS Boss Encounter & Level Design Case Study</div>
-        
+
         <div class="metadata-grid">
           <div class="metadata-item">
             <span class="label">Engine</span>
@@ -67,7 +67,7 @@ title: I HATE FISH
 
       <h2>Gameplay Video</h2>
       <div class="responsive-iframe-container">
-        <iframe src="https://www.youtube.com/embed/b9l_qhYmrbY" title="I HATE FISH Gameplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/b9l_qhYmrbY" title="I HATE FISH Gameplay" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
 
       <h2>Project Overview & Creative Vision</h2>
@@ -80,18 +80,18 @@ title: I HATE FISH
 
       <h2>Level Design: From 2D Miro to Unreal</h2>
       <p>
-        As Level Designer, I started with a 2m tall player character as main reference, and then a 20m tall, 50m long and 30m Kraken. With these two values, I started sketching the general layout in miro board and I approached the space in two distinct beats: <strong>Tutorial Corridors</strong> and the <strong>Boss Arena</strong>. 
+        As Level Designer, I started with a 2m tall player character as main reference, and then a 20m tall, 50m long and 30m Kraken. With these two values, I started sketching the general layout in miro board and I approached the space in two distinct beats: <strong>Tutorial Corridors</strong> and the <strong>Boss Arena</strong>.
       </p>
 
       <div class="feature-box">
         <h4>Introductory Section</h4>
         <ul>
           <li><strong>Spawn:</strong> The player begins in a safe area with a distant structure foreshadowing the arena.</li>
-          <li><strong>Movement:</strong> After jumping through an opening into the water, the player must adapt into an underwater movement system, where they can explore safely and get used to the controls and rhythm. </li>
+          <li><strong>Movement:</strong> After jumping through an opening into the water, the player must adapt into an underwater movement system, where they can explore safely and get used to the controls and rhythm.</li>
           <li><strong>Mechanics:</strong> Then they are introduced to basic mechanics: toggling levers, navigating timed doors, the friendly healing crabs, and explosive barrels (used to open passages or hurt enemies).</li>
           <li><strong>Teasing Enemy:</strong> A windows allow players to glimpse looming aquatic threats pacing inside adjacent chambers, creating anticipation.</li>
           <li><strong>Level:</strong> Linear and claustrophobic.</li>
-          <li><strong>Increasing Threat:</strong> Finally, as the player move closer to the Arena, they are tested before the final confrotation.</li>
+          <li><strong>Increasing Threat:</strong> Finally, as the player move closer to the Arena, they are tested before the final confrontation.</li>
         </ul>
       </div>
 
@@ -109,7 +109,7 @@ title: I HATE FISH
       <div class="feature-box">
         <h4>"Swim Stroke" Movement</h4>
         <p>
-          Unreal's default underwayer character movement felt floaty, uninspired, and disconnected from underwater physics. I was responsible to overhaul the movement system:
+          Unreal's default underwater character movement felt floaty, uninspired, and disconnected from underwater physics. I was responsible to overhaul the movement system:
         </p>
         <ul>
           <li><strong>Rhythmic Impulse:</strong> Players can hold any movement key to swim at a slow, constant pace, or tap rhythmically to trigger forward thrusts replicating genuine swim strokes. The HUD provides with a visual indicator so the player can master the movement.</li>
@@ -123,7 +123,7 @@ title: I HATE FISH
       <div class="feature-box">
         <h4>Arena Rescaling for a Static Boss</h4>
         <p>
-          By the second week of out three weeks project, our team leader made the call to rework the boss fight by anchoring the Kraken, in order to meet the deadline.
+          By the second week of our three weeks project, our team leader made the call to rework the boss fight by anchoring the Kraken, in order to meet the deadline.
         </p>
         <p>
           I immediately redesigned new sketches: tightened the arena volume so the player could never feel completely out of danger, and introduced dedicated cover niches alongside a long-range tentacle slam attack so the boss could reach players attempting to exploit blind spots.

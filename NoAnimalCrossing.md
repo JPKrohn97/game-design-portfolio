@@ -6,19 +6,22 @@ title: No* Animal Crossing
 <div class="layout">
   <aside class="sidebar">
     <a href="index.html" class="btn-back">← Back to portfolio</a>
-    
-    <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank">
-      <img alt="No* Animal Crossing Poster" src="https://github.com/user-attachments/assets/9d298243-7b5f-4506-83f9-cc874c611b26" style="width: 100%; border-radius: var(--radius-md);" />
+
+    <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank" rel="noopener noreferrer">
+      <img class="sidebar-poster" src="Source/NoAnimalCrossing-Poster.png" alt="No* Animal Crossing Poster" loading="lazy" decoding="async" />
     </a>
 
-    <div style="text-align: center; margin-top: 0.5rem;">
-      <h2 style="margin: 0.5rem 0;">No* Animal Crossing</h2>
-      <p style="color: var(--text-muted); font-size: 0.9rem;">Arcade Lane-Defense Survival</p>
+    <div class="sidebar-hero">
+      <h2>No* Animal Crossing</h2>
+      <p class="sidebar-tagline">Arcade Lane-Defense Survival</p>
     </div>
 
-    <div class="btn-group" style="justify-content: center;">
-      <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank" class="btn btn-primary" style="width: 100%;">
+    <div class="btn-group btn-group--center btn-group--stack">
+      <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
         Play in Browser ↗
+      </a>
+      <a href="https://youtu.be/_bysra4bc88" target="_blank" rel="noopener noreferrer" class="btn btn-outline">
+        Watch Gameplay ↗
       </a>
     </div>
 
@@ -31,8 +34,8 @@ title: No* Animal Crossing
 
     <div>
       <h3>Gameplay Video</h3>
-      <a href="https://youtu.be/_bysra4bc88" target="_blank">
-        <img alt="Watch gameplay!" src="https://github.com/user-attachments/assets/2a5e9655-e0dc-4950-9ed2-3de901879cef" style="width: 100%; border-radius: var(--radius-md);" />
+      <a href="https://youtu.be/_bysra4bc88" target="_blank" rel="noopener noreferrer">
+        <img class="sidebar-poster" alt="Watch gameplay" src="Source/media/no-animal-crossing/trailer-thumb.png" loading="lazy" decoding="async" />
       </a>
     </div>
   </aside>
@@ -42,7 +45,7 @@ title: No* Animal Crossing
       <div class="case-study-header">
         <h1>No* Animal Crossing</h1>
         <div class="subtitle">An Arcade Lane-Defense Survival Game</div>
-        
+
         <div class="metadata-grid">
           <div class="metadata-item">
             <span class="label">Engine</span>
@@ -60,15 +63,6 @@ title: No* Animal Crossing
             <span class="label">Genre</span>
             <span class="value">Arcade / Lane Defense / Score Attack</span>
           </div>
-        </div>
-
-        <div class="btn-group">
-          <a href="https://jpkrohn97.itch.io/no-animal-crossing" target="_blank" class="btn btn-primary">
-            Play in Browser on itch.io ↗
-          </a>
-          <a href="https://youtu.be/_bysra4bc88" target="_blank" class="btn btn-outline">
-            Watch Gameplay ↗
-          </a>
         </div>
       </div>
 
@@ -102,29 +96,29 @@ title: No* Animal Crossing
 
       <h2>Gameplay Screenshots</h2>
       <div class="media-gallery">
-        <a href="https://github.com/user-attachments/assets/7a7d1ae2-8690-42e0-9d0b-dc7725977e69" target="_blank">
-          <img src="https://github.com/user-attachments/assets/7a7d1ae2-8690-42e0-9d0b-dc7725977e69" alt="Gameplay 1">
+        <a href="Source/media/no-animal-crossing/gameplay-1.png" target="_blank" rel="noopener noreferrer">
+          <img src="Source/media/no-animal-crossing/gameplay-1.png" alt="Gameplay 1" loading="lazy" decoding="async">
         </a>
-        <a href="https://github.com/user-attachments/assets/d6933f08-2f76-4a17-bf9f-293be40e52e7" target="_blank">
-          <img src="https://github.com/user-attachments/assets/d6933f08-2f76-4a17-bf9f-293be40e52e7" alt="Gameplay 2">
+        <a href="Source/media/no-animal-crossing/gameplay-2.png" target="_blank" rel="noopener noreferrer">
+          <img src="Source/media/no-animal-crossing/gameplay-2.png" alt="Gameplay 2" loading="lazy" decoding="async">
         </a>
-        <a href="https://github.com/user-attachments/assets/c878412f-066d-4eea-b81d-32817ac084ff" target="_blank">
-          <img src="https://github.com/user-attachments/assets/c878412f-066d-4eea-b81d-32817ac084ff" alt="Gameplay 3">
+        <a href="Source/media/no-animal-crossing/gameplay-3.png" target="_blank" rel="noopener noreferrer">
+          <img src="Source/media/no-animal-crossing/gameplay-3.png" alt="Gameplay 3" loading="lazy" decoding="async">
         </a>
-        <a href="https://github.com/user-attachments/assets/727347bc-b6ea-412f-a7f3-11116d44b963" target="_blank">
-          <img src="https://github.com/user-attachments/assets/727347bc-b6ea-412f-a7f3-11116d44b963" alt="Gameplay 4">
+        <a href="Source/media/no-animal-crossing/gameplay-4.png" target="_blank" rel="noopener noreferrer">
+          <img src="Source/media/no-animal-crossing/gameplay-4.png" alt="Gameplay 4" loading="lazy" decoding="async">
         </a>
       </div>
 
       <h2>Gameplay Features</h2>
-      
+
       <h3>Player Vehicles</h3>
       <p>
         The player has access to four distinct vehicles, each with unique speed, durability, cooldown, and tactical purpose. Vehicles can be activated individually to trigger a one-time temporary speed boost, increasing the chances to intercept enemies.
       </p>
 
-      <div class="projects-container" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); margin-top: 1rem;">
-        <div class="feature-box" style="margin: 0;">
+      <div class="feature-grid">
+        <div class="feature-box">
           <h4>Standard Car (Blue)</h4>
           <ul>
             <li>Balanced all-round vehicle</li>
@@ -134,7 +128,7 @@ title: No* Animal Crossing
           </ul>
         </div>
 
-        <div class="feature-box" style="margin: 0;">
+        <div class="feature-box">
           <h4>Fast Car (Red)</h4>
           <ul>
             <li>Highest speed in the game</li>
@@ -144,7 +138,7 @@ title: No* Animal Crossing
           </ul>
         </div>
 
-        <div class="feature-box" style="margin: 0;">
+        <div class="feature-box">
           <h4>Truck (Blue)</h4>
           <ul>
             <li>Slow but highly durable</li>
@@ -155,7 +149,7 @@ title: No* Animal Crossing
           </ul>
         </div>
 
-        <div class="feature-box" style="margin: 0;">
+        <div class="feature-box">
           <h4>Tanker (Red)</h4>
           <ul>
             <li>Slightly faster than the Truck</li>
@@ -208,9 +202,9 @@ title: No* Animal Crossing
         Does the game require skill? Yes—timing a vehicle to intercept animals moving at varying rhythms requires precision. Players also require strategic thinking: early waves are manageable, but late-game spawn rates overwhelm uncoordinated defense lines. Planning a continuous flow across all four vehicle types is key to sustaining high scores.
       </p>
 
-      <div style="text-align: center; margin: 1.5rem 0;">
-        <a href="https://github.com/user-attachments/assets/089dde3a-59fa-42ff-b258-c6da373f1fa5" target="_blank">
-          <img src="https://github.com/user-attachments/assets/089dde3a-59fa-42ff-b258-c6da373f1fa5" alt="Leaderboard" style="max-width: 650px; width: 100%; border-radius: var(--radius-md);" />
+      <div class="media-block media-block--center">
+        <a href="Source/media/no-animal-crossing/leaderboard.png" target="_blank" rel="noopener noreferrer">
+          <img class="media-constrained" src="Source/media/no-animal-crossing/leaderboard.png" alt="Leaderboard" loading="lazy" decoding="async" />
         </a>
         <blockquote>
           These are not the highest scores achieved, but they were the highest recorded by me during testing.

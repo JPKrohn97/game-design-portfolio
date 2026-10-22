@@ -6,35 +6,40 @@ published: false
 
 <div class="layout">
   <aside class="sidebar">
-    <a href="index.html" class="my-link"><strong>Back to portfolio.</strong></a>
-    <h1 style="text-align: center;">Ecdysis</h3>
-    <a href="https://futuregames.itch.io/ecdysis" target="_blank" class="my-link">
-      <strong>DOWNLOAD IT ITCH.IO</strong>
-    </a>
-  </aside>
-  <main class="content">
-    <section class="project-section">
-      <h2 style="text-align: center;">Development Process</h2>
-      <p>
-        <!-- Puedes agregar aquí tu descripción del proceso de desarrollo -->
-      </p>
-    </section>
-    <section class="project-section">
-      <h2 style="text-align: center;">Game Concept</h2>
-      <p>
-        <!-- Agrega aquí la descripción del concepto del juego -->
-      </p>
-    </section>
-    <section class="project-section">
-      <h2 style="text-align: center;">Jury Feedback</h2>
-      <p>
-        <!-- Agrega aquí el feedback del jurado -->
-      </p>
-    </section>
-    <section class="project-section">
-      <a href="https://github.com/user-attachments/assets/0a48f835-962a-498d-8f80-2dd9d1edd665" target="_blank">
-        <img src="https://github.com/user-attachments/assets/0a48f835-962a-498d-8f80-2dd9d1edd665" alt="gp2spoke" width="600" height="400">
+    <a href="index.html" class="btn-back">← Back to portfolio</a>
+
+    <div class="sidebar-hero">
+      <h2>Ecdysis</h2>
+    </div>
+
+    <div class="btn-group btn-group--center btn-group--stack">
+      <a href="https://futuregames.itch.io/ecdysis" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+        Download on itch.io ↗
       </a>
+    </div>
+  </aside>
+
+  <main class="content">
+    <section>
+      <div class="case-study-header">
+        <h1>Ecdysis</h1>
+        <div class="subtitle">Case study (draft)</div>
+      </div>
+
+      <h2>Development Process</h2>
+      <p><!-- Add development process notes here. --></p>
+
+      <h2>Game Concept</h2>
+      <p><!-- Add game concept notes here. --></p>
+
+      <h2>Jury Feedback</h2>
+      <p><!-- Add jury feedback here. --></p>
+
+      <div class="media-block">
+        <a href="Source/media/ecdysis/shot.jpg" target="_blank" rel="noopener noreferrer">
+          <img class="media-constrained" src="Source/media/ecdysis/shot.jpg" alt="Ecdysis gameplay" loading="lazy" decoding="async">
+        </a>
+      </div>
     </section>
   </main>
 </div>

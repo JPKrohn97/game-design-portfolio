@@ -6,18 +6,18 @@ title: OverBrewed
 <div class="layout">
   <aside class="sidebar">
     <a href="index.html" class="btn-back">← Back to portfolio</a>
-    
-    <a href="https://futuregames.itch.io/overbrewed" target="_blank">
-      <img src="Source/Overbrewed-Poster.png" alt="OverBrewed Poster" style="width: 100%; border-radius: var(--radius-md);" />
+
+    <a href="https://futuregames.itch.io/overbrewed" target="_blank" rel="noopener noreferrer">
+      <img class="sidebar-poster" src="Source/Overbrewed-Poster.png" alt="OverBrewed Poster" loading="lazy" decoding="async" />
     </a>
 
-    <div style="text-align: center; margin-top: 0.5rem;">
-      <h2 style="margin: 0.5rem 0;">OverBrewed</h2>
-      <p style="color: var(--text-muted); font-size: 0.9rem;">2-Player Co-op Shopkeeping & Potion Sim</p>
+    <div class="sidebar-hero">
+      <h2>OverBrewed</h2>
+      <p class="sidebar-tagline">2-Player Co-op Shopkeeping & Potion Sim</p>
     </div>
 
-    <div class="btn-group" style="justify-content: center;">
-      <a href="https://futuregames.itch.io/overbrewed" target="_blank" class="btn btn-primary" style="width: 100%;">
+    <div class="btn-group btn-group--center btn-group--stack">
+      <a href="https://futuregames.itch.io/overbrewed" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
         Play on itch.io ↗
       </a>
     </div>
@@ -35,7 +35,7 @@ title: OverBrewed
       <div class="case-study-header">
         <h1>OverBrewed</h1>
         <div class="subtitle">Asymmetrical Co-op Potion Brewing & Shop Management</div>
-        
+
         <div class="metadata-grid">
           <div class="metadata-item">
             <span class="label">Engine</span>
@@ -53,12 +53,6 @@ title: OverBrewed
             <span class="label">Genre</span>
             <span class="value">Co-op / Asymmetrical Simulation</span>
           </div>
-        </div>
-
-        <div class="btn-group">
-          <a href="https://futuregames.itch.io/overbrewed" target="_blank" class="btn btn-primary">
-            Download & Play on itch.io ↗
-          </a>
         </div>
       </div>
 
@@ -103,7 +97,7 @@ title: OverBrewed
       </div>
 
       <h2>Team & Production Credits</h2>
-      <div class="metadata-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
+      <div class="metadata-grid metadata-grid--credits">
         <div class="metadata-item">
           <span class="label">Product Owner</span>
           <span class="value">Julián Perez Krohn</span>
@@ -131,7 +125,7 @@ title: OverBrewed
       </div>
 
       <blockquote>
-        Development post-mortem & player metrics: (workin on it)
+        Development post-mortem & player metrics: (working on it)
       </blockquote>
     </section>
   </main>

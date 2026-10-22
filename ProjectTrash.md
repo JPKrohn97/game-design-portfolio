@@ -6,22 +6,25 @@ title: Project Trash
 <div class="layout">
   <aside class="sidebar">
     <a href="index.html" class="btn-back">← Back to portfolio</a>
-    
-    <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
-      <img alt="Project Trash Steam Link" src="https://github.com/user-attachments/assets/8070fd5c-c155-43b2-a0f3-1f5a9d6b0365" style="width: 100%; border-radius: var(--radius-md);" />
+
+    <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank" rel="noopener noreferrer">
+      <img class="sidebar-poster" alt="Project Trash on Steam" src="Source/media/project-trash/steam-header.png" loading="lazy" decoding="async" />
     </a>
 
-    <div style="text-align: center; margin-top: 0.5rem;">
-      <h2 style="margin: 0.5rem 0;">Project Trash</h2>
-      <p style="color: var(--text-muted); font-size: 0.9rem;">Endless Arcade Sorting</p>
+    <div class="sidebar-hero">
+      <h2>Project Trash</h2>
+      <p class="sidebar-tagline">Endless Arcade Sorting</p>
     </div>
 
-    <div class="btn-group" style="justify-content: center;">
-      <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank" class="btn btn-primary" style="width: 100%;">
+    <div class="btn-group btn-group--center btn-group--stack">
+      <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
         Download on Steam ↗
       </a>
-      <a href="https://futuregames.itch.io/projecttrash" target="_blank" class="btn btn-outline" style="width: 100%;">
+      <a href="https://futuregames.itch.io/projecttrash" target="_blank" rel="noopener noreferrer" class="btn btn-outline">
         Play on itch.io ↗
+      </a>
+      <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank" rel="noopener noreferrer" class="btn btn-outline">
+        Watch Teaser Trailer ↗
       </a>
     </div>
 
@@ -32,14 +35,12 @@ title: Project Trash
       </p>
     </div>
 
-    <div>
-      <img alt="Project Trash Poster" src="https://github.com/user-attachments/assets/f670b8bd-3973-445c-9522-025bd069a25d" style="width: 100%; border-radius: var(--radius-md);" />
-    </div>
+    <img class="sidebar-poster" alt="Project Trash Poster" src="Source/ProjectTrash-Poster.png" loading="lazy" decoding="async" />
 
     <div>
       <h3>Teaser Trailer</h3>
-      <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank">
-        <img src="https://github.com/user-attachments/assets/beba516a-c350-4a27-8b2f-9b007e394a72" alt="Click to watch trailer!" style="width: 100%; border-radius: var(--radius-md);" />
+      <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank" rel="noopener noreferrer">
+        <img class="sidebar-poster" src="Source/media/project-trash/trailer-thumb.png" alt="Click to watch trailer" loading="lazy" decoding="async" />
       </a>
     </div>
   </aside>
@@ -49,7 +50,7 @@ title: Project Trash
       <div class="case-study-header">
         <h1>Project Trash</h1>
         <div class="subtitle">An Endless Arcade Sorting Game</div>
-        
+
         <div class="metadata-grid">
           <div class="metadata-item">
             <span class="label">Engine</span>
@@ -68,23 +69,11 @@ title: Project Trash
             <span class="value">Arcade / Time Management / Survival</span>
           </div>
         </div>
-
-        <div class="btn-group">
-          <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank" class="btn btn-primary">
-            Get on Steam ↗
-          </a>
-          <a href="https://futuregames.itch.io/projecttrash" target="_blank" class="btn btn-outline">
-            Play on itch.io ↗
-          </a>
-          <a href="https://www.youtube.com/watch?v=0NN_dksL3Lo" target="_blank" class="btn btn-outline">
-            Watch Teaser Trailer ↗
-          </a>
-        </div>
       </div>
 
-      <div style="margin: 1.5rem 0;">
-        <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank">
-          <img alt="Project Trash Steam Capsule" src="https://github.com/user-attachments/assets/bdee13c3-58ca-4692-8cad-b7e5b0c453e3" style="width: 100%; border-radius: var(--radius-md);" />
+      <div class="media-block">
+        <a href="https://store.steampowered.com/app/4798760/Project_Trash/" target="_blank" rel="noopener noreferrer">
+          <img class="media-constrained" alt="Project Trash Steam Capsule" src="Source/media/project-trash/steam-capsule.png" loading="lazy" decoding="async" />
         </a>
       </div>
 
@@ -140,17 +129,17 @@ title: Project Trash
 
       <h2>In-Game Screenshots</h2>
       <div class="media-gallery">
-        <a href="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" target="_blank">
-          <img src="https://github.com/user-attachments/assets/2b0c3744-8bef-4b70-9ba3-e89ff933d293" alt="In-game screenshot" />
+        <a href="Source/media/project-trash/shot-1.png" target="_blank" rel="noopener noreferrer">
+          <img src="Source/media/project-trash/shot-1.png" alt="In-game screenshot" loading="lazy" decoding="async" />
         </a>
-        <a href="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" target="_blank">
-          <img src="https://github.com/user-attachments/assets/9789755b-a2b3-45af-a6cc-087372e422f6" alt="Full tray screenshot" />
+        <a href="Source/media/project-trash/shot-2.png" target="_blank" rel="noopener noreferrer">
+          <img src="Source/media/project-trash/shot-2.png" alt="Full tray screenshot" loading="lazy" decoding="async" />
         </a>
-        <a href="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea" target="_blank">
-          <img src="https://github.com/user-attachments/assets/dd715f60-b119-4e27-93b4-bed581cfd3ea" alt="Confetti celebration screenshot" />
+        <a href="Source/media/project-trash/shot-3.png" target="_blank" rel="noopener noreferrer">
+          <img src="Source/media/project-trash/shot-3.png" alt="Confetti celebration screenshot" loading="lazy" decoding="async" />
         </a>
-        <a href="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2" target="_blank">
-          <img src="https://github.com/user-attachments/assets/e0749abc-1b00-4065-a4be-269279f37cd2" alt="Game over scoreboard screenshot" />
+        <a href="Source/media/project-trash/shot-4.png" target="_blank" rel="noopener noreferrer">
+          <img src="Source/media/project-trash/shot-4.png" alt="Game over scoreboard screenshot" loading="lazy" decoding="async" />
         </a>
       </div>
     </section>

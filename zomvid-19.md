@@ -6,12 +6,12 @@ title: Zomvid-19
 <div class="layout">
   <aside class="sidebar">
     <a href="index.html" class="btn-back">← Back to portfolio</a>
-    
-    <img src="Source/Zomvid19-Poster.png" alt="Zomvid-19 Poster" style="width: 100%; border-radius: var(--radius-md);" />
-    
-    <div style="text-align: center; margin-top: 0.5rem;">
-      <h2 style="margin: 0.5rem 0;">Zomvid-19</h2>
-      <p style="color: var(--text-muted); font-size: 0.9rem;">Fortify, Scavenge & Survive</p>
+
+    <img class="sidebar-poster" src="Source/Zomvid19-Poster.png" alt="Zomvid-19 Poster" loading="lazy" decoding="async" />
+
+    <div class="sidebar-hero">
+      <h2>Zomvid-19</h2>
+      <p class="sidebar-tagline">Fortify, Scavenge & Survive</p>
     </div>
 
     <div>
@@ -27,7 +27,7 @@ title: Zomvid-19
       <div class="case-study-header">
         <h1>Zomvid-19</h1>
         <div class="subtitle">First-Person Zombie Survival & Player-Driven Barricade Defense</div>
-        
+
         <div class="metadata-grid">
           <div class="metadata-item">
             <span class="label">Engine</span>
@@ -39,17 +39,9 @@ title: Zomvid-19
           </div>
           <div class="metadata-item">
             <span class="label">Genre</span>
-            <span class="value">FPS / Survival-horror / Sandbox </span>
+            <span class="value">FPS / Survival-horror / Sandbox</span>
           </div>
         </div>
-      </div>
-
-      <h2>Trailer & Gameplay Footage</h2>
-      <div class="video-container">
-        <video controls preload="metadata" poster="Source/Zomvid19-Poster.png" class="featured-video">
-          <source src="Source/Zomvid19-Trailer.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
       </div>
 
       <h2>Game Overview & Premise</h2>
@@ -58,7 +50,7 @@ title: Zomvid-19
       </p>
 
       <h2>Core Design Pillars & Systems</h2>
-      
+
       <div class="feature-box">
         <h4>1. Player-Driven Fortification & Barricade Physics</h4>
         <p>
@@ -80,14 +72,14 @@ title: Zomvid-19
       <div class="feature-box">
         <h4>3. Power Management & Illumination Blueprints</h4>
         <p>
-          Darkness is a lethal hazard. Players must manage their base's electrical generator and power supply via the Power Menu to keep spotlights active. Alternativelly, light barrels on fire to light up the perimeter, giving players sightlines on advancing infected.
+          Darkness is a lethal hazard. Players must manage their base's electrical generator and power supply via the Power Menu to keep spotlights active. Alternatively, light barrels on fire to light up the perimeter, giving players sightlines on advancing infected.
         </p>
       </div>
 
       <div class="feature-box">
         <h4>4. Scavenging & Dynamic Loot System</h4>
         <p>
-          The Loot Manager, dynamically spawns items, ammunition, and crafting materials across the compound so that every survival run yields distinct tactical choices. Exploration is rewarding but takes time that one would spend fortifying home.
+          The Loot Manager dynamically spawns items, ammunition, and crafting materials across the compound so that every survival run yields distinct tactical choices. Exploration is rewarding but takes time that one would spend fortifying home.
         </p>
       </div>
 
@@ -96,7 +88,7 @@ title: Zomvid-19
         As Product Owner, Team Leader, and Producer, I guided the project from concept to Gold release: initialized the Unreal Engine project and GitHub repository, authored the GDD on Miro, ran daily agile standups, built the tutorial level, edited audio and video, and balanced core Blueprints.
       </p>
 
-      <div class="metadata-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
+      <div class="metadata-grid metadata-grid--credits">
         <div class="metadata-item">
           <span class="label">Product Owner & Team Lead</span>
           <span class="value">Julián Perez Krohn</span>
